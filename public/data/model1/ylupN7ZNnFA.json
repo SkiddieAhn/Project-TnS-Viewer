@@ -1,0 +1,204 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "public conflict",
+                "violence"
+            ],
+            "actions": [
+                "fighting",
+                "shouting",
+                "pushing",
+                "grabbing"
+            ],
+            "objects": [
+                "car",
+                "road sign"
+            ],
+            "characters": [
+                "motorists",
+                "bystanders"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "roadside",
+            "Gold Coast"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "fight",
+            "attack",
+            "altercation",
+            "motorists",
+            "public violence"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The scene depicts a clear physical altercation between multiple people on a public road, including grabbing, pushing, and apparent striking."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The video shows a public brawl and illegal activity (assault) stemming from a road rage incident, which is a controversial topic."
+            }
+        ],
+        "description": "A group of people are engaged in a physical fight on the side of a road in what appears to be a road rage incident. Two individuals are seen attacking a third person next to a red car, while others are involved in the struggle. The scene clearly depicts public violence, justifying the violence and controversy scores."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:06",
+        "end_time": "00:00:13",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression",
+                "distress"
+            ],
+            "themes": [
+                "road rage",
+                "public conflict",
+                "violence",
+                "intervention"
+            ],
+            "actions": [
+                "fighting",
+                "shouting",
+                "yelling",
+                "intervening"
+            ],
+            "objects": [
+                "car",
+                "road sign"
+            ],
+            "characters": [
+                "motorists",
+                "bystanders",
+                "Good Samaritan"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "roadside",
+            "Gold Coast"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "fight",
+            "intervention",
+            "Good Samaritan",
+            "yelling",
+            "profanity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The physical altercation continues with intensity, showing aggressive restraining and struggling between the individuals."
+            },
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "Audible profanity can be heard clearly in the audio track during the shouting."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene continues to show a public disturbance and illegal acts, which are controversial."
+            }
+        ],
+        "description": "The road rage fight continues as a bystander, described as a 'Good Samaritan' in the on-screen text, intervenes to break it up. The physical violence persists, and loud, aggressive shouting with audible profanity is present, contributing to the violence, profanity, and controversy scores."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:13",
+        "end_time": "00:00:21",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "tension",
+                "relief"
+            ],
+            "themes": [
+                "road rage",
+                "public conflict",
+                "intervention",
+                "de-escalation"
+            ],
+            "actions": [
+                "separating",
+                "pulling apart",
+                "shouting"
+            ],
+            "objects": [
+                "car",
+                "road sign"
+            ],
+            "characters": [
+                "motorists",
+                "Good Samaritan"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "roadside",
+            "Gold Coast"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "fight",
+            "de-escalation",
+            "intervention",
+            "breaking up fight"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "Although the fight is being de-escalated, the scene is still focused on the physical struggle as the individuals are forcibly separated."
+            },
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "Aggressive shouting and audible profanity continue as the parties are separated."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene shows the immediate aftermath and de-escalation of a violent public brawl, which remains a controversial subject."
+            }
+        ],
+        "description": "With the help of the intervening bystander, the individuals involved in the fight are pulled apart. The scene still depicts a high degree of physical struggle during the separation, maintaining the violence score. Aggressive shouting with profanity continues, which supports the profanity and controversy scores, as the conflict de-escalates."
+    }
+]

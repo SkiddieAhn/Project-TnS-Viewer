@@ -1,0 +1,4944 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:10",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "confusion"
+            ],
+            "themes": [
+                "road rage",
+                "driving incident"
+            ],
+            "actions": [
+                "driving",
+                "pulling over",
+                "speaking"
+            ],
+            "objects": [
+                "car",
+                "pickup truck",
+                "road"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Bloomfield, Pennsylvania",
+            "rural road"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "driving",
+            "confrontation",
+            "profanity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "The F-word is used once."
+            }
+        ],
+        "description": "A dashcam video from a car following a black pickup truck shows the truck slowing down and pulling over. The driver of the dashcam car expresses annoyance and confusion, using the F-word once."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:10",
+        "end_time": "00:00:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "confrontation",
+                "verbal altercation"
+            ],
+            "actions": [
+                "getting out of a car",
+                "walking",
+                "gesturing",
+                "shouting",
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "pickup truck",
+                "road"
+            ],
+            "characters": [
+                "male driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Bloomfield, Pennsylvania",
+            "rural road"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "confrontation",
+            "argument",
+            "shouting",
+            "profanity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 3,
+                "explanation": "The words 'ass' and 'jackass' are used."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A tense verbal altercation with aggressive posturing, but no physical violence."
+            }
+        ],
+        "description": "The driver of the pickup truck exits his vehicle and confronts the driver of the dashcam car. He angrily shouts and gestures, accusing the other driver of tailgating and using profane language like 'jackass'."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:26",
+        "end_time": "00:00:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "threats",
+                "verbal altercation"
+            ],
+            "actions": [
+                "shouting",
+                "threatening"
+            ],
+            "objects": [
+                "car",
+                "pickup truck"
+            ],
+            "characters": [
+                "male driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Bloomfield, Pennsylvania",
+            "rural road"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "confrontation",
+            "threats",
+            "profanity",
+            "shouting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 4,
+                "explanation": "The F-word is used multiple times as a threat and insult."
+            },
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The man makes explicit verbal threats to damage property ('break your f-ing lights out', 'f your mirror off')."
+            }
+        ],
+        "description": "The confrontation escalates as the truck driver verbally threatens to break the other driver's lights and mirror, using the F-word repeatedly. When told he's being recorded, he dismisses it and continues shouting."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:00:40",
+        "end_time": "00:00:46",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger"
+            ],
+            "themes": [
+                "road rage",
+                "confrontation"
+            ],
+            "actions": [
+                "shouting",
+                "walking"
+            ],
+            "objects": [
+                "car",
+                "pickup truck"
+            ],
+            "characters": [
+                "male driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Bloomfield, Pennsylvania",
+            "rural road"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "confrontation",
+            "argument"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene shows the tail end of a verbal altercation with shouting, but the specific threats have ceased."
+            }
+        ],
+        "description": "The angry truck driver continues to shout unintelligibly as he walks back to his vehicle, concluding the roadside confrontation."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:00:46",
+        "end_time": "00:01:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "driving"
+            ],
+            "actions": [
+                "driving",
+                "turning"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "houses",
+                "road"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Maryville, Tennessee",
+            "residential neighborhood"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "driving",
+            "dashcam",
+            "residential area",
+            "following"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "In a new dashcam clip from Maryville, Tennessee, a car is driving on a residential street when a white SUV pulls out. The dashcam car follows the SUV through the neighborhood."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:01:04",
+        "end_time": "00:01:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anticipation",
+                "confusion"
+            ],
+            "themes": [
+                "driving incident",
+                "confrontation"
+            ],
+            "actions": [
+                "driving",
+                "stopping",
+                "getting out of a car",
+                "walking"
+            ],
+            "objects": [
+                "car",
+                "pickup truck",
+                "work truck",
+                "houses",
+                "road"
+            ],
+            "characters": [
+                "male driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Ford"
+            ]
+        },
+        "locations": [
+            "Maryville, Tennessee",
+            "residential neighborhood"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "blocked road",
+            "confrontation",
+            "residential street"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The dashcam car's path is blocked by two parked trucks on a narrow residential street. The driver of a white work truck gets out and walks towards the dashcam car, initiating a confrontation."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:01:16",
+        "end_time": "00:01:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calmness"
+            ],
+            "themes": [
+                "confrontation",
+                "misunderstanding",
+                "de-escalation"
+            ],
+            "actions": [
+                "talking",
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "truck"
+            ],
+            "characters": [
+                "male driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Ford"
+            ]
+        },
+        "locations": [
+            "Maryville, Tennessee",
+            "residential neighborhood"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "confrontation",
+            "argument",
+            "de-escalation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The driver of the work truck confronts the dashcam driver. The dashcam driver attempts to de-escalate the situation, calmly telling the other man that everything is fine and he can proceed."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:01:24",
+        "end_time": "00:01:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "threats",
+                "verbal altercation"
+            ],
+            "actions": [
+                "shouting",
+                "threatening",
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "truck"
+            ],
+            "characters": [
+                "male driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Ford"
+            ]
+        },
+        "locations": [
+            "Maryville, Tennessee",
+            "residential neighborhood"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "confrontation",
+            "threats",
+            "profanity",
+            "shouting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 5,
+                "explanation": "Multiple uses of the F-word, 'goddamn', and other profanity in a threatening context."
+            },
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The man makes an explicit verbal threat to run over the other driver's car."
+            }
+        ],
+        "description": "The confrontation escalates as the truck driver becomes aggressive, accusing the dashcam driver of brake-checking him. He uses the F-word multiple times and verbally threatens to 'run over' the dashcam driver's car."
+    },
+    {
+        "scene_id": "scene_0008",
+        "start_time": "00:01:40",
+        "end_time": "00:01:55",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "threats",
+                "verbal altercation"
+            ],
+            "actions": [
+                "shouting",
+                "threatening",
+                "walking away"
+            ],
+            "objects": [
+                "car",
+                "truck"
+            ],
+            "characters": [
+                "male driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Ford"
+            ]
+        },
+        "locations": [
+            "Maryville, Tennessee",
+            "residential neighborhood"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "confrontation",
+            "threats",
+            "profanity",
+            "shouting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 5,
+                "explanation": "Explicit and aggressive use of the F-word and other derogatory terms like 'p**** ass'."
+            },
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The man makes a veiled but clear threat of physical violence ('stomp your...ass')."
+            }
+        ],
+        "description": "The truck driver continues his aggressive, profane tirade, issuing more threats of violence, including telling the driver someone will 'stomp your p**** ass.' He then walks away from the car."
+    },
+    {
+        "scene_id": "scene_0009",
+        "start_time": "00:01:55",
+        "end_time": "00:02:05",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calmness",
+                "happiness"
+            ],
+            "themes": [
+                "neighborhood life",
+                "children playing",
+                "safe driving"
+            ],
+            "actions": [
+                "driving",
+                "playing",
+                "walking"
+            ],
+            "objects": [
+                "car",
+                "houses",
+                "trees",
+                "trash cans"
+            ],
+            "characters": [
+                "children",
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Sterling, Virginia",
+            "residential neighborhood"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "children playing",
+            "residential street",
+            "sunny day",
+            "safe driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "In a new dashcam clip from Sterling, Virginia, a car drives cautiously down a sunny residential street where several children are playing in the road and on the sidewalks."
+    },
+    {
+        "scene_id": "scene_0010",
+        "start_time": "00:02:05",
+        "end_time": "00:02:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "confrontational"
+            ],
+            "themes": [
+                "public conflict",
+                "accusation"
+            ],
+            "actions": [
+                "driving",
+                "walking",
+                "stopping",
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "house"
+            ],
+            "characters": [
+                "driver",
+                "woman"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "suburban street",
+            "cul-de-sac"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "confrontation",
+            "speeding accusation",
+            "suburban dispute"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no physical violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "A woman confronts a driver and accuses him of speeding, leading to a verbal argument."
+            }
+        ],
+        "description": "A dashcam captures the moment a car is stopped by a woman in the middle of a suburban street. The woman accuses the driver of speeding and demands to see their driver's license, initiating a verbal confrontation."
+    },
+    {
+        "scene_id": "scene_0011",
+        "start_time": "00:02:25",
+        "end_time": "00:02:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "annoyance",
+                "aggression"
+            ],
+            "themes": [
+                "public conflict",
+                "harassment"
+            ],
+            "actions": [
+                "arguing",
+                "shouting",
+                "threatening"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "driver",
+                "woman"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "suburban street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "verbal altercation",
+            "road rage",
+            "harassment",
+            "shouting",
+            "public argument"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no physical violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The confrontation escalates with the woman shouting, making threats to contact the driver's parents, and accusing him of intentional bad behavior."
+            }
+        ],
+        "description": "The confrontation escalates as the woman aggressively argues with the driver. She threatens to contact his mother and repeatedly shouts at him, accusing him of intentionally speeding through the cul-de-sac. This heated verbal exchange contributes to the controversy score."
+    },
+    {
+        "scene_id": "scene_0012",
+        "start_time": "00:02:57",
+        "end_time": "00:03:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "frustration"
+            ],
+            "themes": [
+                "public conflict",
+                "detainment"
+            ],
+            "actions": [
+                "arguing",
+                "demanding",
+                "blocking"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "driver",
+                "woman"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "suburban street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "verbal dispute",
+            "road rage",
+            "false imprisonment",
+            "demanding information"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no physical violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The woman continues to block the driver's path, demanding personal information and refusing to let him leave, effectively detaining him."
+            }
+        ],
+        "description": "The woman continues her demands for the driver's license and his mother's contact information, refusing to let him leave. The driver's attempts to apologize and de-escalate are ignored, creating a tense situation where he is effectively being detained."
+    },
+    {
+        "scene_id": "scene_0013",
+        "start_time": "00:03:23",
+        "end_time": "00:03:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "authoritative"
+            ],
+            "themes": [
+                "public conflict",
+                "invasion of privacy"
+            ],
+            "actions": [
+                "arguing",
+                "taking a photo"
+            ],
+            "objects": [
+                "car",
+                "license plate",
+                "smartphone"
+            ],
+            "characters": [
+                "driver",
+                "woman",
+                "man"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "suburban street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "license plate",
+            "doxxing threat",
+            "public record",
+            "confrontation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no physical violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A man photographs the car's license plate at the woman's direction, and she threatens to use this public record to identify the driver and his family."
+            }
+        ],
+        "description": "A man joins the woman, and she instructs him to photograph the car's license plate. She informs the driver they will look up the public record associated with the plate, escalating the situation by threatening to identify him and his family."
+    },
+    {
+        "scene_id": "scene_0014",
+        "start_time": "00:03:42",
+        "end_time": "00:04:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "smugness"
+            ],
+            "themes": [
+                "public conflict",
+                "harassment"
+            ],
+            "actions": [
+                "arguing",
+                "accusing",
+                "threatening",
+                "leaving"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "driver",
+                "woman",
+                "man"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "suburban street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "verbal dispute",
+            "harassment",
+            "false accusation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no physical violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The woman continues berating the driver and threatens to file a 'report' with his family before finally letting him leave."
+            }
+        ],
+        "description": "The woman continues to berate the driver, falsely accusing him of 'flying down the street.' After obtaining his license plate information, she dismisses him, stating they will file a 'report' with his family. The driver is finally able to leave, ending the confrontation."
+    },
+    {
+        "scene_id": "scene_0015",
+        "start_time": "00:04:18",
+        "end_time": "00:04:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "aftermath",
+                "legal recourse"
+            ],
+            "actions": [
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "text overlay"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "suburban street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "harassment",
+            "legal action",
+            "aftermath"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "This scene shows the aftermath and a text overlay indicating the driver's intent."
+            }
+        ],
+        "description": "As the driver pulls away, a text overlay appears, stating their intention to seek legal means to prevent future harassment from the woman."
+    },
+    {
+        "scene_id": "scene_0016",
+        "start_time": "00:04:23",
+        "end_time": "00:04:39",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "impatience",
+                "annoyance"
+            ],
+            "themes": [
+                "traffic",
+                "pedestrian interaction"
+            ],
+            "actions": [
+                "driving",
+                "waiting",
+                "walking",
+                "shouting"
+            ],
+            "objects": [
+                "car",
+                "traffic light",
+                "crosswalk"
+            ],
+            "characters": [
+                "driver",
+                "pedestrian"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "BMW"
+            ]
+        },
+        "locations": [
+            "city street",
+            "New York"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "traffic",
+            "crosswalk",
+            "pedestrian",
+            "impatience",
+            "road rage"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no physical violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A driver gets impatient and yells at a pedestrian who is walking slowly, marking the start of a road rage incident."
+            }
+        ],
+        "description": "In a new dashcam clip from New York, a driver waits at a traffic light while a pedestrian slowly crosses the street. The driver expresses impatience, shouting 'Come on' as the pedestrian dawdles."
+    },
+    {
+        "scene_id": "scene_0017",
+        "start_time": "00:04:39",
+        "end_time": "00:05:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "public conflict",
+                "impeding traffic"
+            ],
+            "actions": [
+                "shouting",
+                "blocking",
+                "arguing",
+                "gesturing obscenely"
+            ],
+            "objects": [
+                "car",
+                "crosswalk",
+                "umbrella"
+            ],
+            "characters": [
+                "driver",
+                "pedestrian"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city street",
+            "New York"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "confrontation",
+            "pedestrian blocking car",
+            "swearing",
+            "obscene gesture",
+            "middle finger"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A pedestrian physically blocks a car from moving at a green light, creating a potentially dangerous confrontation."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A heated verbal argument occurs, featuring shouting, profanity ('asshole'), and an obscene gesture (middle finger) from the pedestrian."
+            }
+        ],
+        "description": "The conflict escalates as the pedestrian intentionally stops in front of the car, blocking its path despite the green light. The driver shouts at him to move, leading to a heated argument. The pedestrian makes an obscene gesture (middle finger) and the driver responds with profanity ('asshole'), justifying the controversy score."
+    },
+    {
+        "scene_id": "scene_0018",
+        "start_time": "00:05:07",
+        "end_time": "00:05:20",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "traffic violation",
+                "bad parking"
+            ],
+            "actions": [
+                "driving",
+                "approaching",
+                "observing"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "bike lane"
+            ],
+            "characters": [
+                "driver",
+                "rider"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Toyota"
+            ]
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "bad parking",
+            "blocking lane",
+            "Toyota Camry",
+            "traffic violation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene simply shows a badly parked car."
+            }
+        ],
+        "description": "A pov camera, likely from a bicycle or motorcycle, approaches a silver Toyota Camry that is poorly parked, partially obstructing a lane of traffic or a bike lane."
+    },
+    {
+        "scene_id": "scene_0019",
+        "start_time": "00:05:20",
+        "end_time": "00:05:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger"
+            ],
+            "themes": [
+                "traffic accident",
+                "reckless driving",
+                "close call"
+            ],
+            "actions": [
+                "driving",
+                "pulling out",
+                "cutting off",
+                "near collision"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "car driver",
+                "rider"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Toyota"
+            ]
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "car accident",
+            "close call",
+            "reckless driving",
+            "cutting off",
+            "unsafe lane change"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A car pulls out directly into the path of another road user, causing a dangerous near-collision. This depicts a reckless act with a high potential for causing physical harm or a serious accident."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a clear instance of reckless driving."
+            }
+        ],
+        "description": "The parked Toyota Camry abruptly pulls out into the path of the approaching rider without warning, resulting in a dangerous close call or minor collision. This act of reckless driving created a high-risk situation, justifying a moderate violence score due to the potential for injury."
+    },
+    {
+        "scene_id": "scene_0020",
+        "start_time": "00:05:40",
+        "end_time": "00:05:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tense"
+            ],
+            "themes": [
+                "road rage aftermath",
+                "law enforcement"
+            ],
+            "actions": [
+                "driving",
+                "following"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Toyota",
+                "Kia"
+            ]
+        },
+        "locations": [
+            "road"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "following",
+            "road rage",
+            "assault",
+            "arrest"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The on-screen text mentions 'assault with a deadly weapon', which introduces a violent theme, but no violent acts are shown in the clip itself."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The text discusses a criminal being released by the District Attorney for 'lack of evidence', which is a potentially controversial legal topic."
+            }
+        ],
+        "description": "Dashcam footage shows a driver following a silver sedan. On-screen text explains that 911 advised against following the car and that the other driver was arrested for assault with a deadly weapon but later released. The scene implies a prior violent incident and touches on a controversial legal outcome."
+    },
+    {
+        "scene_id": "scene_0021",
+        "start_time": "00:05:58",
+        "end_time": "00:06:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "tension"
+            ],
+            "themes": [
+                "road rage",
+                "traffic dispute"
+            ],
+            "actions": [
+                "driving",
+                "honking"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "road"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "road",
+            "Youngsville, North Carolina"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "road rage",
+            "traffic",
+            "honking",
+            "reckless driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A minor traffic dispute is shown where one driver appears to cut off another."
+            },
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no violence in this scene."
+            }
+        ],
+        "description": "From a dashcam's perspective, a green SUV is seen driving on the shoulder to cut into traffic. The dashcam driver gives a short honk, which instigates a confrontation with the other driver."
+    },
+    {
+        "scene_id": "scene_0022",
+        "start_time": "00:06:18",
+        "end_time": "00:06:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "road rage",
+                "verbal dispute"
+            ],
+            "actions": [
+                "arguing",
+                "shouting",
+                "cursing"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "road"
+            ],
+            "characters": [
+                "driver",
+                "angry driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "road",
+            "Youngsville, North Carolina"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "road rage",
+            "argument",
+            "shouting",
+            "profanity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "The phrase 'F you' is clearly audible."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a heated verbal altercation between two drivers, including insults and profanity."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The shouting and aggressive language represent a low level of verbal aggression, but no physical violence occurs."
+            }
+        ],
+        "description": "The drivers of two vehicles engage in a heated verbal altercation. They argue about a near-miss, which escalates to shouting, insults like 'learn how to drive', and one driver yelling 'F you!' at the other."
+    },
+    {
+        "scene_id": "scene_0023",
+        "start_time": "00:06:33",
+        "end_time": "00:07:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "danger"
+            ],
+            "themes": [
+                "road rage",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "swerving",
+                "brake checking"
+            ],
+            "objects": [
+                "car",
+                "highway",
+                "traffic"
+            ],
+            "characters": [
+                "reckless driver"
+            ],
+            "weather": [
+                "sunny",
+                "cloudy"
+            ],
+            "brands": [
+                "Mercedes-Benz",
+                "BMW"
+            ]
+        },
+        "locations": [
+            "highway",
+            "New York"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "reckless driving",
+            "road rage",
+            "dangerous driving",
+            "brake check"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The act of reckless driving, including aggressive swerving and brake-checking in traffic, creates a highly dangerous situation and can be considered a form of aggressive behavior with the potential for serious harm."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The video shows illegal and extremely dangerous driving behavior on a public highway."
+            }
+        ],
+        "description": "Dashcam footage captures a silver Mercedes driving recklessly on a busy highway. The driver weaves aggressively between lanes, cuts off other vehicles, and appears to brake-check them, creating a dangerous situation."
+    },
+    {
+        "scene_id": "scene_0024",
+        "start_time": "00:07:09",
+        "end_time": "00:07:22",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger"
+            ],
+            "themes": [
+                "traffic incident",
+                "near miss",
+                "lane splitting"
+            ],
+            "actions": [
+                "riding motorcycle",
+                "lane splitting",
+                "braking suddenly"
+            ],
+            "objects": [
+                "motorcycle",
+                "car",
+                "truck",
+                "road"
+            ],
+            "characters": [
+                "motorcyclist"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "road",
+            "Phoenix, Arizona"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "motorcycle",
+            "lane splitting",
+            "near miss",
+            "close call",
+            "dangerous driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A dangerous traffic incident is shown that could have resulted in a collision and injury, representing a low level of situational danger."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The clip shows a near-accident on a public road."
+            }
+        ],
+        "description": "From a motorcyclist's point-of-view, they are lane splitting through traffic when another vehicle makes a sudden lane change, nearly causing a collision. The scene captures a tense near-miss."
+    },
+    {
+        "scene_id": "scene_0025",
+        "start_time": "00:07:22",
+        "end_time": "00:07:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "disbelief"
+            ],
+            "themes": [
+                "traffic accident",
+                "collision"
+            ],
+            "actions": [
+                "driving",
+                "hitting",
+                "crashing"
+            ],
+            "objects": [
+                "motorcycle",
+                "minivan"
+            ],
+            "characters": [
+                "motorcyclist",
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Chrysler"
+            ]
+        },
+        "locations": [
+            "roadside",
+            "Phoenix, Arizona"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "motorcycle accident",
+            "car crash",
+            "collision",
+            "rear-ended"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A vehicle collision is explicitly shown. A minivan rear-ends a stationary motorcycle, causing property damage and a high potential for injury."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a clear traffic accident."
+            }
+        ],
+        "description": "A motorcyclist, stopped on the side of the road, is suddenly rear-ended by a white minivan. The impact is shown clearly, knocking the motorcycle to the ground. This scene depicts a vehicular collision."
+    },
+    {
+        "scene_id": "scene_0026",
+        "start_time": "00:07:33",
+        "end_time": "00:08:05",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "disbelief",
+                "frustration",
+                "confusion"
+            ],
+            "themes": [
+                "post-accident",
+                "confrontation",
+                "argument"
+            ],
+            "actions": [
+                "arguing",
+                "questioning",
+                "denying"
+            ],
+            "objects": [
+                "minivan",
+                "motorcycle"
+            ],
+            "characters": [
+                "motorcyclist",
+                "female driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Chrysler"
+            ]
+        },
+        "locations": [
+            "roadside",
+            "Phoenix, Arizona"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "accident aftermath",
+            "argument",
+            "confrontation",
+            "driver",
+            "motorcyclist"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "A tense verbal dispute between two people following a traffic accident is shown."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene contains a verbal confrontation but no physical violence."
+            }
+        ],
+        "description": "Following the collision, the motorcyclist confronts the female driver of the minivan. A verbal dispute ensues, with the rider expressing disbelief and the driver appearing confused and denying she hit him. The scene captures a tense post-accident argument."
+    },
+    {
+        "scene_id": "scene_0027",
+        "start_time": "00:08:05",
+        "end_time": "00:08:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "resignation",
+                "annoyance"
+            ],
+            "themes": [
+                "de-escalation"
+            ],
+            "actions": [
+                "talking",
+                "leaving",
+                "driving away"
+            ],
+            "objects": [
+                "motorcycle",
+                "minivan"
+            ],
+            "characters": [
+                "motorcyclist",
+                "female driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Chrysler"
+            ]
+        },
+        "locations": [
+            "roadside",
+            "Phoenix, Arizona"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "de-escalation",
+            "accident",
+            "letting it go"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The conflict is resolved peacefully."
+            },
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "The scene shows de-escalation of a conflict with no violence."
+            }
+        ],
+        "description": "The motorcyclist assesses that there is no significant damage to his bike. Text on screen indicates he was late for work and decided to let the incident go. He tells the driver to get off the road and then rides away, de-escalating the confrontation."
+    },
+    {
+        "scene_id": "scene_0028",
+        "start_time": "00:08:22",
+        "end_time": "00:08:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance"
+            ],
+            "themes": [
+                "pedestrian safety",
+                "jaywalking"
+            ],
+            "actions": [
+                "driving",
+                "walking",
+                "jaywalking"
+            ],
+            "objects": [
+                "car",
+                "crosswalk",
+                "traffic light"
+            ],
+            "characters": [
+                "driver",
+                "pedestrians"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "intersection",
+            "Lake Stevens, Washington"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "jaywalking",
+            "pedestrians",
+            "crosswalk",
+            "close call",
+            "intersection"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene shows pedestrians violating traffic laws by crossing against a signal, which is a minor controversial act."
+            },
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no violence in this scene."
+            }
+        ],
+        "description": "Dashcam footage shows a car with a green light proceeding through an intersection. Two pedestrians ignore the signal and cross the street directly in the car's path, forcing the driver to slow down."
+    },
+    {
+        "scene_id": "scene_0029",
+        "start_time": "00:08:33",
+        "end_time": "00:08:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "fear",
+                "anger"
+            ],
+            "themes": [
+                "traffic violation",
+                "near miss",
+                "red light running"
+            ],
+            "actions": [
+                "driving",
+                "turning",
+                "running red light",
+                "honking"
+            ],
+            "objects": [
+                "car",
+                "intersection",
+                "traffic light"
+            ],
+            "characters": [
+                "driver",
+                "reckless driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Hyundai"
+            ]
+        },
+        "locations": [
+            "intersection",
+            "Marietta, Georgia"
+        ],
+        "genre": "real-life",
+        "language": "en-US",
+        "keywords": [
+            "near miss",
+            "red light runner",
+            "intersection",
+            "dashcam",
+            "dangerous driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A highly dangerous traffic violation is shown which almost causes a severe collision. This reckless action endangers lives and represents a high potential for violent impact and harm."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The video clearly shows a driver running a red light at an intersection, a serious and illegal traffic offense."
+            }
+        ],
+        "description": "At an intersection, a driver with a green arrow begins to turn left. A black sedan from the opposing traffic runs its red light at speed, cutting directly in front of the turning car and narrowly avoiding a major collision. The dashcam driver honks in alarm."
+    },
+    {
+        "scene_id": "scene_0030",
+        "start_time": "00:08:47",
+        "end_time": "00:09:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "annoyance"
+            ],
+            "themes": [
+                "road rage",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "honking"
+            ],
+            "objects": [
+                "car",
+                "truck"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Marietta, Georgia",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "reckless driving",
+            "dashcam",
+            "car altercation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "This scene depicts reckless driving and a tense confrontation between drivers, which constitutes low-level aggression."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The video shows a common road rage incident, which can be mildly controversial but does not involve highly sensitive topics."
+            }
+        ],
+        "description": "This dashcam footage captures two separate incidents of road rage. In the first part, a driver runs a red light and then becomes aggressive towards the cammer. In the second part, another driver is seen making erratic and angry gestures after being honked at in heavy traffic. Both situations involve aggressive behavior and dangerous driving."
+    },
+    {
+        "scene_id": "scene_0031",
+        "start_time": "00:09:25",
+        "end_time": "00:09:54",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger"
+            ],
+            "themes": [
+                "road rage",
+                "verbal abuse"
+            ],
+            "actions": [
+                "driving",
+                "yelling",
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "pickup truck"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New York",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "verbal altercation",
+            "aggressive driving",
+            "New York traffic"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene contains a heated verbal argument between drivers, qualifying as a low level of aggression."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The footage shows a dispute over driving etiquette, a mildly controversial topic."
+            }
+        ],
+        "description": "A dashcam video from New York shows a road rage incident where a driver in a pickup truck becomes angry and yells at the cammer. The confrontation includes aggressive language and gestures, escalating the tension between the two drivers in traffic."
+    },
+    {
+        "scene_id": "scene_0032",
+        "start_time": "00:09:54",
+        "end_time": "00:10:20",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger"
+            ],
+            "themes": [
+                "road rage",
+                "dangerous behavior"
+            ],
+            "actions": [
+                "driving",
+                "climbing",
+                "arguing"
+            ],
+            "objects": [
+                "truck",
+                "car"
+            ],
+            "characters": [
+                "driver",
+                "passenger"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Liberty Movers"
+            ]
+        },
+        "locations": [
+            "Virginia",
+            "highway"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "dangerous driving",
+            "road rage",
+            "highway incident",
+            "reckless behavior"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A passenger is seen climbing out of a moving truck on the highway, which is a dangerous and aggressive act."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts extremely reckless behavior that could be considered controversial due to the potential for harm."
+            }
+        ],
+        "description": "In this dashcam clip from Virginia, a passenger is seen climbing out of the window of a moving truck on a highway. This dangerous act appears to be part of a road rage incident, as the person is gesturing and yelling at another vehicle."
+    },
+    {
+        "scene_id": "scene_0033",
+        "start_time": "00:10:21",
+        "end_time": "00:10:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "anger"
+            ],
+            "themes": [
+                "car accident",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "colliding",
+                "yelling"
+            ],
+            "objects": [
+                "car"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Jersey, sayreville"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car accident",
+            "reckless driving",
+            "collision",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A car accident is shown, which involves a physical impact between vehicles."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene is a straightforward depiction of a traffic accident with no added controversial elements."
+            }
+        ],
+        "description": "This clip captures a car accident in Sayreville, New Jersey. A vehicle improperly merges, causing a collision with the dashcam car. The cammer reacts with shock and anger."
+    },
+    {
+        "scene_id": "scene_0034",
+        "start_time": "00:10:24",
+        "end_time": "00:10:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "aftermath of accident"
+            ],
+            "actions": [
+                "yelling"
+            ],
+            "objects": [
+                "car"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Jersey, sayreville"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "car accident",
+            "yelling",
+            "frustration"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "The scene only contains yelling and expressions of frustration with no physical violence."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The driver's intense emotional reaction could be considered mildly controversial."
+            }
+        ],
+        "description": "Following a car accident, the dashcam driver is heard yelling in anger and frustration at the other driver, questioning their actions and expressing disbelief at the reckless maneuver."
+    },
+    {
+        "scene_id": "scene_0035",
+        "start_time": "00:10:43",
+        "end_time": "00:10:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "car accident",
+                "property damage"
+            ],
+            "actions": [],
+            "objects": [
+                "car",
+                "scratches"
+            ],
+            "characters": [],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "New Jersey, sayreville"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car accident",
+            "damage",
+            "sideswipe"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "The image shows property damage from an accident, not violence."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "This is a factual depiction of the result of a car accident."
+            }
+        ],
+        "description": "A still image displays the damage to the side of a car, showing scratches and dents from being sideswiped in an accident. Text overlay provides the driver's account of the incident."
+    },
+    {
+        "scene_id": "scene_0036",
+        "start_time": "00:10:48",
+        "end_time": "00:11:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "irritation"
+            ],
+            "themes": [
+                "reckless driving",
+                "near miss"
+            ],
+            "actions": [
+                "driving",
+                "swerving"
+            ],
+            "objects": [
+                "car",
+                "highway"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Ashburn, Virginia"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "reckless driving",
+            "near miss",
+            "highway",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A dangerous driving maneuver nearly causes a high-speed accident, which is a form of reckless endangerment."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene depicts a common traffic incident without additional controversial elements."
+            }
+        ],
+        "description": "In Ashburn, Virginia, dashcam footage captures a silver car making a sudden and dangerous lane change on the highway, almost causing a high-speed collision with the cammer's vehicle."
+    },
+    {
+        "scene_id": "scene_0037",
+        "start_time": "00:11:26",
+        "end_time": "00:11:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger"
+            ],
+            "themes": [
+                "road rage",
+                "traffic dispute"
+            ],
+            "actions": [
+                "driving",
+                "yelling"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "pickup truck"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Toyota"
+            ]
+        },
+        "locations": [
+            "Sevierville, Tennessee"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "traffic jam",
+            "cutting in line",
+            "dispute"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A verbal altercation between drivers is shown, indicating a low level of aggression."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene shows a conflict over driving etiquette which can be mildly controversial."
+            }
+        ],
+        "description": "In Sevierville, Tennessee, a driver in a dark SUV attempts to cut into a long line of traffic. The dashcam driver and the driver of the truck in front refuse to let them in, leading to a verbal confrontation."
+    },
+    {
+        "scene_id": "scene_0038",
+        "start_time": "00:11:43",
+        "end_time": "00:12:05",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "retaliation"
+            ],
+            "themes": [
+                "road rage",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "honking"
+            ],
+            "objects": [
+                "pickup truck",
+                "SUV"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Toyota"
+            ]
+        },
+        "locations": [
+            "Sevierville, Tennessee"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "retaliation",
+            "brake checking",
+            "aggressive driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A driver intentionally creates a dangerous situation by blocking another car and driving slowly in a faster zone, which constitutes a higher level of aggressive driving."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The video shows an escalated road rage incident, which is a mildly controversial topic."
+            }
+        ],
+        "description": "Following a traffic dispute, the driver of a pickup truck retaliates against an SUV that cut in line. The truck driver blocks the SUV and proceeds to drive at a very slow speed in a 45 MPH zone with flashers on, creating a hazardous situation."
+    },
+    {
+        "scene_id": "scene_0039",
+        "start_time": "00:12:06",
+        "end_time": "00:12:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "car accident",
+                "reckless driving",
+                "dispute"
+            ],
+            "actions": [
+                "driving",
+                "colliding",
+                "merging"
+            ],
+            "objects": [
+                "car"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Nissan"
+            ]
+        },
+        "locations": [
+            "Pennsylvania"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car accident",
+            "failure to yield",
+            "dashcam",
+            "insurance dispute"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A car collision occurs as a result of a driver failing to yield the right of way."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a dispute over fault in a car accident, which includes an accusation of dishonesty, making it mildly controversial."
+            }
+        ],
+        "description": "Dashcam footage from Pennsylvania shows a car accident where a blue sedan fails to yield while merging, causing a collision with the cammer's vehicle. The cammer states that the other driver falsely claimed to have been hit from behind."
+    },
+    {
+        "scene_id": "scene_0040",
+        "start_time": "00:12:39",
+        "end_time": "00:12:46",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "surprise"
+            ],
+            "themes": [
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "changing lanes",
+                "honking"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "bridge",
+                "highway sign"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy",
+                "rainy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Jacksonville, Florida",
+            "highway bridge"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "dangerous driving",
+            "lane change",
+            "honking",
+            "highway"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A dangerous lane change creates a potential for collision, which falls under reckless behavior."
+            }
+        ],
+        "description": "Dashcam footage from a highway bridge in Jacksonville, Florida, shows a red SUV abruptly changing lanes in front of the camera vehicle. The driver of the camera vehicle honks in response to the dangerous maneuver. This reckless driving action warrants a low violence score."
+    },
+    {
+        "scene_id": "scene_0041",
+        "start_time": "00:12:47",
+        "end_time": "00:12:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "anger"
+            ],
+            "themes": [
+                "road rage",
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "cutting off",
+                "braking suddenly"
+            ],
+            "objects": [
+                "car",
+                "highway"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy",
+                "rainy"
+            ],
+            "brands": [
+                "Kia"
+            ]
+        },
+        "locations": [
+            "Jacksonville, Florida",
+            "highway"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "brake check",
+            "cutting off",
+            "aggressive driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Aggressive driving, including cutting off another vehicle and brake-checking, poses a significant risk of an accident and is a form of road rage."
+            }
+        ],
+        "description": "Following a lane change dispute on a highway in Jacksonville, a white Kia sedan aggressively cuts off the dashcam vehicle and then brakes suddenly. This act of brake-checking creates a dangerous situation and is a form of road rage, justifying a violence score."
+    },
+    {
+        "scene_id": "scene_0042",
+        "start_time": "00:12:52",
+        "end_time": "00:13:01",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "road rage",
+                "public conflict"
+            ],
+            "actions": [
+                "stopping car",
+                "exiting vehicle",
+                "shouting",
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "highway"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy",
+                "rainy"
+            ],
+            "brands": [
+                "Kia"
+            ]
+        },
+        "locations": [
+            "Jacksonville, Florida",
+            "highway"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "confrontation",
+            "argument",
+            "highway dispute"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A driver exits his vehicle on a highway to engage in a hostile verbal confrontation, which is an aggressive act."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a public argument and hostile confrontation between two individuals."
+            }
+        ],
+        "description": "The driver of the white Kia stops his car on the highway, gets out, and angrily confronts the dashcam vehicle's driver. He shouts at the driver, escalating the road rage incident from dangerous driving to a direct, hostile confrontation, which contributes to the violence and controversy scores."
+    },
+    {
+        "scene_id": "scene_0043",
+        "start_time": "00:13:02",
+        "end_time": "00:13:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "swerving",
+                "braking",
+                "tailgating"
+            ],
+            "objects": [
+                "van",
+                "car",
+                "road",
+                "streetlights"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "North York, ON"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "aggressive driving",
+            "swerving",
+            "brake checking",
+            "night driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Sustained aggressive driving, including swerving and brake-checking, creates a dangerous situation and constitutes road rage."
+            }
+        ],
+        "description": "In a nighttime scene in North York, the driver of a white van engages in road rage, aggressively swerving and braking in front of the dashcam car. According to the on-screen text, this was in retaliation for the dashcam driver not making a left turn on a yellow light. This dangerous and aggressive driving warrants a violence score."
+    },
+    {
+        "scene_id": "scene_0044",
+        "start_time": "00:13:44",
+        "end_time": "00:13:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise"
+            ],
+            "themes": [
+                "dangerous driving",
+                "traffic incident"
+            ],
+            "actions": [
+                "driving",
+                "changing lanes",
+                "cutting off"
+            ],
+            "objects": [
+                "car",
+                "pickup truck",
+                "road"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Nissan",
+                "GMC"
+            ]
+        },
+        "locations": [
+            "Southlands"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "unsafe lane change",
+            "cutting off",
+            "reckless driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A dangerous driving maneuver that cuts off another vehicle, creating a potential for a collision."
+            }
+        ],
+        "description": "A Nissan Murano makes an unsafe lane change without using a turn signal, cutting off a large GMC pickup truck. This reckless driving maneuver creates a potentially hazardous situation, warranting a low violence score."
+    },
+    {
+        "scene_id": "scene_0045",
+        "start_time": "00:13:59",
+        "end_time": "00:14:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "road rage",
+                "public conflict"
+            ],
+            "actions": [
+                "driving",
+                "stopping",
+                "gesturing"
+            ],
+            "objects": [
+                "car",
+                "pickup truck",
+                "intersection"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Nissan",
+                "GMC"
+            ]
+        },
+        "locations": [
+            "Southlands",
+            "intersection"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "obscene gesture",
+            "confrontation",
+            "middle finger"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "An obscene gesture (middle finger) is described in the on-screen text as being used during the confrontation."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A minor verbal/gestural confrontation between drivers in a public space."
+            }
+        ],
+        "description": "After being cut off, the GMC truck driver and the Nissan driver stop next to each other at a traffic light. The on-screen text states the Nissan driver makes an obscene gesture ('flips him off') toward the truck driver, escalating the incident to a direct confrontation. The obscene gesture justifies a profanity score."
+    },
+    {
+        "scene_id": "scene_0046",
+        "start_time": "00:14:27",
+        "end_time": "00:14:35",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension"
+            ],
+            "themes": [
+                "road rage"
+            ],
+            "actions": [
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "pickup truck",
+                "intersection"
+            ],
+            "characters": [
+                "drivers",
+                "police officer"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Nissan",
+                "GMC",
+                "Toyota"
+            ]
+        },
+        "locations": [
+            "Southlands"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "driving",
+            "intersection",
+            "aftermath"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "This scene is the immediate aftermath of a road rage incident, carrying residual tension but no new aggressive acts."
+            }
+        ],
+        "description": "The Nissan and GMC vehicles, previously involved in a road rage incident, proceed through an intersection. The tension from the prior confrontation remains, but no further aggressive actions occur in this brief segment. According to on-screen text, a police officer was nearby but left."
+    },
+    {
+        "scene_id": "scene_0047",
+        "start_time": "00:14:36",
+        "end_time": "00:15:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "anger",
+                "surprise"
+            ],
+            "themes": [
+                "dangerous driving",
+                "road rage",
+                "traffic violation"
+            ],
+            "actions": [
+                "driving",
+                "illegal turn",
+                "cutting off",
+                "honking",
+                "aggressive driving"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "overpass",
+                "traffic lights"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Porsche",
+                "Toyota"
+            ]
+        },
+        "locations": [
+            "Frisco, Texas"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "illegal turn",
+            "aggressive driving",
+            "road rage",
+            "cutting off",
+            "dangerous driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "An illegal and dangerous turn followed by aggressive driving creates a hazardous situation and demonstrates road rage."
+            }
+        ],
+        "description": "In Frisco, Texas, a black Porsche executes an illegal right turn from a straight-only lane, cutting directly in front of the dashcam vehicle. The driver of the dashcam car honks to alert the other driver to the dangerous action. The Porsche then continues to drive aggressively. This combination of an illegal maneuver and aggressive driving warrants a violence score."
+    },
+    {
+        "scene_id": "scene_0048",
+        "start_time": "00:15:08",
+        "end_time": "00:15:13",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "aggressive driving",
+                "speeding"
+            ],
+            "objects": [
+                "car",
+                "highway"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Porsche"
+            ]
+        },
+        "locations": [
+            "Frisco, Texas"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "aggressive driving",
+            "dangerous driving",
+            "sustained aggression"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Continuation of a road rage incident with sustained aggressive and dangerous driving."
+            }
+        ],
+        "description": "Continuing the road rage incident, the driver of the Porsche persists with aggressive and unsafe driving. According to the on-screen text, the driver of the dashcam vehicle tried to signal that the turn was multi-lane, but the Porsche driver continued their aggressive behavior, justifying the sustained violence score."
+    },
+    {
+        "scene_id": "scene_0049",
+        "start_time": "00:15:14",
+        "end_time": "00:15:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "impatience"
+            ],
+            "themes": [
+                "driving",
+                "traffic"
+            ],
+            "actions": [
+                "driving slowly",
+                "overtaking",
+                "accelerating"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "bridge",
+                "construction cone"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy",
+                "rainy"
+            ],
+            "brands": [
+                "Lexus"
+            ]
+        },
+        "locations": [
+            "McLean, Virginia"
+        ],
+        "genre": "dashcam footage",
+        "language": "en-US",
+        "keywords": [
+            "slow driving",
+            "overtaking",
+            "construction zone",
+            "bridge"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "Overtaking another vehicle in a narrow construction zone presents a minor risk, falling under reckless behavior."
+            }
+        ],
+        "description": "In a construction zone in McLean, Virginia, the dashcam driver is behind a slow-moving silver Lexus on a bridge. The driver decides to smoothly accelerate and overtake the slower vehicle. The maneuver is slightly risky due to the construction zone context, warranting a minimal violence score."
+    },
+    {
+        "scene_id": "scene_0050",
+        "start_time": "00:15:23",
+        "end_time": "00:15:31",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "neutral"
+            ],
+            "themes": [
+                "driving",
+                "overtaking"
+            ],
+            "actions": [
+                "driving",
+                "accelerating",
+                "overtaking"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "construction cone"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "McLean, Virginia",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "driving",
+            "dashcam",
+            "overtaking",
+            "road construction"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "nudity",
+                "score": 0,
+                "explanation": "No nudity is depicted in this scene."
+            },
+            {
+                "category": "drugs",
+                "score": 0,
+                "explanation": "No drugs or substance abuse are depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            },
+            {
+                "category": "self_harm",
+                "score": 0,
+                "explanation": "No self-harm is depicted in this scene."
+            }
+        ],
+        "description": "Dashcam footage from a car driving on a two-lane road in McLean, Virginia. The driver decides to overtake a slower vehicle in a construction zone."
+    },
+    {
+        "scene_id": "scene_0051",
+        "start_time": "00:15:31",
+        "end_time": "00:15:46",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "aggressive driving"
+            ],
+            "actions": [
+                "driving",
+                "accelerating",
+                "blocking"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Lexus"
+            ]
+        },
+        "locations": [
+            "McLean, Virginia",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "aggressive driving",
+            "dashcam",
+            "blocking pass"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A driver performs an aggressive maneuver by suddenly speeding up to prevent another car from passing, which constitutes a low level of road rage."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a road rage incident, which can be a controversial topic."
+            }
+        ],
+        "description": "Dashcam footage shows a driver attempting to overtake a silver Lexus. The Lexus driver responds by suddenly accelerating to block the pass, an act of aggressive driving. The dashcam driver expresses annoyance through on-screen text."
+    },
+    {
+        "scene_id": "scene_0052",
+        "start_time": "00:15:46",
+        "end_time": "00:16:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "annoyance"
+            ],
+            "themes": [
+                "road rage",
+                "aggressive driving"
+            ],
+            "actions": [
+                "driving",
+                "following",
+                "weaving"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Lexus",
+                "Mercedes-Benz"
+            ]
+        },
+        "locations": [
+            "McLean, Virginia",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "aggressive driving",
+            "dashcam",
+            "erratic driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene continues to show aggressive and potentially dangerous driving from the other vehicle."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene continues to depict a road rage incident."
+            }
+        ],
+        "description": "Following the initial aggressive maneuver, the silver Lexus continues to drive erratically in front of the dashcam car. The situation remains tense as the road rage incident continues."
+    },
+    {
+        "scene_id": "scene_0053",
+        "start_time": "00:16:02",
+        "end_time": "00:16:10",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "caution",
+                "calm"
+            ],
+            "themes": [
+                "driving",
+                "de-escalation"
+            ],
+            "actions": [
+                "driving",
+                "slowing down"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "speed limit sign"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Lexus"
+            ]
+        },
+        "locations": [
+            "McLean, Virginia",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "driving",
+            "slowing down",
+            "de-escalation",
+            "speed limit"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "nudity",
+                "score": 0,
+                "explanation": "No nudity is depicted in this scene."
+            },
+            {
+                "category": "drugs",
+                "score": 0,
+                "explanation": "No drugs or substance abuse are depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            },
+            {
+                "category": "self_harm",
+                "score": 0,
+                "explanation": "No self-harm is depicted in this scene."
+            }
+        ],
+        "description": "The dashcam driver de-escalates the road rage situation by slowing down to the speed limit, creating distance from the aggressive driver."
+    },
+    {
+        "scene_id": "scene_0054",
+        "start_time": "00:16:10",
+        "end_time": "00:16:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "satisfaction",
+                "relief"
+            ],
+            "themes": [
+                "driving",
+                "overtaking"
+            ],
+            "actions": [
+                "driving",
+                "accelerating",
+                "overtaking"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "bridge"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "McLean, Virginia",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "driving",
+            "overtaking",
+            "accelerating"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "nudity",
+                "score": 0,
+                "explanation": "No nudity is depicted in this scene."
+            },
+            {
+                "category": "drugs",
+                "score": 0,
+                "explanation": "No drugs or substance abuse are depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            },
+            {
+                "category": "self_harm",
+                "score": 0,
+                "explanation": "No self-harm is depicted in this scene."
+            }
+        ],
+        "description": "After creating some distance, the dashcam driver accelerates quickly, successfully overtaking the aggressive driver and leaving them behind."
+    },
+    {
+        "scene_id": "scene_0055",
+        "start_time": "00:16:16",
+        "end_time": "00:16:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anticipation",
+                "tension"
+            ],
+            "themes": [
+                "dangerous driving",
+                "impending accident"
+            ],
+            "actions": [
+                "driving",
+                "lane changing"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "road"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny",
+                "cloudy"
+            ],
+            "brands": [
+                "Kia",
+                "Lexus"
+            ]
+        },
+        "locations": [
+            "road",
+            "suburban area"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "driving",
+            "unsafe lane change",
+            "near miss",
+            "traffic"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene depicts dangerous driving that is about to result in a collision."
+            }
+        ],
+        "description": "Dashcam footage from a white car shows a blue SUV in the adjacent lane slowly and unsafely drifting into the dashcam car's lane, setting up an imminent collision."
+    },
+    {
+        "scene_id": "scene_0056",
+        "start_time": "00:16:42",
+        "end_time": "00:16:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "anger"
+            ],
+            "themes": [
+                "car accident",
+                "collision",
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "colliding",
+                "sideswiping"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "road",
+                "tire"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny",
+                "cloudy"
+            ],
+            "brands": [
+                "Kia",
+                "Lexus"
+            ]
+        },
+        "locations": [
+            "road",
+            "suburban area"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car accident",
+            "collision",
+            "dashcam",
+            "sideswipe",
+            "unsafe lane change"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A car crash is depicted. While not graphic or severe, it is a form of vehicular violence/accident."
+            },
+            {
+                "category": "profanity",
+                "score": 1,
+                "explanation": "The on-screen text uses the mild insult 'idiot'."
+            }
+        ],
+        "description": "A car accident occurs as the blue SUV continues to merge into the dashcam car's lane, resulting in a sideswipe collision. On-screen text from the driver calls the other driver an 'idiot' and describes the damage."
+    },
+    {
+        "scene_id": "scene_0057",
+        "start_time": "00:16:47",
+        "end_time": "00:17:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "shock"
+            ],
+            "themes": [
+                "road rage",
+                "aggressive driving",
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "cutting off",
+                "lane changing"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "highway"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Hyundai"
+            ]
+        },
+        "locations": [
+            "Maitland, Florida",
+            "highway"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "aggressive driving",
+            "dashcam",
+            "cut off",
+            "dangerous driving",
+            "highway"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A driver performs a very aggressive and dangerous cut-off maneuver, a clear act of road rage that could have caused an accident."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a clear instance of road rage."
+            }
+        ],
+        "description": "On a highway in Maitland, Florida, the driver of a dark Hyundai SUV aggressively and dangerously cuts in front of the dashcam car, an apparent act of road rage."
+    },
+    {
+        "scene_id": "scene_0058",
+        "start_time": "00:17:02",
+        "end_time": "00:17:07",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "annoyance"
+            ],
+            "themes": [
+                "road rage",
+                "aggressive driving"
+            ],
+            "actions": [
+                "driving",
+                "erratic driving"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "road",
+                "traffic light"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Hyundai"
+            ]
+        },
+        "locations": [
+            "Maitland, Florida",
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "aggressive driving",
+            "dashcam",
+            "erratic driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene shows the continuation of aggressive driving behavior."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene continues to depict a road rage incident."
+            }
+        ],
+        "description": "The aggressive driver in the dark SUV continues to drive erratically after cutting off the dashcam car. The dashcam driver's on-screen text expresses confusion about the cause of the other driver's anger."
+    },
+    {
+        "scene_id": "scene_0059",
+        "start_time": "00:17:07",
+        "end_time": "00:17:14",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "fear"
+            ],
+            "themes": [
+                "car accident",
+                "collision",
+                "traffic violation"
+            ],
+            "actions": [
+                "driving",
+                "turning",
+                "running red light",
+                "colliding"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "traffic light",
+                "train tracks"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "clear",
+                "sunset"
+            ],
+            "brands": [
+                "Ford"
+            ]
+        },
+        "locations": [
+            "Chicago, Illinois",
+            "intersection"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car accident",
+            "T-bone",
+            "collision",
+            "dashcam",
+            "ran red light",
+            "intersection"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A significant car crash occurs as a result of a driver running a red light, with a loud impact sound. This is a more severe accident than the previous ones."
+            },
+            {
+                "category": "profanity",
+                "score": 1,
+                "explanation": "The profanity 'shit' is audible in the audio just before the crash."
+            }
+        ],
+        "description": "At an intersection in Chicago, a red car runs a red light at high speed and collides with the dashcam car, which is making a legal turn. The impact is clearly heard. The audio contains the profanity 'shit' just before the collision."
+    },
+    {
+        "scene_id": "scene_0060",
+        "start_time": "00:17:14",
+        "end_time": "00:17:27",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "annoyance"
+            ],
+            "themes": [
+                "car accident",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "colliding"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "traffic light"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "street",
+            "Chicago"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car crash",
+            "collision",
+            "dashcam",
+            "traffic incident"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A minor car collision is depicted, which results in property damage."
+            }
+        ],
+        "description": "Dashcam footage from a car driving in Chicago captures a minor side-swipe collision with a red sedan that appears to merge improperly. The impact is audible but not severe."
+    },
+    {
+        "scene_id": "scene_0061",
+        "start_time": "00:17:27",
+        "end_time": "00:17:36",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger"
+            ],
+            "themes": [
+                "road rage",
+                "confrontation"
+            ],
+            "actions": [
+                "shouting",
+                "arguing",
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "truck"
+            ],
+            "characters": [
+                "female driver",
+                "male driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "street",
+            "Chicago"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "argument",
+            "shouting",
+            "profanity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 3,
+                "explanation": "Multiple instances of the f-word are used during the verbal altercation between drivers."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A heated verbal argument with shouting and insults, but no physical violence."
+            }
+        ],
+        "description": "Following a minor collision, a female driver pulls alongside the dashcam vehicle and shouts angrily, blaming the other driver. The argument is heated and includes multiple uses of the f-word."
+    },
+    {
+        "scene_id": "scene_0062",
+        "start_time": "00:17:36",
+        "end_time": "00:17:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "car accident aftermath",
+                "legal action"
+            ],
+            "actions": [
+                "displaying text"
+            ],
+            "objects": [
+                "car door",
+                "scratches",
+                "text"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "hit-and-run",
+            "police report",
+            "insurance claim",
+            "car damage"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene discusses a hit-and-run, which is a criminal offense, and subsequent legal/insurance actions."
+            }
+        ],
+        "description": "A still image shows significant scratches and damage to the side of a blue car. Text overlay states, 'Police report was made for hit-and-run and an insurance claim was filed,' indicating the legal aftermath of the incident."
+    },
+    {
+        "scene_id": "scene_0063",
+        "start_time": "00:17:41",
+        "end_time": "00:17:52",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "anxiety"
+            ],
+            "themes": [
+                "reckless driving",
+                "dangerous behavior"
+            ],
+            "actions": [
+                "driving",
+                "swerving"
+            ],
+            "objects": [
+                "SUV",
+                "car",
+                "highway",
+                "overpass"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "cloudy",
+                "sunset"
+            ],
+            "brands": [
+                "Infiniti"
+            ]
+        },
+        "locations": [
+            "highway"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "reckless driving",
+            "dangerous driving",
+            "erratic driving",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The video shows highly dangerous and reckless driving, including swerving across multiple lanes, which could encourage unsafe behavior."
+            }
+        ],
+        "description": "Dashcam footage shows a black Infiniti SUV driving erratically on a multi-lane road at dusk. The SUV swerves across lanes without signaling, cutting off other vehicles in a dangerous manner."
+    },
+    {
+        "scene_id": "scene_0064",
+        "start_time": "00:17:52",
+        "end_time": "00:18:10",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "annoyance"
+            ],
+            "themes": [
+                "road rage",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "brake checking",
+                "tailgating"
+            ],
+            "objects": [
+                "SUV",
+                "car",
+                "highway",
+                "truck"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Infiniti"
+            ]
+        },
+        "locations": [
+            "highway"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "brake check",
+            "road rage",
+            "dangerous driving",
+            "reckless driver",
+            "repeat offender"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene depicts deliberate and repeated acts of road rage, including brake checking and aggressive maneuvering, which is illegal and highly dangerous."
+            }
+        ],
+        "description": "Further dashcam footage shows the same black Infiniti SUV engaging in aggressive driving on a different day, as indicated by the text overlay 'Same guy, different day.' The driver weaves through traffic, tailgates, and appears to brake-check other vehicles, demonstrating a pattern of road rage."
+    },
+    {
+        "scene_id": "scene_0065",
+        "start_time": "00:18:10",
+        "end_time": "00:18:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "law enforcement",
+                "repeat offense"
+            ],
+            "actions": [
+                "driving"
+            ],
+            "objects": [
+                "SUV",
+                "car",
+                "road"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Infiniti"
+            ]
+        },
+        "locations": [
+            "road"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "police report",
+            "reckless driver",
+            "repeat offender",
+            "dangerous driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The text confirms the driver is a repeat offender who has been reported to the police for dangerous road rage behavior, highlighting ongoing illegal activity."
+            }
+        ],
+        "description": "The dashcam continues to follow the aggressive black Infiniti SUV. A text overlay appears, stating, 'I've reported him twice to local police, not sure what will come out of it,' which confirms the driver's behavior is a recurring problem."
+    },
+    {
+        "scene_id": "scene_0066",
+        "start_time": "00:18:17",
+        "end_time": "00:18:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "driving"
+            ],
+            "actions": [
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "buildings",
+                "billboard"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "clear",
+                "dusk"
+            ],
+            "brands": [
+                "Sonic",
+                "Garmin"
+            ]
+        },
+        "locations": [
+            "Cookeville, Tennessee"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "driving",
+            "city street",
+            "dusk",
+            "traffic"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Dashcam footage shows a car driving down a commercial street in Cookeville, Tennessee, at dusk. The scene is calm with normal traffic flow."
+    },
+    {
+        "scene_id": "scene_0067",
+        "start_time": "00:18:23",
+        "end_time": "00:18:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "anger"
+            ],
+            "themes": [
+                "traffic incident",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "honking"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "clear",
+                "dusk"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Cookeville, Tennessee"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "car horn",
+            "cutting off",
+            "traffic",
+            "dangerous driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A car pulls out unsafely in front of another, creating a minor traffic conflict that elicits an angry reaction (honking)."
+            }
+        ],
+        "description": "While driving down the street, a red car pulls out from a side parking lot directly in front of the dashcam vehicle, causing the driver to brake and honk the horn repeatedly in annoyance."
+    },
+    {
+        "scene_id": "scene_0068",
+        "start_time": "00:18:33",
+        "end_time": "00:18:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "retaliation"
+            ],
+            "themes": [
+                "road rage",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "brake checking"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "text"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "clear",
+                "dusk"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Cookeville, Tennessee"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "brake check",
+            "retaliation",
+            "dangerous driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The driver admits to intentionally brake-checking another car and obstructing traffic as an act of retaliation, which is a dangerous and illegal form of road rage."
+            }
+        ],
+        "description": "The dashcam driver engages in road rage. Text overlays explicitly state the driver's intent: 'Pulled out in front of me and I decided to brake check them' and 'and not let them pass me for a bit.' This shows the driver retaliating by driving dangerously."
+    },
+    {
+        "scene_id": "scene_0069",
+        "start_time": "00:18:49",
+        "end_time": "00:18:54",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "tension"
+            ],
+            "themes": [
+                "road rage",
+                "reckless driving"
+            ],
+            "actions": [
+                "driving",
+                "brake checking"
+            ],
+            "objects": [
+                "car",
+                "road"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Mercedes-Benz"
+            ]
+        },
+        "locations": [
+            "Fayetteville, North Carolina"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "brake check",
+            "road rage",
+            "dangerous driving",
+            "sudden stop"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A car performs a sudden and dangerous brake check in front of the dashcam vehicle, creating a hazardous situation indicative of road rage."
+            }
+        ],
+        "description": "On a two-lane road in Fayetteville, North Carolina, a white Mercedes-Benz sedan abruptly and dangerously brake-checks the dashcam vehicle, forcing it to slow down suddenly to avoid a collision."
+    },
+    {
+        "scene_id": "scene_0070",
+        "start_time": "00:18:54",
+        "end_time": "00:19:10",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "shock"
+            ],
+            "themes": [
+                "dangerous driving",
+                "traffic violation"
+            ],
+            "actions": [
+                "driving",
+                "overtaking"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "trees"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "Mercedes-Benz"
+            ]
+        },
+        "locations": [
+            "Fayetteville, North Carolina"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "dangerous driving",
+            "illegal overtake",
+            "dashcam",
+            "Mercedes",
+            "traffic violation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "Depicts illegal and dangerous driving by crossing double yellow lines, which can be moderately controversial."
+            }
+        ],
+        "description": "Dashcam footage shows a white Mercedes-Benz sedan recklessly overtaking multiple vehicles by crossing over double yellow lines on a rural road. The text overlay explicitly calls the driver 'irresponsible', highlighting the dangerous traffic violation."
+    },
+    {
+        "scene_id": "scene_0071",
+        "start_time": "00:19:10",
+        "end_time": "00:19:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "highway driving",
+                "traffic"
+            ],
+            "actions": [
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "semi-truck",
+                "highway",
+                "bridge",
+                "guardrail"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Burlington, Kentucky"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "highway",
+            "traffic",
+            "semi-truck",
+            "driving",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene depicts normal, albeit slow, highway traffic with no controversial elements."
+            }
+        ],
+        "description": "A dashcam view from a vehicle on a sunny highway shows slow-moving traffic on a bridge. A large semi-truck is visible in the adjacent lane."
+    },
+    {
+        "scene_id": "scene_0072",
+        "start_time": "00:19:26",
+        "end_time": "00:19:45",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion"
+            ],
+            "themes": [
+                "highway driving",
+                "traffic management",
+                "construction zone"
+            ],
+            "actions": [
+                "driving",
+                "straddling lanes"
+            ],
+            "objects": [
+                "semi-truck",
+                "car",
+                "highway",
+                "construction zone"
+            ],
+            "characters": [
+                "truck driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Burlington, Kentucky"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "trucker",
+            "straddling lanes",
+            "construction zone",
+            "highway safety",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "Shows a driving practice (lane straddling) that can be debated, but it is often a safety measure in construction zones. The on-screen text questions the behavior, adding a minor level of controversy."
+            }
+        ],
+        "description": "In a highway construction zone, a large semi-truck is seen straddling two lanes. An automated voice from the dashcam announces that the right lane is blocked ahead, and a text overlay questions why truckers perform this maneuver."
+    },
+    {
+        "scene_id": "scene_0073",
+        "start_time": "00:19:45",
+        "end_time": "00:19:52",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "city driving",
+                "cycling"
+            ],
+            "actions": [
+                "driving",
+                "approaching intersection"
+            ],
+            "objects": [
+                "car",
+                "bicycle",
+                "street",
+                "houses",
+                "traffic light"
+            ],
+            "characters": [
+                "driver",
+                "cyclist"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Garmin"
+            ]
+        },
+        "locations": [
+            "Edmonton, Alberta"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "residential street",
+            "driving",
+            "sunny day",
+            "cyclist"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "A normal driving scene with no controversial elements."
+            }
+        ],
+        "description": "A car drives down a sunny residential street in Edmonton, Alberta, approaching an intersection with a green light where a cyclist is also present."
+    },
+    {
+        "scene_id": "scene_0074",
+        "start_time": "00:19:52",
+        "end_time": "00:20:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "concern",
+                "surprise"
+            ],
+            "themes": [
+                "accident",
+                "cycling incident"
+            ],
+            "actions": [
+                "falling",
+                "cycling",
+                "getting up"
+            ],
+            "objects": [
+                "bicycle",
+                "intersection",
+                "backpack"
+            ],
+            "characters": [
+                "cyclist",
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Edmonton, Alberta"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "cyclist falls",
+            "bicycle accident",
+            "intersection",
+            "minor accident",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "Depicts a person falling off a bicycle, which is a minor accident with a low potential for injury shown. No explicit violence is present."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene shows a minor, unfortunate accident with no controversial context."
+            }
+        ],
+        "description": "At an intersection, a cyclist unexpectedly falls off their bicycle. The person quickly gets up, seemingly uninjured, and walks the bike out of the road. A text overlay notes that the driver asked if they were okay but received no response."
+    },
+    {
+        "scene_id": "scene_0075",
+        "start_time": "00:20:05",
+        "end_time": "00:20:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "annoyance",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "aggressive driving",
+                "tailgating"
+            ],
+            "actions": [
+                "driving",
+                "tailgating",
+                "honking"
+            ],
+            "objects": [
+                "car",
+                "road",
+                "street lights",
+                "traffic lights"
+            ],
+            "characters": [
+                "aggressive driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": [
+                "Cobra"
+            ]
+        },
+        "locations": [
+            "Los Angeles, California"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "tailgating",
+            "aggressive driving",
+            "honking",
+            "night driving"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No physical violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "Shows a clear case of road rage with aggressive tailgating and excessive honking, which is a significant social issue and can be controversial."
+            }
+        ],
+        "description": "At night in Los Angeles, a driver aggressively tailgates the dashcam vehicle with bright headlights. As the dashcam driver slows for a traffic light, the tailgater begins honking their horn repeatedly and for a prolonged period, displaying clear road rage."
+    },
+    {
+        "scene_id": "scene_0076",
+        "start_time": "00:20:50",
+        "end_time": "00:21:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "anger",
+                "tension"
+            ],
+            "themes": [
+                "road rage",
+                "conflict",
+                "threat perception"
+            ],
+            "actions": [
+                "honking",
+                "driving",
+                "preparing for conflict"
+            ],
+            "objects": [
+                "car",
+                "truck",
+                "knife"
+            ],
+            "characters": [
+                "aggressive driver",
+                "dashcam driver"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": [
+                "Ryder"
+            ]
+        },
+        "locations": [
+            "Los Angeles, California"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "confrontation",
+            "calling 911",
+            "self-defense",
+            "aggressive driver"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "While no physical violence occurs, the text overlay states the driver felt the need to get a knife for self-defense, indicating a perceived threat of violence."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene escalates from road rage to a perceived threat requiring self-defense and a 911 call. The mention of a weapon, even for defense, makes it highly controversial."
+            }
+        ],
+        "description": "The road rage incident continues with the aggressive driver still honking. The dashcam driver, feeling threatened, states in a text overlay that they got their knife out 'just in case.' The situation de-escalates when the driver decides to call 911 instead of engaging, and the aggressive car is blocked by a truck at an intersection."
+    },
+    {
+        "scene_id": "scene_0077",
+        "start_time": "00:21:58",
+        "end_time": "00:22:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration",
+                "annoyance"
+            ],
+            "themes": [
+                "parking dispute",
+                "social etiquette"
+            ],
+            "actions": [
+                "driving",
+                "parking",
+                "waiting"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "parking lot"
+            ],
+            "characters": [
+                "drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Walmart",
+                "Ford"
+            ]
+        },
+        "locations": [
+            "Fort Worth, Texas"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "parking lot",
+            "stolen parking spot",
+            "parking etiquette",
+            "driving dispute",
+            "Walmart"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "Depicts a common social conflict over parking etiquette, which can be moderately controversial. The text 'Am I The A$$hole?' invites judgment and debate."
+            }
+        ],
+        "description": "In a busy Walmart parking lot, the dashcam vehicle waits for a parking spot. However, another car quickly drives around and takes the spot before they can pull in. A text overlay questions who was in the wrong, highlighting a common parking dispute."
+    },
+    {
+        "scene_id": "scene_0078",
+        "start_time": "00:22:33",
+        "end_time": "00:22:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "anger"
+            ],
+            "themes": [
+                "dangerous driving",
+                "erratic maneuver",
+                "near miss"
+            ],
+            "actions": [
+                "driving",
+                "swerving",
+                "exiting highway",
+                "shouting"
+            ],
+            "objects": [
+                "SUV",
+                "highway",
+                "exit ramp",
+                "overpass"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Kansas City, Kansas"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "last-minute exit",
+            "dangerous driving",
+            "swerving",
+            "cutting off",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "Shows a very dangerous and illegal driving maneuver that could have caused an accident. The driver's profanity highlights the severity."
+            }
+        ],
+        "description": "On a highway, a blue SUV makes a sudden, dangerous last-minute swerve across a solid white line and the gore point to take an exit. The dashcam driver exclaims in shock and anger at the reckless maneuver."
+    },
+    {
+        "scene_id": "scene_0079",
+        "start_time": "00:22:43",
+        "end_time": "00:22:56",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "relief"
+            ],
+            "themes": [
+                "road hazard",
+                "driving",
+                "near miss"
+            ],
+            "actions": [
+                "driving",
+                "dodging debris"
+            ],
+            "objects": [
+                "road debris",
+                "car",
+                "highway",
+                "construction barriers"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "San Antonio, Texas"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road debris",
+            "flying object",
+            "highway hazard",
+            "near miss",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "Depicts a road hazard, which is a safety concern but not typically controversial."
+            }
+        ],
+        "description": "While driving on a highway in San Antonio, a large piece of road debris suddenly flies across the lanes from the left, landing on the road just ahead of the dashcam vehicle. According to the on-screen text, the object fortunately caused no damage."
+    },
+    {
+        "scene_id": "scene_0080",
+        "start_time": "00:22:57",
+        "end_time": "00:23:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "traffic conflict"
+            ],
+            "actions": [
+                "driving",
+                "merging",
+                "exiting vehicle",
+                "approaching vehicle"
+            ],
+            "objects": [
+                "car",
+                "highway",
+                "sun"
+            ],
+            "characters": [
+                "driver"
+            ],
+            "weather": [
+                "sunny",
+                "clear sky"
+            ],
+            "brands": [
+                "Nextbase"
+            ]
+        },
+        "locations": [
+            "highway"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dashcam",
+            "traffic",
+            "highway",
+            "sunset",
+            "driving conflict"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A driver exits his vehicle and aggressively approaches another car during a traffic dispute, creating a threatening situation that precedes potential violence."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a road rage incident, which is a controversial social issue involving aggressive and dangerous behavior on public roads."
+            }
+        ],
+        "description": "A dashcam captures a road rage incident on a highway at sunset. After an apparent dispute over merging in heavy traffic, the driver of the car ahead stops, exits his vehicle, and aggressively walks towards the dashcam car, creating a tense confrontation."
+    },
+    {
+        "scene_id": "scene_0081",
+        "start_time": "00:23:43",
+        "end_time": "00:24:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "anger",
+                "defensiveness"
+            ],
+            "themes": [
+                "road rage",
+                "self-defense",
+                "chase"
+            ],
+            "actions": [
+                "driving",
+                "following",
+                "spraying"
+            ],
+            "objects": [
+                "car",
+                "highway",
+                "pepper spray"
+            ],
+            "characters": [
+                "driver",
+                "child"
+            ],
+            "weather": [
+                "sunset",
+                "clear sky"
+            ],
+            "brands": [
+                "Nextbase"
+            ]
+        },
+        "locations": [
+            "highway"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "pepper spray",
+            "car chase",
+            "dashcam",
+            "self-defense"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The driver of the dashcam vehicle uses pepper spray on the aggressive driver in an act of self-defense. This use of a non-lethal weapon constitutes an act of violence."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The incident escalates to involve the use of a weapon (pepper spray) for self-defense, with a child present in the car, and turns into a car chase, making it a highly controversial event."
+            }
+        ],
+        "description": "The confrontation escalates as the driver of the dashcam vehicle, with their child in the car, uses pepper spray on the aggressive man. The man retreats to his vehicle and drives away. The situation then turns into a pursuit, as the text overlay indicates the aggressive driver begins to follow the dashcam car."
+    },
+    {
+        "scene_id": "scene_0082",
+        "start_time": "00:24:43",
+        "end_time": "00:24:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension"
+            ],
+            "themes": [
+                "law enforcement",
+                "consequences"
+            ],
+            "actions": [
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "police car",
+                "truck"
+            ],
+            "characters": [
+                "driver",
+                "state patrol"
+            ],
+            "weather": [
+                "sunset"
+            ],
+            "brands": [
+                "Nextbase"
+            ]
+        },
+        "locations": [
+            "urban street"
+        ],
+        "genre": "Dashcam Footage",
+        "language": "en-US",
+        "keywords": [
+            "police",
+            "state patrol",
+            "road rage",
+            "consequences",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violent acts occur in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene shows the aftermath and law enforcement involvement in a road rage incident, which can be a mildly controversial topic."
+            }
+        ],
+        "description": "The scene shows the conclusion of the incident on a different road. According to the on-screen text, state patrol has intervened, and the aggressive driver was recognized for prior charges, with legal consequences expected."
+    },
+    {
+        "scene_id": "scene_0083",
+        "start_time": "00:24:50",
+        "end_time": "00:25:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "outro"
+            ],
+            "actions": [],
+            "objects": [
+                "logo"
+            ],
+            "characters": [
+                "narrator"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "Outro",
+        "language": "en-US",
+        "keywords": [
+            "outro",
+            "end screen",
+            "logo"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "This scene contains no sensitive content."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "This scene contains no sensitive content."
+            }
+        ],
+        "description": "The video concludes with a branded outro animation featuring background music and a narrator's voiceover thanking the audience for watching."
+    }
+]

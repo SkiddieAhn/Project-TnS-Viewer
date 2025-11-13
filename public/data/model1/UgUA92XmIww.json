@@ -1,0 +1,6255 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:07",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tense",
+                "serious",
+                "anxious"
+            ],
+            "themes": [
+                "war",
+                "military"
+            ],
+            "actions": [
+                "sitting",
+                "preparing"
+            ],
+            "objects": [
+                "military plane",
+                "helmet",
+                "uniform",
+                "gun"
+            ],
+            "characters": [
+                "soldiers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "military transport plane"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "soldiers",
+            "military",
+            "war",
+            "airplane"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "Depicts soldiers in full combat gear with weapons in a military setting, which is inherently related to violence, though no active violence is shown."
+            }
+        ],
+        "description": "Soldiers in full combat gear are shown sitting inside a military transport plane. The mood is tense and serious as they appear to be heading towards a mission."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:07",
+        "end_time": "00:00:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "romance",
+                "lust"
+            ],
+            "themes": [
+                "travel",
+                "romance",
+                "coming of age"
+            ],
+            "actions": [
+                "walking",
+                "kissing",
+                "bathing"
+            ],
+            "objects": [
+                "backpack",
+                "airport",
+                "graduation gown",
+                "hot tub"
+            ],
+            "characters": [
+                "young men",
+                "young women"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "airport",
+            "London, England",
+            "graduation ceremony",
+            "backyard"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "travel",
+            "Europe",
+            "graduation",
+            "kissing",
+            "hot tub",
+            "romance"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A woman is shown topless in a hot tub, though she is covering her breasts with her hands. This constitutes partial, suggestive nudity."
+            }
+        ],
+        "description": "A montage shows two young men traveling through an airport and in London. It cuts to a graduation scene with a couple kissing, and then to a scene of a topless woman in a hot tub covering herself. The narration explains the characters' trip is motivated by romantic and sexual pursuits."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:17",
+        "end_time": "00:00:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "lust"
+            ],
+            "themes": [
+                "partying",
+                "nightlife",
+                "sexual exploration"
+            ],
+            "actions": [
+                "dancing",
+                "partying",
+                "touching"
+            ],
+            "objects": [
+                "revealing clothing",
+                "disco ball",
+                "spotlights"
+            ],
+            "characters": [
+                "young man",
+                "young women",
+                "clubbers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom",
+            "nightclub"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "party",
+            "nightclub",
+            "seduction",
+            "dancing"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A young man is surrounded by several women in sexually suggestive clothing who are touching him. The scene cuts to a large nightclub party, implying a theme of sexual hedonism."
+            }
+        ],
+        "description": "A montage of party scenes shows a young man being touched by several provocatively dressed women, followed by a wide shot of a crowded, energetic nightclub. The narration describes the film as a raunchy European travel comedy."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:00:23",
+        "end_time": "00:00:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "upbeat"
+            ],
+            "themes": [
+                "movie title"
+            ],
+            "actions": [],
+            "objects": [
+                "document",
+                "stamp",
+                "text"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "EuroTrip",
+            "title card",
+            "movie title"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The movie title, \"EuroTrip,\" is stamped in red ink onto a document, serving as the official title card for the film."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:00:26",
+        "end_time": "00:00:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "informational"
+            ],
+            "themes": [
+                "user instruction"
+            ],
+            "actions": [],
+            "objects": [
+                "logo",
+                "text"
+            ],
+            "characters": [
+                "narrator"
+            ],
+            "weather": [],
+            "brands": [
+                "YouTube"
+            ]
+        },
+        "locations": [],
+        "genre": "movie review",
+        "language": "ko-KR",
+        "keywords": [
+            "YouTube",
+            "closed captions",
+            "subtitles",
+            "CC",
+            "instruction"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A black screen with a \"CC\" logo appears. A Korean narrator explains that the video uses YouTube captions and instructs viewers on how to enable them if they are not visible."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:00:33",
+        "end_time": "00:00:35",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "video structure"
+            ],
+            "actions": [],
+            "objects": [
+                "text"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "movie review",
+        "language": "en-US",
+        "keywords": [
+            "chapter marker",
+            "transition card",
+            "movie start"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A black screen with the white text \"#1. movie start\" is shown, serving as a chapter marker for the beginning of the film scene."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:00:35",
+        "end_time": "00:00:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "joyful",
+                "celebratory",
+                "excited"
+            ],
+            "themes": [
+                "graduation",
+                "coming of age",
+                "celebration"
+            ],
+            "actions": [
+                "running",
+                "cheering",
+                "celebrating"
+            ],
+            "objects": [
+                "high school",
+                "banner",
+                "graduation gown",
+                "graduation cap"
+            ],
+            "characters": [
+                "students",
+                "graduates"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "high school"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "graduation",
+            "high school",
+            "celebration",
+            "students"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The scene shows a high school graduation ceremony. Cheerful graduates in red gowns run out of the school building, celebrating. The narrator introduces the main character, Scott Thomas."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:00:41",
+        "end_time": "00:00:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "happy",
+                "romantic"
+            ],
+            "themes": [
+                "romance",
+                "friendship",
+                "graduation"
+            ],
+            "actions": [
+                "kissing",
+                "hugging",
+                "talking"
+            ],
+            "objects": [
+                "graduation gown"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Fiona",
+                "Cooper Harris"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "high school courtyard"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "couple",
+            "kissing",
+            "romance",
+            "graduation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "At the high school graduation, Scott Thomas shares a celebratory and romantic kiss with his girlfriend, Fiona, while his friend Cooper looks on."
+    },
+    {
+        "scene_id": "scene_0008",
+        "start_time": "00:00:50",
+        "end_time": "00:00:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "tension"
+            ],
+            "themes": [
+                "breakup",
+                "relationship conflict"
+            ],
+            "actions": [
+                "talking",
+                "arguing"
+            ],
+            "objects": [
+                "graduation gown"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Fiona"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "high school courtyard"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "breakup",
+            "dumping",
+            "argument",
+            "relationship"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Immediately after their celebratory kiss, Scott attempts to talk about the future, but his girlfriend Fiona abruptly informs him that she is breaking up with him."
+    },
+    {
+        "scene_id": "scene_0009",
+        "start_time": "00:00:58",
+        "end_time": "00:01:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "awkwardness",
+                "sadness"
+            ],
+            "themes": [
+                "breakup",
+                "awkward moment",
+                "family"
+            ],
+            "actions": [
+                "taking a picture",
+                "posing"
+            ],
+            "objects": [
+                "camera",
+                "camcorder"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Fiona",
+                "Scott's family"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "high school courtyard"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "awkward photo",
+            "breakup",
+            "family photo",
+            "shock"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "At the exact moment Scott is being dumped, his family arrives to take a graduation photo, capturing his shocked expression next to his smiling now-ex-girlfriend."
+    },
+    {
+        "scene_id": "scene_0010",
+        "start_time": "00:01:02",
+        "end_time": "00:01:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "confusion",
+                "sadness"
+            ],
+            "themes": [
+                "breakup",
+                "relationship conflict"
+            ],
+            "actions": [
+                "talking",
+                "arguing",
+                "walking away"
+            ],
+            "objects": [
+                "graduation gown"
+            ],
+            "characters": [
+                "Scottie Thomas",
+                "Fiona"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "high school",
+            "graduation ceremony"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "graduation",
+            "breakup",
+            "high school romance"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "At a high school graduation ceremony, a young woman named Fiona breaks up with her boyfriend, Scottie, telling him he is too predictable before walking away from him."
+    },
+    {
+        "scene_id": "scene_0011",
+        "start_time": "00:01:08",
+        "end_time": "00:01:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "desperation",
+                "sadness",
+                "embarrassment"
+            ],
+            "themes": [
+                "heartbreak",
+                "public humiliation"
+            ],
+            "actions": [
+                "yelling",
+                "recording video"
+            ],
+            "objects": [
+                "graduation gown",
+                "camcorder"
+            ],
+            "characters": [
+                "Scottie Thomas"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "high school",
+            "graduation ceremony"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "yelling",
+            "heartbreak",
+            "graduation",
+            "home video"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A distraught Scottie yells his ex-girlfriend Fiona's name in a crowd of graduates, a moment which is being recorded on a home video camera."
+    },
+    {
+        "scene_id": "scene_0012",
+        "start_time": "00:01:11",
+        "end_time": "00:01:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "amusement",
+                "humiliation"
+            ],
+            "themes": [
+                "friendship",
+                "mockery"
+            ],
+            "actions": [
+                "watching tv",
+                "laughing"
+            ],
+            "objects": [
+                "television",
+                "bed"
+            ],
+            "characters": [
+                "Cooper Harris",
+                "Bert Thomas",
+                "Jamie"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "watching video",
+            "laughing",
+            "friends",
+            "mockery"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "In a bedroom, Scottie's friends and younger brother repeatedly watch and laugh at the embarrassing home video of him yelling for Fiona after being dumped."
+    },
+    {
+        "scene_id": "scene_0013",
+        "start_time": "00:01:18",
+        "end_time": "00:01:28",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity",
+                "sadness"
+            ],
+            "themes": [
+                "communication",
+                "pen pals",
+                "technology"
+            ],
+            "actions": [
+                "using computer",
+                "checking email",
+                "reading",
+                "using a dictionary"
+            ],
+            "objects": [
+                "computer monitor",
+                "desk",
+                "book",
+                "dictionary"
+            ],
+            "characters": [
+                "Scottie Thomas"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "email",
+            "computer",
+            "pen pal",
+            "dictionary",
+            "German"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "While still upset about his breakup, Scottie receives an email on his computer from his German pen pal, Mieke. He uses a German dictionary to understand and reply to the email."
+    },
+    {
+        "scene_id": "scene_0014",
+        "start_time": "00:01:28",
+        "end_time": "00:01:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "skepticism",
+                "humor"
+            ],
+            "themes": [
+                "misunderstanding",
+                "dark humor"
+            ],
+            "actions": [
+                "talking",
+                "warning",
+                "joking"
+            ],
+            "objects": [
+                "computer monitor",
+                "desk"
+            ],
+            "characters": [
+                "Scottie Thomas",
+                "Cooper Harris"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "pen pal",
+            "warning",
+            "online predator",
+            "misunderstanding",
+            "joke"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A character jokingly suggests another character will be sexually assaulted ('raped') by his online pen pal. The comment is brief, not graphic, and presented in a comedic context."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The conversation involves a joke about sexual assault, which could be considered controversial."
+            }
+        ],
+        "description": "Scottie's friend, Cooper, misunderstands that the German pen pal Mieke is a man named Mike. He comically warns Scottie that online pen pals are often predators and jokes that \"Mike\" will try to meet up and sexually assault him, a comment that justifies a low sexual content score."
+    },
+    {
+        "scene_id": "scene_0015",
+        "start_time": "00:01:38",
+        "end_time": "00:01:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "festive",
+                "energetic"
+            ],
+            "themes": [
+                "party",
+                "celebration",
+                "graduation"
+            ],
+            "actions": [
+                "partying",
+                "socializing"
+            ],
+            "objects": [
+                "house",
+                "swimming pool",
+                "party lights"
+            ],
+            "characters": [
+                "party guests"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "house party"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "party",
+            "graduation party",
+            "backyard party",
+            "nightlife"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A wide shot shows a lively graduation party taking place at night in the backyard of a house, filled with guests, a pool, and festive decorations."
+    },
+    {
+        "scene_id": "scene_0016",
+        "start_time": "00:01:41",
+        "end_time": "00:01:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "social",
+                "friendly",
+                "humorous"
+            ],
+            "themes": [
+                "friendship",
+                "social interaction",
+                "party"
+            ],
+            "actions": [
+                "talking",
+                "drinking",
+                "socializing"
+            ],
+            "objects": [
+                "plastic cups"
+            ],
+            "characters": [
+                "Scottie Thomas",
+                "Cooper Harris",
+                "Jenny",
+                "Jamie"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "house party"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "party",
+            "friends",
+            "socializing",
+            "twins"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "At the party, Scottie and Cooper interact with their friends, the twins Jenny and Jamie. They have a friendly, casual conversation, treating Jenny as one of their male friends."
+    },
+    {
+        "scene_id": "scene_0017",
+        "start_time": "00:01:49",
+        "end_time": "00:02:03",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "energetic",
+                "amorous",
+                "humorous"
+            ],
+            "themes": [
+                "party",
+                "hedonism",
+                "teen life",
+                "travel"
+            ],
+            "actions": [
+                "kissing",
+                "making out",
+                "drinking",
+                "playing games",
+                "talking"
+            ],
+            "objects": [
+                "plastic cups",
+                "food",
+                "table",
+                "book"
+            ],
+            "characters": [
+                "party guests",
+                "Scottie Thomas",
+                "Cooper Harris",
+                "Jenny",
+                "Jamie"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "house party"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "party",
+            "drinking game",
+            "making out",
+            "crude humor",
+            "travel plans"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A couple is shown making out intensely on a table in a party setting. A character makes a brief, non-graphic crude joke about showing someone his 'balls.'"
+            },
+            {
+                "category": "profanity",
+                "score": 1,
+                "explanation": "The word 'balls' is used in a crude joke."
+            }
+        ],
+        "description": "The scene shows various typical high school party activities, including a couple passionately making out on a food table and people playing drinking games. In the midst of this, Jamie discusses his European travel itinerary, and Cooper makes a crude joke, asking if someone wants to see his testicles ('balls'), which contributes to the sexual and profanity scores."
+    },
+    {
+        "scene_id": "scene_0018",
+        "start_time": "00:02:03",
+        "end_time": "00:02:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "excitement",
+                "romance",
+                "shock"
+            ],
+            "themes": [
+                "live music",
+                "party",
+                "new romance",
+                "betrayal"
+            ],
+            "actions": [
+                "singing",
+                "playing music",
+                "kissing",
+                "cheering"
+            ],
+            "objects": [
+                "microphone",
+                "stage",
+                "guitar",
+                "drums"
+            ],
+            "characters": [
+                "Band Singer",
+                "Fiona",
+                "Scottie Thomas",
+                "party guests"
+            ],
+            "weather": [],
+            "brands": [
+                "Marshall"
+            ]
+        },
+        "locations": [
+            "backyard",
+            "house party",
+            "stage"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "live band",
+            "concert",
+            "kissing",
+            "party",
+            "betrayal"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "A couple kisses passionately on stage in front of a crowd."
+            }
+        ],
+        "description": "A band performs at the party. The lead singer dedicates a song to Fiona, Scottie's recent ex-girlfriend, and she joins him on stage where they kiss passionately in front of everyone, including a shocked Scottie."
+    },
+    {
+        "scene_id": "scene_0019",
+        "start_time": "00:02:16",
+        "end_time": "00:02:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "humiliation",
+                "shock",
+                "sadness"
+            ],
+            "themes": [
+                "betrayal",
+                "infidelity",
+                "public humiliation",
+                "live music"
+            ],
+            "actions": [
+                "singing",
+                "performing",
+                "dancing"
+            ],
+            "objects": [
+                "microphone",
+                "guitar",
+                "stage"
+            ],
+            "characters": [
+                "Band Singer",
+                "Fiona",
+                "Scottie Thomas"
+            ],
+            "weather": [],
+            "brands": [
+                "Marshall"
+            ]
+        },
+        "locations": [
+            "backyard",
+            "house party",
+            "stage"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "cheating",
+            "infidelity",
+            "song lyrics",
+            "humiliation",
+            "betrayal"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The song's lyrics explicitly detail a character's infidelity, publicly humiliating another character. The theme is cheating."
+            }
+        ],
+        "description": "The band performs a song titled \"Scotty Doesn't Know,\" with lyrics that explicitly reveal Fiona has been cheating on Scottie with the lead singer. Scottie is forced to listen to the details of his girlfriend's infidelity in front of the entire party, causing him public humiliation and justifying the controversy score."
+    },
+    {
+        "scene_id": "scene_0020",
+        "start_time": "00:02:26",
+        "end_time": "00:02:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "shock",
+                "comedy"
+            ],
+            "themes": [
+                "voyeurism",
+                "party",
+                "comedy"
+            ],
+            "actions": [
+                "hiding",
+                "watching",
+                "undressing",
+                "jumping",
+                "splashing"
+            ],
+            "objects": [
+                "hot tub",
+                "bushes",
+                "bikini"
+            ],
+            "characters": [
+                "man",
+                "women"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "hot tub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "hot tub",
+            "party",
+            "peeping",
+            "partial nudity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A woman is briefly shown topless from behind and from the side while covering her chest with her hands. The scene is presented in a comedic context."
+            }
+        ],
+        "description": "A man hiding in the bushes watches as several women get ready to use a hot tub at a party. Another man unexpectedly jumps into the tub, splashing a topless woman who is covering herself. The scene contains brief partial nudity for comedic effect."
+    },
+    {
+        "scene_id": "scene_0021",
+        "start_time": "00:02:34",
+        "end_time": "00:02:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "awkwardness"
+            ],
+            "themes": [
+                "party",
+                "comedy",
+                "social interaction"
+            ],
+            "actions": [
+                "performing",
+                "singing",
+                "talking"
+            ],
+            "objects": [
+                "hot tub",
+                "microphone",
+                "stage"
+            ],
+            "characters": [
+                "band members",
+                "man",
+                "woman"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "party"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "party",
+            "band",
+            "hot tub",
+            "partial nudity",
+            "awkward conversation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A topless woman continues to cover her breasts with her hands while having an awkward conversation with a man in a hot tub. The nudity is not explicit and is part of a comedic scene."
+            }
+        ],
+        "description": "The scene alternates between a rock band performing energetically at a party and the man in the hot tub having an awkward conversation with the topless woman, who remains covering her chest."
+    },
+    {
+        "scene_id": "scene_0022",
+        "start_time": "00:02:47",
+        "end_time": "00:02:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "shock",
+                "surprise"
+            ],
+            "themes": [
+                "party",
+                "comedy",
+                "social awkwardness"
+            ],
+            "actions": [
+                "singing",
+                "drinking",
+                "watching",
+                "throwing a person"
+            ],
+            "objects": [
+                "hot tub",
+                "towel",
+                "cup",
+                "microphone",
+                "champagne bottle"
+            ],
+            "characters": [
+                "band members",
+                "party guests",
+                "man",
+                "women"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "party"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "party",
+            "hot tub",
+            "shock",
+            "getting thrown out",
+            "partial nudity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A topless woman covering her breasts is seen in a hot tub with a man by her friends, causing a shocked reaction. The nudity is brief and part of a comedic setup."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A man is physically thrown through the air in a slapstick, non-injurious manner as a comedic punchline."
+            }
+        ],
+        "description": "While the band plays, the woman's friends, now in towels, discover her in the hot tub with the man, reacting with shock. The man who jumped in earlier is then comically thrown out of the party."
+    },
+    {
+        "scene_id": "scene_0023",
+        "start_time": "00:02:57",
+        "end_time": "00:03:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity",
+                "confusion"
+            ],
+            "themes": [
+                "communication",
+                "misunderstanding",
+                "language barrier"
+            ],
+            "actions": [
+                "walking",
+                "sitting",
+                "reading email"
+            ],
+            "objects": [
+                "computer",
+                "desk",
+                "email"
+            ],
+            "characters": [
+                "Scotty"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "de-DE",
+        "keywords": [
+            "email",
+            "computer",
+            "bedroom",
+            "German language"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A young man named Scotty enters his messy bedroom and sits at his computer. He reads an email written entirely in German, looking confused by its content."
+    },
+    {
+        "scene_id": "scene_0024",
+        "start_time": "00:03:06",
+        "end_time": "00:03:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "shock",
+                "anger"
+            ],
+            "themes": [
+                "misunderstanding",
+                "language barrier",
+                "comedy"
+            ],
+            "actions": [
+                "looking up a word",
+                "reading",
+                "reacting"
+            ],
+            "objects": [
+                "dictionary",
+                "email",
+                "computer"
+            ],
+            "characters": [
+                "Scotty"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "misunderstanding",
+            "dictionary",
+            "German",
+            "translation",
+            "comedy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Scotty, confused by a German word in the email, looks it up in a dictionary. He finds it means 'to arrange a meeting' but misinterprets it as a sexual advance, reacting with shock and anger."
+    },
+    {
+        "scene_id": "scene_0025",
+        "start_time": "00:03:12",
+        "end_time": "00:03:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "misunderstanding",
+                "insult",
+                "comedy"
+            ],
+            "actions": [
+                "typing",
+                "insulting",
+                "closing laptop"
+            ],
+            "objects": [
+                "computer",
+                "email"
+            ],
+            "characters": [
+                "Scotty"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "angry email",
+            "profanity",
+            "insult",
+            "misunderstanding"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "hate_speech",
+                "score": 1,
+                "explanation": "The character types the mildly offensive phrase 'sick German freak' in an email. It's an insult based on nationality but delivered in a comedic, non-hateful context."
+            }
+        ],
+        "description": "Acting on his misunderstanding, Scotty angrily types a reply calling the sender a 'sick German freak.' He tells them to never write to him again before slamming his laptop shut."
+    },
+    {
+        "scene_id": "scene_0026",
+        "start_time": "00:03:19",
+        "end_time": "00:03:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "pain",
+                "regret"
+            ],
+            "themes": [
+                "hangover",
+                "drinking",
+                "comedy"
+            ],
+            "actions": [
+                "waking up",
+                "yawning",
+                "talking"
+            ],
+            "objects": [
+                "bed",
+                "pillow"
+            ],
+            "characters": [
+                "Scotty"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "hangover",
+            "waking up",
+            "drinking",
+            "regret"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "substance_use",
+                "score": 1,
+                "explanation": "A character is shown suffering the effects of a hangover after implied heavy drinking. The portrayal is lighthearted and comedic, not promoting substance abuse."
+            }
+        ],
+        "description": "The next morning, Scotty wakes up in bed with a severe hangover. He groans in pain and mutters, 'I'm never drinking again,' expressing his regret."
+    },
+    {
+        "scene_id": "scene_0027",
+        "start_time": "00:03:24",
+        "end_time": "00:03:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "smugness",
+                "disbelief",
+                "confusion"
+            ],
+            "themes": [
+                "misunderstanding",
+                "revelation",
+                "comedy",
+                "sibling interaction"
+            ],
+            "actions": [
+                "talking",
+                "reading email",
+                "showing a photo"
+            ],
+            "objects": [
+                "computer",
+                "robe",
+                "photograph"
+            ],
+            "characters": [
+                "Scotty",
+                "Bert"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "sibling",
+            "misunderstanding",
+            "email",
+            "gender confusion",
+            "name"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Scotty's younger brother, Bert, who has read the email, tells him that 'Mieke' wants to hook up. Scotty dismisses this, believing 'Mike' is a man based on a photo. Bert corrects him, explaining that Mieke is a German girl's name."
+    },
+    {
+        "scene_id": "scene_0028",
+        "start_time": "00:03:38",
+        "end_time": "00:03:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "realization",
+                "shock"
+            ],
+            "themes": [
+                "language barrier",
+                "epiphany",
+                "comedy"
+            ],
+            "actions": [
+                "realizing",
+                "explaining"
+            ],
+            "objects": [
+                "photograph",
+                "text graphic"
+            ],
+            "characters": [
+                "Scotty",
+                "Bert"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "epiphany",
+            "realization",
+            "German language",
+            "pronunciation",
+            "language lesson"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Scotty has a moment of shocking realization about his mistake. A narrator explains the linguistic error, using the German word 'Ja' (yes) to illustrate how pronunciation differs from English."
+    },
+    {
+        "scene_id": "scene_0029",
+        "start_time": "00:03:47",
+        "end_time": "00:03:55",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "despair",
+                "horror",
+                "regret",
+                "shock"
+            ],
+            "themes": [
+                "comedy",
+                "exaggeration",
+                "epiphany"
+            ],
+            "actions": [
+                "eating",
+                "screaming",
+                "falling"
+            ],
+            "objects": [
+                "bed",
+                "musical instruments"
+            ],
+            "characters": [
+                "Scotty",
+                "band members"
+            ],
+            "weather": [],
+            "brands": [
+                "Yamaha"
+            ]
+        },
+        "locations": [
+            "bedroom",
+            "outdoors"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "screaming",
+            "despair",
+            "regret",
+            "comedic reaction",
+            "epiphany"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "After a few more examples of German pronunciation, the full weight of his mistake hits Scotty. He lets out a prolonged, horrified scream and falls backward onto his bed in despair."
+    },
+    {
+        "scene_id": "scene_0030",
+        "start_time": "00:03:55",
+        "end_time": "00:04:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "confusion",
+                "sadness"
+            ],
+            "themes": [
+                "breakup",
+                "communication",
+                "travel"
+            ],
+            "actions": [
+                "peeking",
+                "looking",
+                "reading email",
+                "blocking user"
+            ],
+            "objects": [
+                "stage equipment",
+                "laptop",
+                "email"
+            ],
+            "characters": [
+                "man",
+                "woman"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "outdoor stage",
+            "Berlin, Germany",
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "breakup email",
+            "blocking",
+            "Berlin",
+            "pen pal"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "A man and woman peek over a stage with surprised looks. The scene transitions to an aerial shot of Berlin, Germany. A woman in her room looks sadly at an email on her laptop from someone named Scott Thomas, and proceeds to block his email address."
+    },
+    {
+        "scene_id": "scene_0031",
+        "start_time": "00:04:06",
+        "end_time": "00:04:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "disappointment",
+                "love",
+                "surprise"
+            ],
+            "themes": [
+                "romance",
+                "friendship",
+                "communication"
+            ],
+            "actions": [
+                "using computer",
+                "talking",
+                "entering room"
+            ],
+            "objects": [
+                "computer",
+                "desk",
+                "bed"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "email blocked",
+            "pen pal",
+            "love confession",
+            "friendship"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "In a messy bedroom, a young man named Scott is disappointed to see his email to his pen pal has been blocked. His friend, Cooper, walks in, and Scott confesses that he is in love with his pen pal."
+    },
+    {
+        "scene_id": "scene_0032",
+        "start_time": "00:04:11",
+        "end_time": "00:04:21",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "excitement",
+                "humor"
+            ],
+            "themes": [
+                "mistaken identity",
+                "romance",
+                "friendship"
+            ],
+            "actions": [
+                "talking",
+                "showing a photo",
+                "joking"
+            ],
+            "objects": [
+                "photograph"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris",
+                "Mieke (in photo)"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "mistaken identity",
+            "pen pal",
+            "attractive girl",
+            "revelation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "There is a mild, joking reference to homosexuality ('you're the girl and you're both the girl')."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "Scott reveals to a surprised Cooper that his male pen pal 'Mike' is actually an attractive girl named Mieke. Cooper makes a mild joke about Scott's sexuality. Scott then shows Cooper a photo of Mieke, correcting her name, and Cooper is impressed by her looks."
+    },
+    {
+        "scene_id": "scene_0033",
+        "start_time": "00:04:21",
+        "end_time": "00:04:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "encouragement",
+                "determination",
+                "frustration"
+            ],
+            "themes": [
+                "friendship",
+                "romance",
+                "travel"
+            ],
+            "actions": [
+                "talking",
+                "sitting"
+            ],
+            "objects": [
+                "computer",
+                "desk",
+                "bed"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "encouragement",
+            "long-distance romance",
+            "Berlin",
+            "travel plan"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "Cooper urges Scott to take action on his feelings for Mieke. Scott, feeling a bit helpless, states that the only information he has is that she lives in Berlin."
+    },
+    {
+        "scene_id": "scene_0034",
+        "start_time": "00:04:25",
+        "end_time": "00:04:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "excitement",
+                "hope"
+            ],
+            "themes": [
+                "travel",
+                "adventure",
+                "friendship"
+            ],
+            "actions": [
+                "walking",
+                "talking",
+                "inquiring"
+            ],
+            "objects": [
+                "backpacks",
+                "airport terminal",
+                "desk"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris",
+                "courier employee"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "airport"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "airport",
+            "travel to Germany",
+            "cheap flights",
+            "courier service",
+            "adventure"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "At an airport, Scott and Cooper decide to go to Germany. Cooper assures Scott he has a plan, and they approach a courier service desk where an employee offers them very cheap flights to London in exchange for being couriers."
+    },
+    {
+        "scene_id": "scene_0035",
+        "start_time": "00:04:34",
+        "end_time": "00:04:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "anticipation"
+            ],
+            "themes": [
+                "travel",
+                "sexuality",
+                "coming-of-age"
+            ],
+            "actions": [
+                "flying",
+                "talking",
+                "serving drinks"
+            ],
+            "objects": [
+                "airplane",
+                "airplane seats",
+                "drinks"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris",
+                "flight attendant"
+            ],
+            "weather": [
+                "sunny",
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "airplane"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "airplane",
+            "flying",
+            "sunset",
+            "Europe trip",
+            "sexual experience"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A character explicitly states his goal is to lose his virginity in Europe. The Korean subtitles specify '떼겠다' (to get rid of) '총각 딱지' (virginity tag), which is a colloquial and direct reference to losing one's virginity."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "An airplane is shown taking off and flying through the clouds at sunset. Inside, Scott and Cooper are seated and talking. Cooper reveals that his motivation for the trip is to lose his virginity in Europe, which is a key topic of their conversation."
+    },
+    {
+        "scene_id": "scene_0036",
+        "start_time": "00:04:42",
+        "end_time": "00:04:48",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "awe",
+                "excitement"
+            ],
+            "themes": [
+                "travel",
+                "sightseeing",
+                "adventure"
+            ],
+            "actions": [
+                "sightseeing",
+                "talking",
+                "walking"
+            ],
+            "objects": [
+                "Big Ben",
+                "bridge",
+                "backpacks",
+                "UK flag"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "London, UK"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "London",
+            "Big Ben",
+            "travel",
+            "sightseeing",
+            "UK"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 1,
+                "explanation": "The scene opens with a graphic of the UK flag made of red, white, and blue pills. This imagery can be associated with drug use, particularly ecstasy or other recreational drugs, even if not explicitly stated."
+            },
+            {
+                "category": "alcohol",
+                "score": 0,
+                "explanation": "No alcohol consumption is depicted in this scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "The scene begins with a graphic of the UK flag made of pills, then transitions to a view of Big Ben in London. Scott and Cooper are standing on a bridge, taking in the sights and discussing that the next bus to Berlin is not until the following morning."
+    },
+    {
+        "scene_id": "scene_0037",
+        "start_time": "00:04:48",
+        "end_time": "00:04:54",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity",
+                "nervousness",
+                "fear"
+            ],
+            "themes": [
+                "misadventure",
+                "culture clash",
+                "danger"
+            ],
+            "actions": [
+                "walking",
+                "entering a pub",
+                "observing"
+            ],
+            "objects": [
+                "pub",
+                "bar",
+                "sports memorabilia"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris",
+                "soccer hooligans"
+            ],
+            "weather": [],
+            "brands": [
+                "Manchester United (implied)"
+            ]
+        },
+        "locations": [
+            "London street",
+            "pub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "London pub",
+            "soccer hooligans",
+            "Manchester United fans",
+            "mistake",
+            "intimidating crowd"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The atmosphere is very tense and threatening, implying the potential for violence from the soccer hooligans. No physical violence occurs yet."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 1,
+                "explanation": "The scene takes place in a pub where patrons are drinking."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial topics are discussed in this scene."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "To pass the time in London, Scott and Cooper walk into a random pub. They quickly realize they've entered a bar filled with intimidating soccer hooligans, all wearing red and supporting Manchester United, creating a tense and threatening atmosphere."
+    },
+    {
+        "scene_id": "scene_0038",
+        "start_time": "00:04:54",
+        "end_time": "00:05:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "tension",
+                "intimidation"
+            ],
+            "themes": [
+                "danger",
+                "confrontation",
+                "hooliganism"
+            ],
+            "actions": [
+                "staring",
+                "smoking",
+                "self-harm",
+                "approaching"
+            ],
+            "objects": [
+                "cigarette",
+                "pub decor",
+                "beer"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris",
+                "soccer hooligans",
+                "hooligan leader"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "pub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "soccer hooligans",
+            "intimidation",
+            "threat",
+            "tense situation",
+            "self-harm"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A man deliberately puts out a cigarette on his own arm, which is an act of self-harm. The scene is highly menacing and confrontational, implying imminent violence."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 1,
+                "explanation": "The scene is in a pub with visible drinking."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts soccer hooliganism, a controversial aspect of sports culture."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "Inside the pub, Scott confirms they are among soccer hooligans. The tension escalates as the hooligans stare menacingly. One man demonstrates his toughness by putting out a cigarette on his arm, an act of self-harm. The group's leader then confronts Scott and Cooper."
+    },
+    {
+        "scene_id": "scene_0039",
+        "start_time": "00:05:04",
+        "end_time": "00:05:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "nervousness",
+                "desperation"
+            ],
+            "themes": [
+                "deception",
+                "survival",
+                "confrontation"
+            ],
+            "actions": [
+                "talking",
+                "lying",
+                "demanding"
+            ],
+            "objects": [
+                "bar",
+                "beer"
+            ],
+            "characters": [
+                "Scott Thomas",
+                "Cooper Harris",
+                "hooligan leader"
+            ],
+            "weather": [],
+            "brands": [
+                "Manchester United"
+            ]
+        },
+        "locations": [
+            "pub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "confrontation",
+            "lying for survival",
+            "Manchester United",
+            "soccer chant",
+            "hooligans"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene is verbally confrontational and threatening. The demand to sing the song is a test with an implied violent consequence for failure."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug use is depicted in this scene."
+            },
+            {
+                "category": "alcohol",
+                "score": 1,
+                "explanation": "The scene continues in the pub."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is expressed in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene continues to depict soccer hooliganism."
+            },
+            {
+                "category": "misinformation",
+                "score": 0,
+                "explanation": "No misinformation is presented in this scene."
+            }
+        ],
+        "description": "Confronted by the hooligan leader, Scott desperately lies, claiming he and Cooper are members of the Manchester United fan club. The leader, unconvinced, puts them on the spot by demanding they prove it by singing the team's song. The atmosphere remains highly threatening."
+    },
+    {
+        "scene_id": "scene_0040",
+        "start_time": "00:05:11",
+        "end_time": "00:05:21",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "intimidation",
+                "anxiety",
+                "aggression"
+            ],
+            "themes": [
+                "hooliganism",
+                "coercion",
+                "confrontation"
+            ],
+            "actions": [
+                "singing",
+                "threatening",
+                "intimidating"
+            ],
+            "objects": [
+                "backpack",
+                "baton",
+                "brass knuckles",
+                "dartboard",
+                "banner"
+            ],
+            "characters": [
+                "tourists",
+                "hooligans",
+                "fan club members"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "pub",
+            "bar"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "hooligans",
+            "fan club",
+            "intimidation",
+            "coercion",
+            "pub"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A group of men are intimidating two others, showing weapons like a baton and brass knuckles. The atmosphere is highly threatening, but no physical violence has occurred yet."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts football hooliganism, which can be a controversial topic."
+            }
+        ],
+        "description": "Two young American tourists are cornered in a pub by an aggressive group of British football hooligans. The leader of the hooligans demands they sing the Manchester United fan song to prove their allegiance. The scene is tense and intimidating, as some of the hooligans are visibly armed with a baton and brass knuckles, leading to a low score for violence due to the implied threat."
+    },
+    {
+        "scene_id": "scene_0041",
+        "start_time": "00:05:21",
+        "end_time": "00:05:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "joy",
+                "relief",
+                "celebration",
+                "camaraderie"
+            ],
+            "themes": [
+                "friendship",
+                "celebration",
+                "music",
+                "drinking"
+            ],
+            "actions": [
+                "singing",
+                "cheering",
+                "hugging",
+                "playing piano",
+                "drinking beer",
+                "toasting"
+            ],
+            "objects": [
+                "piano",
+                "beer mugs",
+                "beer bottles"
+            ],
+            "characters": [
+                "tourists",
+                "hooligans",
+                "fan club members"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "pub",
+            "bar"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "singing",
+            "celebrating",
+            "pub",
+            "drinking",
+            "friendship"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "alcohol",
+                "score": 2,
+                "explanation": "Multiple characters are shown drinking beer and toasting in a celebratory manner in a pub setting."
+            }
+        ],
+        "description": "The tense confrontation unexpectedly resolves when the hooligan leader declares the tourists' singing to be 'pretty damn good.' The atmosphere immediately changes to one of joyful celebration. Everyone starts cheering, hugging, and gathering around a piano to sing and drink beer together, highlighting the consumption of alcohol."
+    },
+    {
+        "scene_id": "scene_0042",
+        "start_time": "00:05:33",
+        "end_time": "00:05:37",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "regret",
+                "discomfort"
+            ],
+            "themes": [
+                "aftermath of drinking",
+                "regret"
+            ],
+            "actions": [
+                "talking",
+                "sitting"
+            ],
+            "objects": [
+                "couch",
+                "trophy"
+            ],
+            "characters": [
+                "tourist"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "indoors"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "hangover",
+            "drinking",
+            "regret",
+            "morning after"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "alcohol",
+                "score": 1,
+                "explanation": "A character expresses regret after a night of heavy drinking, referencing the negative consequences of alcohol consumption."
+            }
+        ],
+        "description": "The scene cuts to the next morning, where one of the main characters is shown looking hungover and full of regret. He says, 'I'm never drinking again,' directly referencing the consequences of the previous night's alcohol consumption."
+    },
+    {
+        "scene_id": "scene_0043",
+        "start_time": "00:05:37",
+        "end_time": "00:05:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "excitement",
+                "surprise"
+            ],
+            "themes": [
+                "road trip",
+                "adventure",
+                "hooliganism"
+            ],
+            "actions": [
+                "driving",
+                "talking",
+                "riding a bus"
+            ],
+            "objects": [
+                "double-decker bus",
+                "banner"
+            ],
+            "characters": [
+                "tourists",
+                "hooligans"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "highway",
+            "double-decker bus"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "road trip",
+            "double-decker bus",
+            "hooligans",
+            "Paris"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "A banner on the bus contains the word 'WANK,' which is a vulgar term."
+            }
+        ],
+        "description": "The character wakes up to find himself and his friends on the open top of a moving double-decker bus with the hooligans. A large banner with the profane phrase 'IF YOUR NOT A MANC YOUR A WANK' is displayed. The leader informs them they are all traveling to Paris for a football match."
+    },
+    {
+        "scene_id": "scene_0044",
+        "start_time": "00:05:47",
+        "end_time": "00:05:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "adventurous"
+            ],
+            "themes": [
+                "travel",
+                "journey"
+            ],
+            "actions": [
+                "driving",
+                "traveling"
+            ],
+            "objects": [
+                "double-decker bus",
+                "map",
+                "car",
+                "road sign"
+            ],
+            "characters": [],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "France",
+            "highway"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "travel",
+            "France",
+            "Paris",
+            "road trip",
+            "map"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A brief travel montage shows a map of the bus's route from England to Paris, France, followed by a shot of the bus driving on a French highway, emphasizing their journey."
+    },
+    {
+        "scene_id": "scene_0045",
+        "start_time": "00:05:51",
+        "end_time": "00:06:00",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "anger",
+                "hostility"
+            ],
+            "themes": [
+                "hooliganism",
+                "mob mentality",
+                "conflict"
+            ],
+            "actions": [
+                "shouting",
+                "chasing",
+                "running"
+            ],
+            "objects": [
+                "double-decker bus",
+                "car"
+            ],
+            "characters": [
+                "hooligans",
+                "French civilian"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "chase",
+            "hooligans",
+            "Paris",
+            "mob",
+            "aggression"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A large group of aggressive men (hooligans) are shown chasing a single individual down the street with hostile intent. While no physical contact is made, it is a clear depiction of mob intimidation and the prelude to a potential assault."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts football hooliganism and xenophobic aggression, which are controversial social issues."
+            }
+        ],
+        "description": "Upon arriving in Paris, the leader of the hooligans spots a man wearing a French football jersey. He shouts aggressively, and the entire group disembarks from the bus to chase the man down the street in a hostile mob. This scene depicts mob intimidation and potential violence related to football rivalries, justifying scores for violence and controversy."
+    },
+    {
+        "scene_id": "scene_0046",
+        "start_time": "00:06:00",
+        "end_time": "00:06:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "happiness",
+                "excitement",
+                "friendliness"
+            ],
+            "themes": [
+                "reunion",
+                "friendship",
+                "travel",
+                "tourism"
+            ],
+            "actions": [
+                "talking",
+                "greeting",
+                "walking",
+                "pointing"
+            ],
+            "objects": [
+                "camera",
+                "backpack",
+                "buildings",
+                "metro sign"
+            ],
+            "characters": [
+                "tourists",
+                "friends"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "Leica"
+            ]
+        },
+        "locations": [
+            "Paris",
+            "city square"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "reunion",
+            "friends",
+            "Paris",
+            "tourism",
+            "camera",
+            "Louvre"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The main characters reunite with their two friends in a square in Paris. They have a friendly conversation about a new Leica camera and excitedly decide to visit the Louvre museum together."
+    },
+    {
+        "scene_id": "scene_0047",
+        "start_time": "00:06:18",
+        "end_time": "00:06:28",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "boredom",
+                "amusement",
+                "playfulness"
+            ],
+            "themes": [
+                "tourism",
+                "street performance",
+                "comedy"
+            ],
+            "actions": [
+                "queuing",
+                "waiting",
+                "mimicking",
+                "street performing",
+                "dancing"
+            ],
+            "objects": [
+                "sign",
+                "suitcase"
+            ],
+            "characters": [
+                "tourist",
+                "street performer",
+                "crowd"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "outside a museum",
+            "city street"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "queue",
+            "street performer",
+            "robot",
+            "mimicry",
+            "comedy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Faced with a massive queue to enter the museum, one of the characters becomes bored and starts mimicking a nearby street performer dressed as a robot. He playfully copies the performer's mechanical movements."
+    },
+    {
+        "scene_id": "scene_0048",
+        "start_time": "00:06:28",
+        "end_time": "00:06:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "amusement",
+                "comedy",
+                "playfulness",
+                "surprise"
+            ],
+            "themes": [
+                "street performance",
+                "comedy",
+                "mock fight"
+            ],
+            "actions": [
+                "dancing",
+                "fighting",
+                "slapping",
+                "performing",
+                "acting"
+            ],
+            "objects": [
+                "costume"
+            ],
+            "characters": [
+                "tourist",
+                "street performer",
+                "crowd"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "robot fight",
+            "street performer",
+            "comedy",
+            "dance battle",
+            "slapstick"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The scene depicts a highly stylized and comedic mock fight between two characters pretending to be robots. It involves playful slapping and exaggerated movements with no real intent to harm, constituting very low-level, slapstick violence."
+            }
+        ],
+        "description": "The character's mimicry escalates into a full-blown comedic 'robot duel' with the street performer. They engage in a dance-off of robotic moves, which includes some light, slapstick-style hitting and slapping. The performance ends when the professional street performer dramatically feigns a system 'error' and collapses. The violence is clearly theatrical and intended for comedic effect."
+    },
+    {
+        "scene_id": "scene_0049",
+        "start_time": "00:06:41",
+        "end_time": "00:06:53",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "happiness",
+                "friendship",
+                "excitement"
+            ],
+            "themes": [
+                "dining",
+                "friendship",
+                "travel planning",
+                "celebration"
+            ],
+            "actions": [
+                "eating",
+                "drinking wine",
+                "talking",
+                "toasting"
+            ],
+            "objects": [
+                "wine glasses",
+                "food",
+                "table",
+                "wine bottle"
+            ],
+            "characters": [
+                "friends"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "restaurant"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "dinner",
+            "restaurant",
+            "friends",
+            "toasting",
+            "wine",
+            "travel"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "alcohol",
+                "score": 1,
+                "explanation": "Characters are shown dining and toasting with glasses of red wine in a social setting."
+            }
+        ],
+        "description": "The four friends are enjoying dinner together in an upscale restaurant. They discuss their travel plans and enthusiastically agree to go to Berlin next. The scene concludes with them happily toasting their decision with glasses of red wine, indicating social alcohol consumption."
+    },
+    {
+        "scene_id": "scene_0050",
+        "start_time": "00:06:53",
+        "end_time": "00:07:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calm",
+                "neutral"
+            ],
+            "themes": [
+                "travel",
+                "comedy"
+            ],
+            "actions": [
+                "traveling by train",
+                "sitting",
+                "reading"
+            ],
+            "objects": [
+                "train",
+                "newspaper",
+                "book",
+                "camera"
+            ],
+            "characters": [
+                "friends",
+                "stranger"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "train compartment"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "train",
+            "travel",
+            "friends",
+            "reading",
+            "awkward encounter"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "A strange, older man enters the train compartment and behaves in a slightly unsettling manner, which can be interpreted as foreshadowing a predatory encounter. No explicit actions occur yet."
+            }
+        ],
+        "description": "A group of four young friends is relaxing in a train compartment, reading and talking. An older man in a suit enters and sits with them, creating a slightly awkward atmosphere. His demeanor hints at a potentially uncomfortable situation to come."
+    },
+    {
+        "scene_id": "scene_0051",
+        "start_time": "00:07:02",
+        "end_time": "00:07:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "discomfort",
+                "confusion",
+                "awkwardness"
+            ],
+            "themes": [
+                "sexual harassment",
+                "unwanted advances",
+                "comedy"
+            ],
+            "actions": [
+                "sitting",
+                "unwanted touching",
+                "holding hands"
+            ],
+            "objects": [
+                "train",
+                "newspaper",
+                "watch"
+            ],
+            "characters": [
+                "friends",
+                "stranger"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "train compartment"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "train",
+            "unwanted touching",
+            "harassment",
+            "awkward",
+            "tunnel"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 3,
+                "explanation": "The scene depicts non-consensual physical contact. An older man places his hand on a young man's thigh and holds his hand without consent, which constitutes sexual harassment."
+            }
+        ],
+        "description": "An older man sits uncomfortably close to two male friends on a train. After the train passes through a dark tunnel, the man is revealed to be holding one of the young men's hands on his thigh. The young man is visibly uncomfortable with this unwanted advance."
+    },
+    {
+        "scene_id": "scene_0052",
+        "start_time": "00:07:17",
+        "end_time": "00:07:30",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "panic",
+                "apprehension"
+            ],
+            "themes": [
+                "sexual harassment",
+                "comedy",
+                "awkwardness"
+            ],
+            "actions": [
+                "moving seats",
+                "talking",
+                "sitting"
+            ],
+            "objects": [
+                "train",
+                "newspaper"
+            ],
+            "characters": [
+                "friends",
+                "stranger"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "train compartment"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "train",
+            "harassment",
+            "fear",
+            "leaving a friend behind"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "The theme of sexual harassment continues as the predatory man now turns his attention to another passenger. The scene implies that the unwanted advances will continue."
+            }
+        ],
+        "description": "The young man who was touched panics and quickly moves to another seat, leaving his friend sitting next to the predatory man. The man then turns his attention to his new seatmate, implying the harassment will continue."
+    },
+    {
+        "scene_id": "scene_0053",
+        "start_time": "00:07:30",
+        "end_time": "00:07:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "shock",
+                "disgust"
+            ],
+            "themes": [
+                "sexual harassment",
+                "implied assault",
+                "nudity",
+                "comedy"
+            ],
+            "actions": [
+                "unwanted touching",
+                "huddling in fear",
+                "smoking",
+                "indecent exposure"
+            ],
+            "objects": [
+                "train",
+                "cigarette"
+            ],
+            "characters": [
+                "friends",
+                "stranger"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "train compartment"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "train",
+            "assault",
+            "fear",
+            "indecent exposure",
+            "partial nudity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 4,
+                "explanation": "The scene strongly implies sexual assault occurred while the train was in a dark tunnel. Afterward, the man is shown with his pants down, which constitutes indecent exposure."
+            },
+            {
+                "category": "nudity",
+                "score": 2,
+                "explanation": "A man is shown from the waist up, but his pants are down around his ankles, showing his bare legs. This is partial male nudity in a sexually threatening context."
+            }
+        ],
+        "description": "After the train passes through more dark tunnels, the four friends are seen huddled together in terror. The predatory man sits across from them with his pants down, smoking a cigarette. The scene strongly implies sexual assault and features indecent exposure."
+    },
+    {
+        "scene_id": "scene_0054",
+        "start_time": "00:07:42",
+        "end_time": "00:07:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity",
+                "excitement"
+            ],
+            "themes": [
+                "travel",
+                "exploring",
+                "friendship"
+            ],
+            "actions": [
+                "walking",
+                "talking",
+                "reading"
+            ],
+            "objects": [
+                "backpack",
+                "book"
+            ],
+            "characters": [
+                "friends"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Crans Sur Mer",
+            "train station"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "travel",
+            "backpacking",
+            "nude beach",
+            "France"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Having escaped the train, the group of friends arrives in the town of Crans Sur Mer. They check a guidebook and discover that the town has a famous nude beach, which piques their interest."
+    },
+    {
+        "scene_id": "scene_0055",
+        "start_time": "00:07:50",
+        "end_time": "00:07:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "hesitation",
+                "playfulness"
+            ],
+            "themes": [
+                "nudity",
+                "friendship",
+                "comedy"
+            ],
+            "actions": [
+                "talking",
+                "undressing",
+                "running"
+            ],
+            "objects": [
+                "clothing",
+                "sandals"
+            ],
+            "characters": [
+                "male friends"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "beach path",
+            "sand dunes"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "nude beach",
+            "undressing",
+            "running",
+            "male nudity"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "nudity",
+                "score": 2,
+                "explanation": "Three men take off their shorts to run to a nude beach. The scene briefly shows their bare buttocks as they run away. The nudity is non-sexual and presented in a comedic context."
+            }
+        ],
+        "description": "The three male friends decide to go to the nude beach. After a brief discussion, they simultaneously drop their shorts and run barefoot over a sand dune. The scene includes brief, comedic male rear nudity."
+    },
+    {
+        "scene_id": "scene_0056",
+        "start_time": "00:07:58",
+        "end_time": "00:08:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "confusion",
+                "disappointment"
+            ],
+            "themes": [
+                "nudity",
+                "comedy",
+                "LGBTQ"
+            ],
+            "actions": [
+                "standing",
+                "staring"
+            ],
+            "objects": [
+                "camera"
+            ],
+            "characters": [
+                "male friends"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "nude beach"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "nude beach",
+            "gay beach",
+            "male nudity",
+            "shock",
+            "comedy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "nudity",
+                "score": 3,
+                "explanation": "The main characters are shown nude from the waist up after arriving at a nude beach. It's revealed to be a gay nude beach, implying the presence of other nude individuals, though they are not shown clearly. The context is comedic."
+            }
+        ],
+        "description": "The three naked friends arrive at the beach, only to be shocked to find that it is populated entirely by other nude men. Their expressions of surprise and disappointment provide a comedic punchline to the previous scene. The main characters are nude, but no explicit details are shown."
+    },
+    {
+        "scene_id": "scene_0057",
+        "start_time": "00:08:04",
+        "end_time": "00:08:10",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calm",
+                "tired"
+            ],
+            "themes": [
+                "travel",
+                "transition"
+            ],
+            "actions": [
+                "traveling by train",
+                "sitting"
+            ],
+            "objects": [
+                "train",
+                "lake"
+            ],
+            "characters": [
+                "friends"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "train",
+            "Amsterdam"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "train",
+            "travel",
+            "night",
+            "lake",
+            "Amsterdam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A transitional scene shows the group of friends traveling on a train at night, passing by a lake. A title card indicates their arrival in Amsterdam."
+    },
+    {
+        "scene_id": "scene_0058",
+        "start_time": "00:08:10",
+        "end_time": "00:08:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "curiosity"
+            ],
+            "themes": [
+                "nightlife",
+                "travel",
+                "adult entertainment",
+                "red-light district"
+            ],
+            "actions": [
+                "walking",
+                "talking",
+                "reading a flyer"
+            ],
+            "objects": [
+                "backpack",
+                "flyer",
+                "neon sign",
+                "bridge"
+            ],
+            "characters": [
+                "friends"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "Amsterdam",
+            "city street"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "Amsterdam",
+            "nightlife",
+            "red-light district",
+            "travel",
+            "exploring"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene is set in what appears to be Amsterdam's red-light district. A large neon sign for a 'Porno Market' is prominently displayed, and the characters discuss visiting a risqué club, introducing adult themes."
+            }
+        ],
+        "description": "The friends are exploring the streets of Amsterdam at night. One of them finds a flyer for a club. As they walk, they pass a building with a large, glowing red neon sign that reads 'Porno Market', indicating they are in an area with adult entertainment."
+    },
+    {
+        "scene_id": "scene_0059",
+        "start_time": "00:08:26",
+        "end_time": "00:08:39",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "anticipation"
+            ],
+            "themes": [
+                "prostitution",
+                "sex work",
+                "adult entertainment",
+                "nightlife"
+            ],
+            "actions": [
+                "entering a club",
+                "talking",
+                "lounging"
+            ],
+            "objects": [
+                "couch",
+                "drinks",
+                "lingerie"
+            ],
+            "characters": [
+                "Cooper",
+                "women"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "brothel",
+            "erotic club",
+            "Amsterdam"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "brothel",
+            "sex club",
+            "erotic",
+            "Amsterdam",
+            "prostitution"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 3,
+                "explanation": "The setting is explicitly an 'erotic club' which is strongly implied to be a brothel. Women are shown dressed in sexually suggestive lingerie, and the context is centered on commercial sexual services."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene depicts a location associated with sex work/prostitution, which is a controversial theme."
+            }
+        ],
+        "description": "One of the friends, Cooper, enters a club based on the flyer he found. The interior is lavishly decorated in red, and several women in lingerie are lounging on couches. A woman greets him and confirms it is 'Amsterdam's most erotic club,' strongly implying it is a brothel."
+    },
+    {
+        "scene_id": "scene_0060",
+        "start_time": "00:08:39",
+        "end_time": "00:08:55",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "desire",
+                "passion"
+            ],
+            "themes": [
+                "romance",
+                "seduction"
+            ],
+            "actions": [
+                "talking",
+                "kissing",
+                "touching"
+            ],
+            "objects": [
+                "camera",
+                "backpack",
+                "store counter"
+            ],
+            "characters": [
+                "male tourist",
+                "female shopkeeper"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "camera shop"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "romance",
+            "kissing",
+            "flirting",
+            "camera shop"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A man and a woman engage in passionate kissing and embracing. The interaction is suggestive but involves no nudity or explicit acts."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "A male tourist and a female shopkeeper flirt in a camera shop, which quickly escalates to them kissing passionately against the store's window at night."
+    },
+    {
+        "scene_id": "scene_0061",
+        "start_time": "00:08:55",
+        "end_time": "00:09:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "surprise",
+                "excitement"
+            ],
+            "themes": [
+                "crime",
+                "robbery",
+                "comedy"
+            ],
+            "actions": [
+                "threatening with a knife",
+                "robbing"
+            ],
+            "objects": [
+                "knife",
+                "wallet"
+            ],
+            "characters": [
+                "robber",
+                "victim"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "alleyway"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "robbery",
+            "knife",
+            "crime",
+            "alley"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A man is threatened at knifepoint during a robbery. A weapon is visibly used to intimidate, which constitutes a moderate act of violence, although no injury occurs."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "In a dark alley, a man is suddenly robbed at knifepoint. The robber holds a knife to his back and demands his wallet. The scene contains a clear threat of violence with a weapon."
+    },
+    {
+        "scene_id": "scene_0062",
+        "start_time": "00:09:02",
+        "end_time": "00:09:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "pleasure",
+                "excitement"
+            ],
+            "themes": [
+                "eroticism",
+                "fetish"
+            ],
+            "actions": [
+                "sitting",
+                "caressing",
+                "touching"
+            ],
+            "objects": [
+                "lingerie",
+                "stockings",
+                "card"
+            ],
+            "characters": [
+                "man",
+                "women"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "erotic club",
+            "private room"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "erotic club",
+            "lingerie",
+            "seduction",
+            "safe word"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 4,
+                "explanation": "A man is surrounded by multiple women dressed in revealing lingerie and stockings who are touching him suggestively. The context is explicitly sexual, and the introduction of a 'safe word' points to BDSM themes, warranting a high sexual score."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "In what appears to be an erotic club, a young man sits as several women in lingerie and other revealing attire caress him. One woman presents him with a card, explaining it's a 'safe word' for the experience to follow, indicating a BDSM-themed encounter."
+    },
+    {
+        "scene_id": "scene_0063",
+        "start_time": "00:09:11",
+        "end_time": "00:09:21",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "anticipation"
+            ],
+            "themes": [
+                "BDSM",
+                "fetish",
+                "dominance",
+                "submission"
+            ],
+            "actions": [
+                "restraining",
+                "handcuffing"
+            ],
+            "objects": [
+                "latex outfit",
+                "leather outfits",
+                "handcuffs",
+                "BDSM implements"
+            ],
+            "characters": [
+                "dominatrix",
+                "submissive man",
+                "enforcers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "dungeon"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "BDSM",
+            "dungeon",
+            "fetish",
+            "handcuffs",
+            "latex"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene involves consensual bondage and restraint. While not violent in intent, the act of handcuffing a person to a frame and the presence of BDSM tools imply potential for physical acts, justifying a low score."
+            },
+            {
+                "category": "sexual",
+                "score": 4,
+                "explanation": "The scene is heavily themed around BDSM fetishism, featuring characters in revealing latex and leather outfits, physical restraints (handcuffs), and a wall displaying BDSM implements. The context is explicitly sexual."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "A woman in a red latex dominatrix outfit oversees two large men in leather outfits as they handcuff a young man to a metal frame, suspending him. A large, backlit panel displaying various BDSM tools is revealed, establishing a clear dungeon and fetish scenario."
+    },
+    {
+        "scene_id": "scene_0064",
+        "start_time": "00:09:21",
+        "end_time": "00:09:30",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "panic",
+                "fear",
+                "desperation"
+            ],
+            "themes": [
+                "BDSM",
+                "comedy",
+                "punishment"
+            ],
+            "actions": [
+                "struggling",
+                "reading"
+            ],
+            "objects": [
+                "handcuffs",
+                "card",
+                "BDSM device"
+            ],
+            "characters": [
+                "submissive man",
+                "dominatrix",
+                "enforcer"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "dungeon"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "safe word",
+            "BDSM",
+            "dungeon",
+            "fetish device",
+            "panic"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The man is physically restrained and in a state of panic as an intimidating device is brought towards him. This constitutes a threat within the BDSM context."
+            },
+            {
+                "category": "sexual",
+                "score": 5,
+                "explanation": "The scene culminates in the restrained man being bent over while an enforcer approaches with a spinning, multi-pronged mechanical device of a clear sexual and phallic nature. This is an explicit depiction of extreme sexual fetishism."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "The restrained man panics, unable to read the nonsensical 'safe word' on the card. He is then bent over a cart as an enforcer activates and approaches him with a large, intimidating sexual device, creating a moment of comedic terror in a highly sexualized BDSM context."
+    },
+    {
+        "scene_id": "scene_0065",
+        "start_time": "00:09:30",
+        "end_time": "00:09:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "surprise"
+            ],
+            "themes": [
+                "reunion",
+                "travel",
+                "aftermath"
+            ],
+            "actions": [
+                "walking",
+                "talking",
+                "running"
+            ],
+            "objects": [
+                "backpack",
+                "camera"
+            ],
+            "characters": [
+                "group of friends"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city street",
+            "bridge"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "friends",
+            "reunion",
+            "travel",
+            "Europe"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "One man is shirtless after being robbed, and another wears a t-shirt with the word 'VANDERSEXXX' on it. This is mildly suggestive."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "A group of friends stands by a canal in a European city. They are joined by two other friends: one who looks dazed after his BDSM experience, and another who runs up shirtless, explaining he was just robbed."
+    },
+    {
+        "scene_id": "scene_0066",
+        "start_time": "00:09:41",
+        "end_time": "00:10:01",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "desperation",
+                "hope",
+                "misunderstanding"
+            ],
+            "themes": [
+                "travel",
+                "hitchhiking",
+                "language barrier",
+                "dark humor"
+            ],
+            "actions": [
+                "hitchhiking",
+                "talking",
+                "driving"
+            ],
+            "objects": [
+                "truck",
+                "backpacks",
+                "highway"
+            ],
+            "characters": [
+                "group of friends",
+                "truck driver"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "Mercedes-Benz"
+            ]
+        },
+        "locations": [
+            "highway",
+            "rural road"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "hitchhiking",
+            "truck driver",
+            "language barrier",
+            "road trip"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The truck driver makes a verbal joke about stabbing a woman in a bar in Berlin, accompanied by a hand gesture. While played for dark humor, it's a direct reference to violence."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "Stranded, the group of friends hitchhikes on a rural highway. A truck driver stops and, due to a language barrier, they misunderstand his joke about stabbing someone in Berlin and enthusiastically accept the ride."
+    },
+    {
+        "scene_id": "scene_0067",
+        "start_time": "00:10:01",
+        "end_time": "00:10:05",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "travel",
+                "transition"
+            ],
+            "actions": [
+                "map animation"
+            ],
+            "objects": [
+                "map",
+                "ketchup bottle"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "Berlin"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "map",
+            "animation",
+            "travel",
+            "Berlin",
+            "transition"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted in this scene."
+            }
+        ],
+        "description": "A comedic travel montage animation shows a red line moving across a map, ending at a ketchup bottle labeled 'Berlin', signifying the friends' journey."
+    },
+    {
+        "scene_id": "scene_0068",
+        "start_time": "00:10:05",
+        "end_time": "00:10:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "disappointment",
+                "confusion",
+                "dismay"
+            ],
+            "themes": [
+                "travel",
+                "poverty",
+                "urban decay"
+            ],
+            "actions": [
+                "getting out of a vehicle",
+                "observing"
+            ],
+            "objects": [
+                "backpacks",
+                "dilapidated buildings",
+                "graffiti"
+            ],
+            "characters": [
+                "group of friends"
+            ],
+            "weather": [
+                "overcast",
+                "gloomy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "run-down neighborhood",
+            "Eastern Europe"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "urban decay",
+            "poverty",
+            "Eastern Europe",
+            "dilapidated"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene presents a bleak and stereotypical image of a desolate, run-down Eastern European neighborhood, which could be perceived as a negative cultural stereotype."
+            }
+        ],
+        "description": "The friends are dropped off by the truck, not in Berlin, but in a desolate, industrial neighborhood with decaying, graffiti-covered apartment buildings, creating a sense of isolation and disappointment."
+    },
+    {
+        "scene_id": "scene_0069",
+        "start_time": "00:10:08",
+        "end_time": "00:10:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "dismay",
+                "fear",
+                "uncertainty"
+            ],
+            "themes": [
+                "urban decay",
+                "poverty",
+                "being lost"
+            ],
+            "actions": [
+                "walking",
+                "observing"
+            ],
+            "objects": [
+                "dilapidated buildings",
+                "trash",
+                "graffiti"
+            ],
+            "characters": [
+                "group of friends"
+            ],
+            "weather": [
+                "overcast",
+                "gloomy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "run-down neighborhood",
+            "Eastern Europe"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "urban decay",
+            "poverty",
+            "lost",
+            "desolate"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "This scene continues the stereotypical and negative depiction of a desolate Eastern European location, which may be considered controversial."
+            }
+        ],
+        "description": "The group of friends walks cautiously through the trash-strewn, desolate neighborhood, looking around with concern at the decaying buildings and bleak surroundings."
+    },
+    {
+        "scene_id": "scene_0070",
+        "start_time": "00:10:12",
+        "end_time": "00:10:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "disgust",
+                "unease"
+            ],
+            "themes": [
+                "poverty",
+                "dystopia",
+                "dark humor"
+            ],
+            "actions": [
+                "washing",
+                "sitting"
+            ],
+            "objects": [
+                "dog",
+                "severed hand",
+                "wrecked car",
+                "bucket"
+            ],
+            "characters": [
+                "shirtless man",
+                "dog"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "rundown neighborhood",
+            "Eastern Europe"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "poverty",
+            "rundown",
+            "dystopian",
+            "severed hand",
+            "shirtless man"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A dog is shown holding what appears to be a severed human hand in its mouth. While not an active violent act, the depiction of a dismembered body part is gory."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "A man is shown shirtless from the waist up in a non-sexual context while washing himself outdoors."
+            }
+        ],
+        "description": "In a desolate, trash-strewn urban area, a shirtless man washes himself outdoors using a bucket. Nearby, a dog sits holding what appears to be a severed human hand in its mouth. The scene establishes a bizarre and impoverished setting. The partial nudity is non-sexual, but the presence of the severed hand warrants a low score for violence/gore."
+    },
+    {
+        "scene_id": "scene_0071",
+        "start_time": "00:10:17",
+        "end_time": "00:10:28",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "annoyance",
+                "caution"
+            ],
+            "themes": [
+                "culture clash",
+                "travel",
+                "confrontation"
+            ],
+            "actions": [
+                "walking",
+                "talking",
+                "yelling",
+                "gesturing"
+            ],
+            "objects": [
+                "backpacks"
+            ],
+            "characters": [
+                "young travelers",
+                "local man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "rundown neighborhood",
+            "street"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "confrontation",
+            "travelers",
+            "yelling",
+            "argument",
+            "rundown street"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A brief, non-violent verbal confrontation occurs between travelers and a local."
+            }
+        ],
+        "description": "A group of young American travelers walking through a rundown Eastern European neighborhood are confronted by an older local man who emerges from a building and yells at them, making them stop."
+    },
+    {
+        "scene_id": "scene_0072",
+        "start_time": "00:10:28",
+        "end_time": "00:10:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "desperation",
+                "disappointment"
+            ],
+            "themes": [
+                "poverty",
+                "travel"
+            ],
+            "actions": [
+                "collecting money",
+                "counting money"
+            ],
+            "objects": [
+                "money",
+                "US dollar",
+                "coins",
+                "backpacks"
+            ],
+            "characters": [
+                "young travelers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "rundown neighborhood",
+            "street"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "money",
+            "poverty",
+            "traveling",
+            "budget travel",
+            "US currency"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The group of young travelers stand on a dilapidated street and pool their money together, discovering they only have a crumpled dollar bill and a handful of coins between them."
+    },
+    {
+        "scene_id": "scene_0073",
+        "start_time": "00:10:34",
+        "end_time": "00:10:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "joy",
+                "surprise"
+            ],
+            "themes": [
+                "wealth",
+                "luxury",
+                "contrast"
+            ],
+            "actions": [
+                "carrying food",
+                "serving",
+                "trying on clothes"
+            ],
+            "objects": [
+                "food tray",
+                "lobster",
+                "jacket",
+                "mirror",
+                "tuxedo"
+            ],
+            "characters": [
+                "waiters",
+                "young traveler"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "luxury hotel",
+            "hotel room"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "luxury",
+            "wealth",
+            "hotel",
+            "fine dining",
+            "contrast",
+            "exchange rate"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The scene transitions to a luxurious hotel. Waiters in tuxedos carry elaborate trays of food. In a lavish room, one of the travelers excitedly tries on a new jacket, illustrating how their small amount of American money has made them wealthy due to the favorable exchange rate."
+    },
+    {
+        "scene_id": "scene_0074",
+        "start_time": "00:10:40",
+        "end_time": "00:10:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "arrogance",
+                "joy",
+                "shock",
+                "anger"
+            ],
+            "themes": [
+                "wealth",
+                "culture clash",
+                "comedy",
+                "workplace conflict"
+            ],
+            "actions": [
+                "eating",
+                "drinking",
+                "serving",
+                "tipping",
+                "quitting job",
+                "slapping"
+            ],
+            "objects": [
+                "food",
+                "champagne",
+                "coin",
+                "towel"
+            ],
+            "characters": [
+                "young travelers",
+                "waiter",
+                "hotel manager"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "luxury hotel room"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "luxury",
+            "tipping",
+            "workplace conflict",
+            "slap",
+            "comedy",
+            "hotel"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A hotel manager slaps a waiter across the face in a brief, comedic moment."
+            }
+        ],
+        "description": "Two male travelers relax in a luxury hotel room while being served extravagant food. They tip the waiter a single nickel, who is so overjoyed he quits his job, only to be immediately slapped by his manager. The brief slap is depicted in a comedic, non-injurious manner."
+    },
+    {
+        "scene_id": "scene_0075",
+        "start_time": "00:10:50",
+        "end_time": "00:10:54",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "relaxation",
+                "indulgence"
+            ],
+            "themes": [
+                "luxury",
+                "wealth",
+                "self-care"
+            ],
+            "actions": [
+                "relaxing",
+                "smoking",
+                "drinking"
+            ],
+            "objects": [
+                "bathrobe",
+                "towel",
+                "face mask",
+                "cigar",
+                "champagne"
+            ],
+            "characters": [
+                "young travelers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "luxury hotel room"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "spa",
+            "luxury",
+            "hotel",
+            "cigar",
+            "smoking",
+            "face mask"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "substance",
+                "score": 1,
+                "explanation": "A character is shown holding a cigar while relaxing."
+            }
+        ],
+        "description": "Continuing the theme of luxury, two travelers are seen wearing pink bathrobes, head towels, and green face masks. One holds a glass of champagne and a cigar, epitomizing their indulgent lifestyle."
+    },
+    {
+        "scene_id": "scene_0076",
+        "start_time": "00:10:54",
+        "end_time": "00:11:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement"
+            ],
+            "themes": [
+                "nightlife",
+                "partying",
+                "socializing"
+            ],
+            "actions": [
+                "walking",
+                "talking"
+            ],
+            "objects": [
+                "revealing outfit",
+                "suit",
+                "club lights"
+            ],
+            "characters": [
+                "young travelers",
+                "club-goers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "nightclub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "nightclub",
+            "party",
+            "dancing",
+            "revealing clothing",
+            "cleavage"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A woman in a nightclub is shown wearing a very low-cut, revealing top that exposes significant cleavage. The camera briefly focuses on her chest area."
+            }
+        ],
+        "description": "The scene shifts to a bustling nightclub filled with people dancing. The main characters enter the club, and the camera briefly focuses on a woman in a very revealing metallic top with a deep plunging neckline, highlighting her cleavage, which constitutes suggestive attire."
+    },
+    {
+        "scene_id": "scene_0077",
+        "start_time": "00:11:04",
+        "end_time": "00:11:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "curiosity",
+                "anticipation"
+            ],
+            "themes": [
+                "partying",
+                "drinking",
+                "substance use"
+            ],
+            "actions": [
+                "sitting at bar",
+                "talking",
+                "pouring drinks"
+            ],
+            "objects": [
+                "alcohol bottle",
+                "absinthe",
+                "glasses"
+            ],
+            "characters": [
+                "young travelers",
+                "bartender"
+            ],
+            "weather": [],
+            "brands": [
+                "Absinth"
+            ]
+        },
+        "locations": [
+            "nightclub",
+            "bar"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "absinthe",
+            "alcohol",
+            "drinking",
+            "bar",
+            "nightclub",
+            "illegal substance"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "substance",
+                "score": 2,
+                "explanation": "Characters are about to consume Absinthe, which is explicitly described as a hallucinogenic and illegal substance in their home country. The scene focuses on the preparation and anticipation of drinking it."
+            }
+        ],
+        "description": "At a bar inside the nightclub, three male travelers are introduced to Absinthe, a glowing green liquor. They are told it's illegal in the US due to its hallucinogenic properties. Intrigued, they have the bartender pour them shots, showing the intent to consume a mind-altering substance."
+    },
+    {
+        "scene_id": "scene_0078",
+        "start_time": "00:11:11",
+        "end_time": "00:11:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "daze",
+                "confusion",
+                "curiosity"
+            ],
+            "themes": [
+                "substance use",
+                "hallucination",
+                "fantasy"
+            ],
+            "actions": [
+                "drinking",
+                "hallucinating",
+                "staring"
+            ],
+            "objects": [
+                "drink",
+                "fairy"
+            ],
+            "characters": [
+                "young traveler",
+                "green fairy"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "nightclub",
+            "bar"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "hallucination",
+            "absinthe",
+            "drinking",
+            "drugs",
+            "green fairy",
+            "fantasy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "substance",
+                "score": 3,
+                "explanation": "A character consumes Absinthe and immediately experiences a vivid hallucination of a 'green fairy.' This directly depicts the psychoactive and mind-altering effects of the substance."
+            }
+        ],
+        "description": "After drinking Absinthe, one of the characters begins to hallucinate. He sees a small, green, muscular fairy-like creature with wings flying in the club. This scene directly visualizes the mind-altering effects of the consumed substance."
+    },
+    {
+        "scene_id": "scene_0079",
+        "start_time": "00:11:16",
+        "end_time": "00:11:27",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "euphoria",
+                "chaos"
+            ],
+            "themes": [
+                "partying",
+                "debauchery",
+                "drinking",
+                "dancing"
+            ],
+            "actions": [
+                "drinking",
+                "dancing",
+                "partying"
+            ],
+            "objects": [
+                "alcohol bottle",
+                "disco ball",
+                "club lights"
+            ],
+            "characters": [
+                "club-goers",
+                "young travelers"
+            ],
+            "weather": [],
+            "brands": [
+                "Absinth"
+            ]
+        },
+        "locations": [
+            "nightclub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "party",
+            "nightclub",
+            "binge drinking",
+            "dancing",
+            "wild party",
+            "alcohol"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "substance",
+                "score": 3,
+                "explanation": "The scene depicts a wild party with widespread, excessive alcohol consumption. One character is shown drinking a large amount of Absinthe directly from the bottle, and others are dancing in a frenzy, clearly intoxicated. This promotes binge drinking."
+            },
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A woman is shown dancing provocatively in a revealing outfit, contributing to the sexually charged atmosphere of the wild party."
+            }
+        ],
+        "description": "The nightclub party escalates into a wild scene of debauchery. People are dancing frantically, and a woman is shown taking a long drink of Absinthe directly from the bottle. The atmosphere is chaotic and fueled by excessive alcohol consumption, which promotes binge drinking. A woman in a revealing outfit dances suggestively, adding to the scene's charged nature."
+    },
+    {
+        "scene_id": "scene_0080",
+        "start_time": "00:11:27",
+        "end_time": "00:11:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "shock",
+                "excitement"
+            ],
+            "themes": [
+                "partying",
+                "romance",
+                "fantasy"
+            ],
+            "actions": [
+                "drinking",
+                "watching",
+                "kissing",
+                "dancing"
+            ],
+            "objects": [
+                "drink",
+                "glass",
+                "bar table"
+            ],
+            "characters": [
+                "young men",
+                "young woman",
+                "fantasy creature"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "nightclub",
+            "bar"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "nightclub",
+            "party",
+            "kissing",
+            "shock",
+            "fantasy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "A couple is shown kissing passionately in a nightclub setting, which constitutes mild sexual content."
+            },
+            {
+                "category": "drug",
+                "score": 1,
+                "explanation": "Characters are shown consuming alcoholic beverages in a bar setting."
+            },
+            {
+                "category": "profanity",
+                "score": 2,
+                "explanation": "The phrase 'fucked up shit' is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "In a bustling nightclub, two men sitting at a bar watch in shock as their friend passionately kisses a woman on the dance floor. Their surprised reaction is heightened when a glowing green, winged creature suddenly appears behind them. The scene contains alcohol consumption and a brief instance of profanity, along with mild sexual content from the kissing."
+    },
+    {
+        "scene_id": "scene_0081",
+        "start_time": "00:11:38",
+        "end_time": "00:11:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "shock",
+                "playfulness"
+            ],
+            "themes": [
+                "partying",
+                "spontaneous reaction"
+            ],
+            "actions": [
+                "screaming",
+                "looking at each other"
+            ],
+            "objects": [],
+            "characters": [
+                "man",
+                "woman"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "nightclub"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "screaming",
+            "nightclub",
+            "party",
+            "shock"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "After kissing in a nightclub, a man and a woman look at each other and then simultaneously let out loud, playful screams, surrounded by other partygoers."
+    },
+    {
+        "scene_id": "scene_0082",
+        "start_time": "00:11:42",
+        "end_time": "00:11:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fatigue",
+                "dejection",
+                "happiness"
+            ],
+            "themes": [
+                "friendship",
+                "travel",
+                "rest"
+            ],
+            "actions": [
+                "sitting",
+                "resting",
+                "smiling"
+            ],
+            "objects": [
+                "backpack"
+            ],
+            "characters": [
+                "young adults",
+                "travelers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "outdoors",
+            "urban ruins"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "friends",
+            "travelers",
+            "resting",
+            "outdoors",
+            "tired"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "A group of four young friends are shown sitting on concrete steps in an outdoor, somewhat rundown area. They appear tired from their travels, with some looking dejected while one smiles happily."
+    },
+    {
+        "scene_id": "scene_0083",
+        "start_time": "00:11:51",
+        "end_time": "00:11:56",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity"
+            ],
+            "themes": [
+                "travel",
+                "unexpected encounter"
+            ],
+            "actions": [
+                "driving",
+                "stopping",
+                "talking"
+            ],
+            "objects": [
+                "truck",
+                "car"
+            ],
+            "characters": [
+                "older man",
+                "travelers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "roadside",
+            "outdoors"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "truck",
+            "driver",
+            "travelers",
+            "roadside"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "An older, bearded man in a distinctive shirt drives up in a small orange truck and stops to talk to the group of young travelers resting by the road."
+    },
+    {
+        "scene_id": "scene_0084",
+        "start_time": "00:11:56",
+        "end_time": "00:12:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "happiness",
+                "anticipation",
+                "relief"
+            ],
+            "themes": [
+                "travel",
+                "destination",
+                "friendship"
+            ],
+            "actions": [
+                "arriving",
+                "walking",
+                "giving thumbs up",
+                "entering building"
+            ],
+            "objects": [
+                "building",
+                "backpack",
+                "photograph"
+            ],
+            "characters": [
+                "young adults",
+                "travelers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city",
+            "apartment building exterior"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "arrival",
+            "apartment building",
+            "friends",
+            "travel",
+            "thumbs up"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "After a brief shot of a photograph of a couple, the scene shows the group of friends happily arriving at a modern apartment building. They express their approval with thumbs-ups before one of them enters."
+    },
+    {
+        "scene_id": "scene_0085",
+        "start_time": "00:12:04",
+        "end_time": "00:12:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anticipation",
+                "happiness",
+                "relief"
+            ],
+            "themes": [
+                "reunion",
+                "search",
+                "friendship"
+            ],
+            "actions": [
+                "talking",
+                "greeting",
+                "smiling",
+                "introducing self"
+            ],
+            "objects": [
+                "door",
+                "hallway"
+            ],
+            "characters": [
+                "young men"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "apartment building interior",
+            "hallway"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "apartment",
+            "hallway",
+            "greeting",
+            "friends",
+            "reunion"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "Inside an apartment building, two young men are greeted at a doorway by another man. One introduces himself, and they appear relieved and happy to have located the person they were seeking."
+    },
+    {
+        "scene_id": "scene_0086",
+        "start_time": "00:12:12",
+        "end_time": "00:12:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calm",
+                "curiosity"
+            ],
+            "themes": [
+                "conversation",
+                "domestic life"
+            ],
+            "actions": [
+                "sitting",
+                "talking",
+                "playing"
+            ],
+            "objects": [
+                "chair",
+                "colored pencils",
+                "toys"
+            ],
+            "characters": [
+                "men",
+                "young boy"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "apartment",
+            "living room"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "apartment",
+            "conversation",
+            "living room",
+            "child playing"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "Two men are having a conversation with another man in his modern apartment. In the background, a young boy is playing on the floor with colored pencils."
+    },
+    {
+        "scene_id": "scene_0087",
+        "start_time": "00:12:18",
+        "end_time": "00:12:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "amusement",
+                "innocence"
+            ],
+            "themes": [
+                "childlike behavior",
+                "dark humor"
+            ],
+            "actions": [
+                "drawing",
+                "smiling"
+            ],
+            "objects": [
+                "marker"
+            ],
+            "characters": [
+                "young boy",
+                "man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "apartment",
+            "living room"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "child",
+            "mustache",
+            "drawing",
+            "Hitler reference"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A young child draws a mustache on himself that is clearly intended to resemble that of Adolf Hitler. While presented humorously, this imagery is associated with a highly controversial and sensitive historical figure."
+            }
+        ],
+        "description": "While adults converse in the living room, a young boy draws a mustache on his upper lip with a marker, creating a likeness of Adolf Hitler. He then turns and smiles. This use of controversial imagery, though in a comedic context, warrants a moderate controversy score."
+    },
+    {
+        "scene_id": "scene_0088",
+        "start_time": "00:12:23",
+        "end_time": "00:12:30",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "disappointment",
+                "determination",
+                "seriousness"
+            ],
+            "themes": [
+                "planning",
+                "travel",
+                "friendship"
+            ],
+            "actions": [
+                "sitting",
+                "talking",
+                "planning"
+            ],
+            "objects": [
+                "bench",
+                "backpack"
+            ],
+            "characters": [
+                "young adults",
+                "travelers"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "courtyard",
+            "apartment building exterior"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "friends",
+            "planning",
+            "courtyard",
+            "conversation",
+            "determination"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "The group of friends sits on benches in the courtyard outside the apartment building, looking disappointed but determined as they discuss their next travel plans."
+    },
+    {
+        "scene_id": "scene_0089",
+        "start_time": "00:12:30",
+        "end_time": "00:12:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "sacrifice",
+                "seriousness"
+            ],
+            "themes": [
+                "sacrifice",
+                "friendship",
+                "travel"
+            ],
+            "actions": [
+                "talking",
+                "selling",
+                "making a decision"
+            ],
+            "objects": [
+                "money",
+                "Euro bills"
+            ],
+            "characters": [
+                "young men",
+                "friends"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "courtyard",
+            "apartment building exterior"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "money",
+            "sacrifice",
+            "selling",
+            "travel",
+            "friends"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is depicted."
+            },
+            {
+                "category": "drug",
+                "score": 0,
+                "explanation": "No drug or alcohol use is depicted."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "No controversial content is depicted."
+            }
+        ],
+        "description": "To fund their continued journey, one of the friends makes a sacrifice. A stack of Euro banknotes is shown, followed by a conversation where he reveals he has sold his camera to get the necessary money."
+    },
+    {
+        "scene_id": "scene_0090",
+        "start_time": "00:12:38",
+        "end_time": "00:12:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "surprise"
+            ],
+            "themes": [
+                "crime",
+                "travel",
+                "reminiscence"
+            ],
+            "actions": [
+                "robbing",
+                "talking",
+                "hugging"
+            ],
+            "objects": [
+                "knife"
+            ],
+            "characters": [
+                "man",
+                "woman",
+                "robber"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "flashback",
+            "robbery",
+            "crime",
+            "knife threat"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A brief flashback shows a man being robbed at knifepoint. The scene includes a weapon being used to threaten someone, justifying a low violence score."
+            }
+        ],
+        "description": "A Korean-language narration explains a past event, accompanied by a brief flashback where a man is robbed at knifepoint on a dark street. The scene then transitions to a group of friends reuniting and a graphic showing a plane's flight path, indicating the start of a journey."
+    },
+    {
+        "scene_id": "scene_0091",
+        "start_time": "00:12:51",
+        "end_time": "00:12:56",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "urgency",
+                "surprise"
+            ],
+            "themes": [
+                "tourism",
+                "authority"
+            ],
+            "actions": [
+                "walking",
+                "running",
+                "blocking"
+            ],
+            "objects": [
+                "halberd",
+                "uniform",
+                "scooter"
+            ],
+            "characters": [
+                "tourists",
+                "Swiss Guards"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Vatican City",
+            "museum entrance"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "Vatican",
+            "Swiss Guard",
+            "tourist",
+            "museum"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "Vatican Swiss Guards cross their halberds (a type of pole weapon) to block a character from entering. This is a non-violent use of a weapon for security purposes."
+            }
+        ],
+        "description": "At the entrance to a Vatican museum, tourists walk past uniformed Swiss Guards. One of the main characters attempts to run inside but is stopped when the guards cross their ceremonial halberds to block his path."
+    },
+    {
+        "scene_id": "scene_0092",
+        "start_time": "00:12:56",
+        "end_time": "00:13:00",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity"
+            ],
+            "themes": [
+                "tourism",
+                "art history"
+            ],
+            "actions": [
+                "walking up stairs",
+                "guiding"
+            ],
+            "objects": [
+                "staircase",
+                "statue",
+                "lamp post"
+            ],
+            "characters": [
+                "tour guide",
+                "tourists"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "museum",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "museum tour",
+            "tour guide",
+            "grand staircase",
+            "art"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Inside the museum, a tour guide leads a group of young people up a grand, ornate staircase, passing by statues and elaborate lamp posts. The scene depicts a typical museum tour."
+    },
+    {
+        "scene_id": "scene_0093",
+        "start_time": "00:13:00",
+        "end_time": "00:13:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "interest",
+                "awe"
+            ],
+            "themes": [
+                "tourism",
+                "art"
+            ],
+            "actions": [
+                "walking",
+                "observing"
+            ],
+            "objects": [
+                "paintings",
+                "sculptures",
+                "columns"
+            ],
+            "characters": [
+                "tourists"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "museum",
+            "art gallery",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "museum",
+            "art gallery",
+            "paintings",
+            "sculptures"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A montage shows the group of friends walking through the museum's galleries, looking at various paintings and sculptures. The focus is on their exploration of the historical art and architecture."
+    },
+    {
+        "scene_id": "scene_0094",
+        "start_time": "00:13:06",
+        "end_time": "00:13:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "curiosity",
+                "mischief"
+            ],
+            "themes": [
+                "comedy of errors",
+                "religion",
+                "misunderstanding"
+            ],
+            "actions": [
+                "explaining",
+                "pulling rope"
+            ],
+            "objects": [
+                "bell rope",
+                "tassel"
+            ],
+            "characters": [
+                "tour guide",
+                "tourists"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "museum",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "Pope",
+            "bell",
+            "museum artifact",
+            "prank"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A character pulls a bell rope that is meant to be rung only upon the death of the Pope. This act involves the misuse of a significant religious artifact for comedic effect."
+            }
+        ],
+        "description": "A tour guide explains that a decorative bell rope is used to signal the death of the Pope. Out of curiosity, one of the characters pulls the rope, setting off an unexpected chain of events."
+    },
+    {
+        "scene_id": "scene_0095",
+        "start_time": "00:13:12",
+        "end_time": "00:13:20",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "panic",
+                "confusion"
+            ],
+            "themes": [
+                "mass hysteria",
+                "misinformation",
+                "comedy of errors"
+            ],
+            "actions": [
+                "ringing bell",
+                "gathering",
+                "shouting",
+                "news reporting"
+            ],
+            "objects": [
+                "bell",
+                "crowd",
+                "news camera",
+                "microphone"
+            ],
+            "characters": [
+                "crowd",
+                "news reporter"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "EBC"
+            ]
+        },
+        "locations": [
+            "St. Peter's Square",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "Pope",
+            "death rumor",
+            "bell ringing",
+            "crowd panic",
+            "news report"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a false alarm about the Pope's death, causing mass panic in St. Peter's Square and a media frenzy. This use of a major religious figure's supposed death as a comedic plot point is a sensitive topic."
+            }
+        ],
+        "description": "A giant bell begins to toll, causing the crowd in the square outside to believe the Pope has died. People react with shock and panic, a news reporter starts broadcasting, and chaos ensues due to the misunderstanding."
+    },
+    {
+        "scene_id": "scene_0096",
+        "start_time": "00:13:20",
+        "end_time": "00:13:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "excitement"
+            ],
+            "themes": [
+                "reunion",
+                "pursuit"
+            ],
+            "actions": [
+                "spotting someone",
+                "running through a crowd"
+            ],
+            "objects": [
+                "crowd",
+                "backpack"
+            ],
+            "characters": [
+                "man",
+                "woman",
+                "crowd"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "St. Peter's Square",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "ko-KR",
+        "keywords": [
+            "crowd",
+            "running",
+            "reunion",
+            "chase",
+            "public square"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Amid the chaotic crowd in St. Peter's Square, the main male character spots the woman he has been searching for. He immediately starts running and pushing his way through the dense crowd to get to her."
+    },
+    {
+        "scene_id": "scene_0097",
+        "start_time": "00:13:25",
+        "end_time": "00:13:31",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "anger",
+                "confusion"
+            ],
+            "themes": [
+                "conflict",
+                "hooliganism",
+                "intervention"
+            ],
+            "actions": [
+                "arresting",
+                "pushing",
+                "shouting"
+            ],
+            "objects": [
+                "uniforms"
+            ],
+            "characters": [
+                "Swiss Guards",
+                "soccer hooligans"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "St. Peter's Square",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "arrest",
+            "conflict",
+            "hooligans",
+            "Swiss Guard",
+            "pushing"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A group of soccer hooligans physically intervenes to stop the Swiss Guards from making an arrest. This involves aggressive shoving and a physical confrontation, representing a low level of violence."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a physical altercation with and open disrespect for the Vatican's official guard force in a sacred location."
+            }
+        ],
+        "description": "As the Swiss Guards attempt to arrest the main characters, a group of aggressive soccer hooligans confronts the guards. The hooligans shout at and physically push the guards away, allowing the main characters to escape."
+    },
+    {
+        "scene_id": "scene_0098",
+        "start_time": "00:13:31",
+        "end_time": "00:13:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anticipation",
+                "confusion",
+                "disappointment",
+                "embarrassment"
+            ],
+            "themes": [
+                "reunion",
+                "misunderstanding",
+                "public humiliation"
+            ],
+            "actions": [
+                "walking",
+                "staring",
+                "talking"
+            ],
+            "objects": [
+                "crowd",
+                "television"
+            ],
+            "characters": [
+                "man",
+                "woman"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "EBC"
+            ]
+        },
+        "locations": [
+            "St. Peter's Square",
+            "Vatican City"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "reunion",
+            "public rejection",
+            "embarrassment",
+            "live TV"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The main character finally reaches the woman in the middle of the crowded square, and they face each other. To his shock, she asks, \"Who are you?\", revealing she doesn't know him. The entire embarrassing moment is broadcast on live television."
+    },
+    {
+        "scene_id": "scene_0099",
+        "start_time": "00:13:38",
+        "end_time": "00:13:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "narrative structure"
+            ],
+            "actions": [],
+            "objects": [
+                "text"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "epilogue",
+            "text screen",
+            "title card"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A black screen appears with the white text \"# 2. epilogue,\" serving as a title card to transition to the final segment of the film."
+    },
+    {
+        "scene_id": "scene_0100",
+        "start_time": "00:13:40",
+        "end_time": "00:13:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "neutral"
+            ],
+            "themes": [
+                "travel",
+                "movie recap"
+            ],
+            "actions": [
+                "walking",
+                "sitting",
+                "talking"
+            ],
+            "objects": [
+                "document",
+                "stamp",
+                "cafe",
+                "table"
+            ],
+            "characters": [
+                "young adults",
+                "tourists"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "McDonald's"
+            ]
+        },
+        "locations": [
+            "European city",
+            "outdoor cafe"
+        ],
+        "genre": "Movie Recap",
+        "language": "ko-KR",
+        "keywords": [
+            "EuroTrip",
+            "movie summary",
+            "epilogue",
+            "travel",
+            "Europe"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexually suggestive content is present."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate speech",
+                "score": 0,
+                "explanation": "No hate speech is present."
+            },
+            {
+                "category": "substance use",
+                "score": 0,
+                "explanation": "No substance use is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene does not contain any controversial themes."
+            }
+        ],
+        "description": "This scene is an epilogue for a movie recap of 'EuroTrip'. It shows a montage of scenes from the movie, including a title card, a shot of a bustling European city street where a McDonald's sign is visible, and a group of friends sitting at an outdoor cafe. The Korean narrator introduces the movie."
+    },
+    {
+        "scene_id": "scene_0101",
+        "start_time": "00:13:49",
+        "end_time": "00:13:59",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "energetic",
+                "passionate"
+            ],
+            "themes": [
+                "live music",
+                "performance",
+                "party"
+            ],
+            "actions": [
+                "singing",
+                "dancing",
+                "performing"
+            ],
+            "objects": [
+                "microphone",
+                "stage",
+                "musical instruments",
+                "amplifier"
+            ],
+            "characters": [
+                "rock singer",
+                "band",
+                "audience"
+            ],
+            "weather": [],
+            "brands": [
+                "Marshall"
+            ]
+        },
+        "locations": [
+            "outdoor party",
+            "concert stage"
+        ],
+        "genre": "Movie Recap",
+        "language": "ko-KR",
+        "keywords": [
+            "live performance",
+            "punk rock",
+            "concert",
+            "party",
+            "band"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexually suggestive content is present."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate speech",
+                "score": 0,
+                "explanation": "No hate speech is present."
+            },
+            {
+                "category": "substance use",
+                "score": 0,
+                "explanation": "No substance use is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene does not contain any controversial themes."
+            }
+        ],
+        "description": "A scene from the movie shows a punk rock band performing energetically on a stage at a party. The bald lead singer with tattoos and piercings sings into a microphone while a woman dances next to him. A Marshall amplifier is visible on stage, and the crowd is watching the performance."
+    },
+    {
+        "scene_id": "scene_0102",
+        "start_time": "00:13:59",
+        "end_time": "00:14:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "suggestive",
+                "calm"
+            ],
+            "themes": [
+                "nudity",
+                "travel"
+            ],
+            "actions": [
+                "sitting",
+                "talking",
+                "flying"
+            ],
+            "objects": [
+                "hot tub",
+                "airplane",
+                "airport"
+            ],
+            "characters": [
+                "man",
+                "woman",
+                "travelers"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "backyard",
+            "hot tub",
+            "airport",
+            "airplane"
+        ],
+        "genre": "Movie Recap",
+        "language": "ko-KR",
+        "keywords": [
+            "nudity",
+            "hot tub",
+            "suggestive content",
+            "airport",
+            "travel"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in this scene."
+            },
+            {
+                "category": "sexual",
+                "score": 3,
+                "explanation": "The scene contains partial female nudity. A woman is shown topless from behind and from the front while covering her chest in a hot tub. The narrator explicitly mentions that the movie has many scenes with nudity."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in this scene."
+            },
+            {
+                "category": "hate speech",
+                "score": 0,
+                "explanation": "No hate speech is present."
+            },
+            {
+                "category": "substance use",
+                "score": 0,
+                "explanation": "No substance use is depicted."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene does not contain any controversial themes."
+            }
+        ],
+        "description": "This scene is a montage of clips that the narrator warns contain nudity. It shows a man in a hot tub with a topless woman, whose nudity is partially obscured. Another clip shows a woman in a red latex outfit. The scene then transitions to characters checking in at an airport and flying on an airplane. The sexual content score is elevated due to the presence of partial nudity and the narrator's direct warning about the movie's explicit content."
+    }
+]

@@ -1,0 +1,409 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:17",
+        "end_time": "00:00:30",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "annoyance"
+            ],
+            "themes": [
+                "distrust",
+                "interrogation"
+            ],
+            "actions": [
+                "driving",
+                "talking",
+                "questioning"
+            ],
+            "objects": [
+                "car",
+                "car interior"
+            ],
+            "characters": [
+                "Uber driver",
+                "passenger"
+            ],
+            "weather": [],
+            "brands": [
+                "TikTok",
+                "Uber"
+            ]
+        },
+        "locations": [
+            "car interior"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "dashcam",
+            "Uber",
+            "passenger",
+            "driver",
+            "argument"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "A passenger is aggressively questioning the driver's origins in a hostile manner, creating a tense and controversial atmosphere."
+            }
+        ],
+        "description": "Dashcam footage shows a passenger in an Uber aggressively questioning the driver about where he is from and accusing him of lying. The interaction is tense and forms the beginning of a controversial verbal altercation."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:36",
+        "end_time": "00:00:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "hostility",
+                "shock"
+            ],
+            "themes": [
+                "racism",
+                "xenophobia",
+                "hate speech",
+                "verbal abuse"
+            ],
+            "actions": [
+                "driving",
+                "yelling",
+                "swearing"
+            ],
+            "objects": [
+                "car"
+            ],
+            "characters": [
+                "Uber driver",
+                "passenger"
+            ],
+            "weather": [],
+            "brands": [
+                "TikTok",
+                "Uber"
+            ]
+        },
+        "locations": [
+            "car interior"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "racism",
+            "hate speech",
+            "verbal abuse",
+            "xenophobia",
+            "Uber",
+            "dashcam"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "profanity",
+                "score": 4,
+                "explanation": "The passenger uses the f-word multiple times in a hostile manner."
+            },
+            {
+                "category": "controversy",
+                "score": 5,
+                "explanation": "The passenger engages in a racist and xenophobic tirade, claiming racial superiority ('white blood of the land') and verbally abusing the driver based on his perceived ethnicity. This constitutes severe hate speech."
+            }
+        ],
+        "description": "The passenger's verbal attack escalates into a racist and xenophobic tirade. He asserts his racial superiority, tells the driver he doesn't belong in the country, and uses multiple instances of the f-word. This scene contains severe hate speech and profanity, making it highly controversial."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:58",
+        "end_time": "00:01:03",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration",
+                "assertiveness"
+            ],
+            "themes": [
+                "conflict resolution"
+            ],
+            "actions": [
+                "talking",
+                "stopping the car",
+                "ending a ride"
+            ],
+            "objects": [
+                "car"
+            ],
+            "characters": [
+                "Uber driver",
+                "passenger"
+            ],
+            "weather": [],
+            "brands": [
+                "TikTok",
+                "Uber"
+            ]
+        },
+        "locations": [
+            "car interior"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "Uber",
+            "dashcam",
+            "conflict resolution",
+            "ending ride"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "This scene depicts the immediate resolution of a hate speech incident, where the driver ends the ride and orders the abusive passenger out of the car."
+            }
+        ],
+        "description": "After enduring the racist verbal abuse, the Uber driver calmly pulls over the car and tells the passenger to get out, ending the ride. This is the resolution of the highly controversial confrontation."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:01:14",
+        "end_time": "00:01:31",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "serious",
+                "informative"
+            ],
+            "themes": [
+                "hate crime",
+                "legal issues",
+                "social commentary"
+            ],
+            "actions": [
+                "talking",
+                "interview"
+            ],
+            "objects": [
+                "eyeglasses"
+            ],
+            "characters": [
+                "Evan Balgord"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "office",
+            "home office"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "hate crime",
+            "legal analysis",
+            "social issues",
+            "police report"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene features an expert discussing the sensitive and controversial topic of hate crimes, their underreporting, and the legal challenges in prosecuting them."
+            }
+        ],
+        "description": "In a video interview, anti-hate advocate Evan Balgord discusses the legal difficulties of pursuing charges in incidents of verbal hate, explaining why such events are often not reflected in official hate crime statistics. The topic is socially sensitive and controversial."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:01:31",
+        "end_time": "00:01:35",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "concern"
+            ],
+            "themes": [
+                "corporate communication",
+                "customer complaint"
+            ],
+            "actions": [
+                "reading",
+                "using a smartphone"
+            ],
+            "objects": [
+                "smartphone"
+            ],
+            "characters": [
+                "man"
+            ],
+            "weather": [],
+            "brands": [
+                "Uber",
+                "Global News"
+            ]
+        },
+        "locations": [
+            "outdoors"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "Uber",
+            "email",
+            "smartphone",
+            "customer complaint"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A man is shown outdoors looking at his smartphone, which displays an email from Uber regarding a privacy concern reported by a rider."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:01:35",
+        "end_time": "00:01:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "corporate policy",
+                "privacy"
+            ],
+            "actions": [
+                "displaying text"
+            ],
+            "objects": [
+                "text graphic"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": [
+                "Uber",
+                "Global News"
+            ]
+        },
+        "locations": [],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "Uber",
+            "policy",
+            "dash cam",
+            "privacy",
+            "corporate statement"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "An informational graphic displays text from Uber's policy. It states that uploading or live-streaming dash cam recordings is prohibited and may lead to account deactivation."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:01:43",
+        "end_time": "00:01:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "frustration"
+            ],
+            "themes": [
+                "anti-racism",
+                "social justice"
+            ],
+            "actions": [
+                "speaking",
+                "being interviewed"
+            ],
+            "objects": [
+                "microphone"
+            ],
+            "characters": [
+                "man"
+            ],
+            "weather": [],
+            "brands": [
+                "Global News"
+            ]
+        },
+        "locations": [
+            "porch",
+            "residential area"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "interview",
+            "racism",
+            "speaking out",
+            "social commentary"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene involves a direct discussion about the sensitive and controversial topic of racism."
+            }
+        ],
+        "description": "A man is interviewed and states that he doesn't care about losing his job because it's important to stand up against racism. The discussion of this sensitive social issue justifies a low controversy score."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:01:49",
+        "end_time": "00:02:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension"
+            ],
+            "themes": [
+                "confrontation",
+                "corporate response",
+                "discrimination"
+            ],
+            "actions": [
+                "arguing"
+            ],
+            "objects": [
+                "car",
+                "dash cam"
+            ],
+            "characters": [
+                "driver",
+                "passenger"
+            ],
+            "weather": [],
+            "brands": [
+                "Uber",
+                "Global News",
+                "TikTok"
+            ]
+        },
+        "locations": [
+            "car interior"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "Uber",
+            "dash cam",
+            "discrimination",
+            "corporate response",
+            "confrontation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene shows dash cam footage of a heated, discriminatory confrontation, which is a controversial subject."
+            }
+        ],
+        "description": "The scene shows an Uber sticker on a car before cutting back to dash cam footage of a heated confrontation. A news narrator reports that Uber has removed the rider from the platform for discrimination. The controversial nature of the underlying incident justifies a low controversy score."
+    }
+]

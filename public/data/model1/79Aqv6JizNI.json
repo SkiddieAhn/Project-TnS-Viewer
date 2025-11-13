@@ -1,0 +1,121 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:28",
+        "end_time": "00:00:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "anger"
+            ],
+            "themes": [
+                "racism",
+                "hate speech",
+                "public conflict"
+            ],
+            "actions": [
+                "speaking",
+                "shouting"
+            ],
+            "objects": [
+                "podium",
+                "microphone",
+                "graduation gown"
+            ],
+            "characters": [
+                "school director",
+                "audience",
+                "students"
+            ],
+            "weather": [],
+            "brands": [
+                "USA Today"
+            ]
+        },
+        "locations": [
+            "auditorium",
+            "church"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "racism",
+            "graduation ceremony",
+            "hate speech",
+            "public outrage"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "hate_speech",
+                "score": 5,
+                "explanation": "A woman on stage makes a blatantly racist comment, saying 'Look who's leaving, all the black people,' which constitutes clear hate speech."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene depicts a highly controversial event where a school official makes a racist statement during a public ceremony, which is a sensitive and controversial topic."
+            }
+        ],
+        "description": "During a graduation ceremony, the school's founder, frustrated with people leaving, makes a racist remark from the podium, saying, 'Look who's leaving, all the black people.' The audience reacts with audible shock and disbelief. This scene contains explicit hate speech and is highly controversial due to the racist nature of the comment made by a person in a position of authority at an educational event."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:01:13",
+        "end_time": "00:01:28",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "gratitude",
+                "positivity",
+                "forgiveness"
+            ],
+            "themes": [
+                "resilience",
+                "forgiveness",
+                "family support"
+            ],
+            "actions": [
+                "interviewing",
+                "talking",
+                "smiling"
+            ],
+            "objects": [
+                "couch",
+                "cap",
+                "certificate"
+            ],
+            "characters": [
+                "student",
+                "family members"
+            ],
+            "weather": [],
+            "brands": [
+                "USA TODAY"
+            ]
+        },
+        "locations": [
+            "home",
+            "living room"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "interview",
+            "forgiveness",
+            "family support",
+            "racism aftermath",
+            "positive outlook"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene discusses the positive aftermath of a racist incident, which is a controversial topic, but the content itself is not controversial."
+            }
+        ],
+        "description": "Following an apology for a racist comment, the affected student, Dante, is interviewed at home. He expresses gratitude for the support from his family and focuses on the positive aspects of the situation, stating he is ready to move on. This scene is rated low for controversy as it focuses on forgiveness and resilience rather than the hateful act itself."
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "romance",
+                "desire",
+                "intimacy"
+            ],
+            "themes": [
+                "romance",
+                "LGBTQ+"
+            ],
+            "actions": [
+                "embracing",
+                "caressing",
+                "talking"
+            ],
+            "objects": [],
+            "characters": [
+                "two men"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "romance",
+            "intimacy",
+            "LGBTQ+",
+            "embrace",
+            "caress",
+            "shirtless"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "Two men are shirtless and in an intimate embrace, suggesting romantic or sexual tension. No explicit nudity or sexual acts are shown."
+            }
+        ],
+        "description": "In a hazy, romantic setting, two shirtless men are in an intimate embrace. One man caresses the other's neck while asking what he's imagining. The scene is filled with romantic tension and suggests a close, possibly sexual relationship between the two characters."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:25",
+        "end_time": "00:00:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "friendly",
+                "professional"
+            ],
+            "themes": [
+                "first meeting",
+                "physical therapy"
+            ],
+            "actions": [
+                "talking",
+                "greeting",
+                "walking"
+            ],
+            "objects": [
+                "cushion",
+                "sports jersey"
+            ],
+            "characters": [
+                "physical therapist",
+                "patient",
+                "soccer player"
+            ],
+            "weather": [],
+            "brands": [
+                "Adidas",
+                "Fly Emirates"
+            ]
+        },
+        "locations": [
+            "physical therapy clinic",
+            "rehabilitation center"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "physical therapy",
+            "rehabilitation",
+            "greeting",
+            "soccer player",
+            "therapist"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A young man in an Adidas polo shirt arrives at what looks like a rehabilitation center. He is greeted by another man in a 'Fly Emirates' soccer jersey, who introduces himself as a therapist and offers to give a tour and help with pre-session stretching."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:51",
+        "end_time": "00:01:03",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "worry",
+                "frustration",
+                "sadness"
+            ],
+            "themes": [
+                "injury",
+                "recovery",
+                "doubt"
+            ],
+            "actions": [
+                "walking",
+                "sighing",
+                "self-talk"
+            ],
+            "objects": [
+                "tumbler",
+                "water bottle"
+            ],
+            "characters": [
+                "injured athlete"
+            ],
+            "weather": [],
+            "brands": [
+                "Adidas"
+            ]
+        },
+        "locations": [
+            "rehabilitation center hallway"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "injury",
+            "stretching",
+            "doubt",
+            "recovery",
+            "athlete"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "After a stretching session, a young man walks down the hallway of the rehabilitation center, sighing about how difficult it was. He expresses his doubt and worry about his injury and whether he'll be able to play again."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:01:03",
+        "end_time": "00:01:22",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "recognition",
+                "nervousness"
+            ],
+            "themes": [
+                "fateful encounter",
+                "doctor-patient relationship"
+            ],
+            "actions": [
+                "introducing",
+                "touching shoulder",
+                "talking"
+            ],
+            "objects": [],
+            "characters": [
+                "physical therapist",
+                "patient"
+            ],
+            "weather": [],
+            "brands": [
+                "Adidas"
+            ]
+        },
+        "locations": [
+            "rehabilitation center"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "therapist",
+            "patient",
+            "introduction",
+            "surprise",
+            "fateful meeting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The athlete is surprised when a man places a hand on his shoulder and introduces himself as Kang Ji-seong, his therapist. The athlete recognizes him as the man from his earlier romantic fantasy, looking shocked. The therapist then asks if he's ready to start the treatment."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:01:22",
+        "end_time": "00:01:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "panic",
+                "flustered",
+                "humor"
+            ],
+            "themes": [
+                "coercion (comedic)",
+                "doctor-patient interaction"
+            ],
+            "actions": [
+                "pulling",
+                "protesting",
+                "entering a room"
+            ],
+            "objects": [
+                "door"
+            ],
+            "characters": [
+                "physical therapist",
+                "patient"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "rehabilitation center"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "rehabilitation room",
+            "flustered",
+            "protesting",
+            "physical therapy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "The therapist begins to lead the athlete into the rehabilitation room. The athlete, flustered and unprepared, protests and tries to resist but is pulled into the room by the therapist before the door closes."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:01:33",
+        "end_time": "00:01:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "relief",
+                "satisfaction",
+                "exhaustion",
+                "happiness"
+            ],
+            "themes": [
+                "post-treatment",
+                "scheduling"
+            ],
+            "actions": [
+                "exiting a room",
+                "talking",
+                "smiling"
+            ],
+            "objects": [],
+            "characters": [
+                "physical therapist",
+                "patient"
+            ],
+            "weather": [],
+            "brands": [
+                "Adidas",
+                "Fly Emirates"
+            ]
+        },
+        "locations": [
+            "rehabilitation center"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "physical therapy",
+            "post-treatment",
+            "smiling",
+            "conversation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Looking tired but satisfied, the athlete exits the rehabilitation room. The other therapist asks him how the session was, and the athlete confirms with a smile that it was good. They schedule his next appointment for the same time."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:01:57",
+        "end_time": "00:02:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "thoughtful",
+                "introspective"
+            ],
+            "themes": [
+                "recollection",
+                "new feelings",
+                "physical therapy"
+            ],
+            "actions": [
+                "talking on phone",
+                "lying in bed"
+            ],
+            "objects": [
+                "smartphone",
+                "earbuds",
+                "bed"
+            ],
+            "characters": [
+                "patient"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "phone call",
+            "bedroom",
+            "recollection",
+            "physical therapy",
+            "strange feeling"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "The character describes his physical therapy session in a way that suggests romantic or sexual arousal ('tense,' 'ticklish'), but the context is medical and no explicit content is shown."
+            }
+        ],
+        "description": "At night in his bed, the athlete is on a phone call, recounting his physical therapy session. He explains that at first it was difficult, but then the feeling became strange, tense, and ticklish, hinting at an unexpected romantic or sensual experience during the treatment."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:02:23",
+        "end_time": "00:02:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "arousal",
+                "desire",
+                "confusion"
+            ],
+            "themes": [
+                "sensual memory",
+                "physical attraction"
+            ],
+            "actions": [
+                "talking on phone",
+                "recalling",
+                "lying down"
+            ],
+            "objects": [
+                "bed",
+                "smartphone",
+                "earbuds"
+            ],
+            "characters": [
+                "patient"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "sensual",
+            "arousal",
+            "memory",
+            "phone call",
+            "physical attraction"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "The character is recalling his physical therapy session with sensual and suggestive close-ups of his face and body, indicating arousal. While not explicit, the tone is clearly sexual."
+            }
+        ],
+        "description": "While continuing his phone conversation, the athlete vividly recalls his therapy session. Close-up shots of his face and body, combined with his description of feeling tense and ticklish, strongly suggest he is experiencing romantic or sexual arousal from the memory of the therapist's touch."
+    },
+    {
+        "scene_id": "scene_0008",
+        "start_time": "00:02:50",
+        "end_time": "00:03:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "desire",
+                "passion",
+                "shock"
+            ],
+            "themes": [
+                "dream",
+                "fantasy",
+                "sexual tension",
+                "LGBTQ+"
+            ],
+            "actions": [
+                "pushing against wall",
+                "embracing",
+                "waking up"
+            ],
+            "objects": [
+                "bed",
+                "clothes"
+            ],
+            "characters": [
+                "physical therapist",
+                "patient"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "rehabilitation center",
+            "bedroom"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "dream sequence",
+            "sexual fantasy",
+            "intimacy",
+            "waking up",
+            "nightmare"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 3,
+                "explanation": "The scene depicts a sexually charged dream/fantasy where two men are in a forceful, intimate embrace against a wall. It is highly suggestive of a sexual encounter, though no nudity or explicit acts are shown."
+            }
+        ],
+        "description": "The scene transitions into a dream sequence where the therapy session becomes a highly intimate and sexualized encounter. The therapist forcefully pushes the athlete against a wall, mirroring the opening fantasy. The athlete then abruptly wakes up in his bed with a gasp, revealing it was all a dream."
+    },
+    {
+        "scene_id": "scene_0009",
+        "start_time": "00:03:43",
+        "end_time": "00:03:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "confusion",
+                "shock",
+                "anxiety",
+                "worry"
+            ],
+            "themes": [
+                "aftermath of a dream",
+                "internal conflict",
+                "sexual confusion"
+            ],
+            "actions": [
+                "waking up",
+                "panting",
+                "sitting up",
+                "self-talk"
+            ],
+            "objects": [
+                "bed"
+            ],
+            "characters": [
+                "patient"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "waking up",
+            "nightmare",
+            "confusion",
+            "anxiety",
+            "sexual dream"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "After waking abruptly from a sexually charged dream about his therapist, the man sits up in bed, panting and looking shocked. He questions why he is dreaming about the man and voices his hesitation about returning for more treatment, feeling disturbed by his own feelings."
+    },
+    {
+        "scene_id": "scene_0010",
+        "start_time": "00:03:53",
+        "end_time": "00:04:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anxiety",
+                "fear",
+                "confusion"
+            ],
+            "themes": [
+                "mystery",
+                "psychological distress"
+            ],
+            "actions": [
+                "waking up",
+                "checking phone",
+                "talking to self"
+            ],
+            "objects": [
+                "bed",
+                "smartphone"
+            ],
+            "characters": [
+                "young man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "bedroom"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "anxiety",
+            "text message",
+            "fear",
+            "mystery"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in the scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is present in the scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in the scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is present in the scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a character in psychological distress, feeling paranoid that someone can read his thoughts, which could be slightly disturbing to some viewers."
+            }
+        ],
+        "description": "A young man sits up in bed in a dark room, looking anxious. He checks his phone and reacts with fear, wondering how the person who texted him could know what he was thinking, suggesting a theme of paranoia or being watched."
+    },
+    {
+        "scene_id": "scene_0011",
+        "start_time": "00:04:12",
+        "end_time": "00:04:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "stress",
+                "anxiety",
+                "frustration"
+            ],
+            "themes": [
+                "mental struggle",
+                "internal conflict"
+            ],
+            "actions": [
+                "leaning against a wall",
+                "talking to self",
+                "staring"
+            ],
+            "objects": [
+                "mirror"
+            ],
+            "characters": [
+                "young man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "room"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "stress",
+            "anxiety",
+            "internal monologue",
+            "panic",
+            "heartbeat sound"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in the scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is present in the scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in the scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is present in the scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene portrays a character experiencing significant psychological distress, which may be sensitive for some viewers."
+            }
+        ],
+        "description": "A young man, looking very stressed, leans against a wall and talks to himself, trying to get a grip on his emotions. The scene is intensified with the sound of a heartbeat as he stares intently at another person, who is revealed to be his reflection in a mirror, indicating a moment of severe anxiety or panic."
+    },
+    {
+        "scene_id": "scene_0012",
+        "start_time": "00:04:47",
+        "end_time": "00:05:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "surprise",
+                "intimacy",
+                "romance"
+            ],
+            "themes": [
+                "romance",
+                "intimate encounter",
+                "dream vs reality"
+            ],
+            "actions": [
+                "catching someone",
+                "staring intently"
+            ],
+            "objects": [],
+            "characters": [
+                "two young men"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "room"
+        ],
+        "genre": "drama",
+        "language": "ko-KR",
+        "keywords": [
+            "romance",
+            "intimacy",
+            "tension",
+            "close proximity",
+            "dream"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in the scene."
+            },
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "The scene features two men in very close, intimate proximity, staring into each other's eyes with romantic tension. One man's shirt is unbuttoned, revealing his bare chest, which constitutes mild sexual suggestiveness."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in the scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is present in the scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene does not contain controversial content."
+            }
+        ],
+        "description": "Another man suddenly appears and catches the distressed man, leading to a tense and intimate moment where they stand face-to-face. Romantic music plays as they stare at each other. The distressed man, whose shirt is now unbuttoned revealing his chest, wonders if this encounter is also a dream."
+    },
+    {
+        "scene_id": "scene_0013",
+        "start_time": "00:05:19",
+        "end_time": "00:05:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "branding"
+            ],
+            "actions": [],
+            "objects": [
+                "logo"
+            ],
+            "characters": [],
+            "weather": [],
+            "brands": [
+                "Shortime"
+            ]
+        },
+        "locations": [],
+        "genre": "outro",
+        "language": "ko-KR",
+        "keywords": [
+            "outro",
+            "logo",
+            "branding",
+            "end screen"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted in the scene."
+            },
+            {
+                "category": "sexual",
+                "score": 0,
+                "explanation": "No sexual content is present in the scene."
+            },
+            {
+                "category": "profanity",
+                "score": 0,
+                "explanation": "No profanity is used in the scene."
+            },
+            {
+                "category": "hate_speech",
+                "score": 0,
+                "explanation": "No hate speech is present in the scene."
+            },
+            {
+                "category": "controversy",
+                "score": 0,
+                "explanation": "The scene does not contain controversial content."
+            }
+        ],
+        "description": "The video concludes with an outro screen for the production company \"Shortime,\" displaying its logo and text in Korean."
+    }
+]

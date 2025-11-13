@@ -1,0 +1,4 @@
+pkgx:
+  dependencies:
+    nodejs.org: "^20"
+

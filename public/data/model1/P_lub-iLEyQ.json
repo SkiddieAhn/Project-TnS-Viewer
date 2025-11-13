@@ -1,0 +1,309 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "dangerous behavior"
+            ],
+            "actions": [
+                "leaning out of car window",
+                "driving"
+            ],
+            "objects": [
+                "car",
+                "SUV"
+            ],
+            "characters": [
+                "woman"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "road"
+        ],
+        "genre": "reality",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dangerous driving",
+            "shouting from car"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A person is leaning out of a moving vehicle, which is a dangerous and reckless act."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts the beginning of a road rage incident, which is anti-social and confrontational behavior."
+            }
+        ],
+        "description": "From a dashcam's perspective, a woman is seen aggressively leaning her upper body out of the passenger window of a moving silver SUV in an apparent act of road rage."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:02",
+        "end_time": "00:00:05",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "dangerous driving"
+            ],
+            "actions": [
+                "driving",
+                "brake checking",
+                "stopping"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "road",
+                "stop sign"
+            ],
+            "characters": [],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "road",
+            "intersection"
+        ],
+        "genre": "reality",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "dangerous driving",
+            "brake check"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A driver performs a 'brake check,' which is a dangerous and aggressive driving maneuver intended to intimidate or cause a collision."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene escalates a road rage incident with a deliberately dangerous act."
+            }
+        ],
+        "description": "The silver SUV continues driving before the driver performs a 'brake check,' coming to an abrupt and complete stop in the middle of the road to confront the car behind."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:05",
+        "end_time": "00:00:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "road rage",
+                "confrontation"
+            ],
+            "actions": [
+                "exiting vehicle",
+                "walking",
+                "approaching"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "bikini"
+            ],
+            "characters": [
+                "woman"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "road"
+        ],
+        "genre": "reality",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "confrontation",
+            "getting out of car",
+            "bikini"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A passenger exits the vehicle to initiate a direct confrontation, escalating a dangerous situation."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "A woman is shown wearing a bikini in a non-contextual public setting, which constitutes partial nudity."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A person gets out of their car to confront another driver, a clear escalation of a road rage incident."
+            }
+        ],
+        "description": "Immediately after the car stops, the passenger door opens and a woman wearing a pink bikini gets out and approaches the dashcam car in a confrontational manner. The partial nudity in a public, non-recreational setting contributes to the controversy score."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:00:08",
+        "end_time": "00:00:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "road rage",
+                "confrontation",
+                "verbal abuse"
+            ],
+            "actions": [
+                "exiting vehicle",
+                "confronting",
+                "shouting",
+                "gesturing"
+            ],
+            "objects": [
+                "car",
+                "SUV",
+                "license plate"
+            ],
+            "characters": [
+                "woman",
+                "man"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Jeep"
+            ]
+        },
+        "locations": [
+            "road"
+        ],
+        "genre": "reality",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "argument",
+            "confrontation",
+            "couple arguing"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Two people have exited their vehicle and are aggressively confronting and shouting at another driver, creating a menacing and threatening situation."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "A woman continues to be shown in a bikini in a non-contextual public setting."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene shows a severe, hostile road rage confrontation with two people ganging up on another driver, which is highly anti-social behavior."
+            }
+        ],
+        "description": "The male driver also exits the Jeep, joining the woman. Both individuals are now outside their vehicle, aggressively confronting and shouting at the driver of the dashcam car. This direct, hostile confrontation justifies a high controversy score."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:00:11",
+        "end_time": "00:00:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "road rage",
+                "confrontation"
+            ],
+            "actions": [
+                "arguing",
+                "shouting",
+                "gesturing"
+            ],
+            "objects": [
+                "car",
+                "SUV"
+            ],
+            "characters": [
+                "woman",
+                "man"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": [
+                "Jeep"
+            ]
+        },
+        "locations": [
+            "road"
+        ],
+        "genre": "reality",
+        "language": "en-US",
+        "keywords": [
+            "road rage",
+            "argument",
+            "de-escalation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The verbal argument continues, but the physical threat is reduced as the man begins to return to the vehicle."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "The woman in the bikini remains on screen in a non-contextual setting."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene shows the continuation of a severe road rage incident, which remains a highly controversial topic."
+            }
+        ],
+        "description": "The verbal confrontation continues, with the woman gesturing and touching the back of the SUV. The man walks back towards the driver's side door, beginning to de-escalate the physical confrontation."
+    }
+]

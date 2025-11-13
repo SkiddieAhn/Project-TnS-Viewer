@@ -1,0 +1,556 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "agitation"
+            ],
+            "themes": [
+                "racism",
+                "public disturbance",
+                "introduction"
+            ],
+            "actions": [
+                "shouting",
+                "gesturing"
+            ],
+            "objects": [
+                "sunglasses",
+                "water bottle",
+                "jeans"
+            ],
+            "characters": [
+                "woman"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "outdoors",
+            "walkway"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "racist",
+            "Karen",
+            "public argument",
+            "shouting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The opening scene uses on-screen text to frame the video as being about 'racist Karens,' immediately establishing a controversial and confrontational theme."
+            }
+        ],
+        "description": "The video opens with an angry woman shouting outdoors on a sunny day. On-screen text introduces the video's theme as 'Top 3 Racist Karens,' setting a controversial tone from the start."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:02",
+        "end_time": "00:00:09",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "public conflict",
+                "intimidation"
+            ],
+            "actions": [
+                "leaning",
+                "talking",
+                "gesturing"
+            ],
+            "objects": [
+                "car",
+                "sunglasses"
+            ],
+            "characters": [
+                "older woman"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "outdoors"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "argument",
+            "confrontation",
+            "car window",
+            "Karen"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The narration describes the woman as attempting 'air karate' to scare someone, which is a minor, non-contact threat of violence."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a tense public confrontation between a woman and a person inside a car."
+            }
+        ],
+        "description": "An older woman leans aggressively towards a car window in a confrontational manner. The narration mentions she is attempting 'air karate,' which constitutes a low-level, non-contact threat, in a controversial public argument."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:09",
+        "end_time": "00:00:15",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression",
+                "hate"
+            ],
+            "themes": [
+                "racism",
+                "public conflict",
+                "hate speech"
+            ],
+            "actions": [
+                "shouting",
+                "gesturing aggressively"
+            ],
+            "objects": [
+                "store shelves",
+                "electronics"
+            ],
+            "characters": [
+                "white man",
+                "Black man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "retail store",
+            "electronics aisle"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "racism",
+            "hate speech",
+            "argument",
+            "confrontation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "hate_speech",
+                "score": 5,
+                "explanation": "A man explicitly states, 'I'm sick and tired of Black people,' which is a direct and severe instance of racist hate speech."
+            },
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The man uses aggressive body language and challenges the other person to 'make a move,' creating a threat of physical violence."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene features an overt and hostile public confrontation based on racism."
+            }
+        ],
+        "description": "In a retail store, a white man aggressively confronts a Black man, shouting explicit racist hate speech, including 'I'm sick and tired of Black people.' He also makes threatening gestures and attempts to provoke a physical fight, creating a highly controversial and hateful scene."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:00:15",
+        "end_time": "00:00:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "anger"
+            ],
+            "themes": [
+                "de-escalation",
+                "public conflict",
+                "racism"
+            ],
+            "actions": [
+                "lunging",
+                "walking away",
+                "intervening"
+            ],
+            "objects": [
+                "store shelves"
+            ],
+            "characters": [
+                "white man",
+                "Black man",
+                "female store employee"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "retail store"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "de-escalation",
+            "employee intervention",
+            "store argument"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The aggressive man lunges toward the other person, which is a physically threatening action that stops short of making contact."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "This is a direct continuation of the public racist confrontation, with an employee having to intervene."
+            }
+        ],
+        "description": "The racist confrontation continues as the aggressive man lunges toward the Black man. A female store employee intervenes to de-escalate the situation, highlighting the severity of the controversial and physically threatening incident."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:00:19",
+        "end_time": "00:00:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "public conflict",
+                "argument"
+            ],
+            "actions": [
+                "arguing",
+                "gesturing"
+            ],
+            "objects": [
+                "car",
+                "houses"
+            ],
+            "characters": [
+                "woman"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "residential street"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "street argument",
+            "Karen",
+            "confrontation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene shows a heated verbal argument occurring in a public, residential setting."
+            }
+        ],
+        "description": "A woman in a blue hoodie stands on a residential street, engaging in a heated and controversial argument with someone inside a car."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:00:24",
+        "end_time": "00:00:30",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "hate",
+                "entitlement"
+            ],
+            "themes": [
+                "racism",
+                "xenophobia",
+                "public conflict"
+            ],
+            "actions": [
+                "arguing",
+                "shouting"
+            ],
+            "objects": [
+                "store counter",
+                "freezer",
+                "merchandise"
+            ],
+            "characters": [
+                "white woman",
+                "store employee",
+                "customer"
+            ],
+            "weather": [],
+            "brands": [
+                "Nestle"
+            ]
+        },
+        "locations": [
+            "convenience store"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "racism",
+            "xenophobia",
+            "go back to Mexico",
+            "convenience store"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "hate_speech",
+                "score": 5,
+                "explanation": "A woman explicitly tells another person, 'You're going back to Mexico,' a severe instance of xenophobic and racist hate speech."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene depicts an overt and public racist and xenophobic incident in a store."
+            }
+        ],
+        "description": "Inside a convenience store, a woman directs severe xenophobic hate speech at another person, saying, 'You're going back to Mexico.' This creates a highly controversial and racist public confrontation."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:00:30",
+        "end_time": "00:00:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "shock"
+            ],
+            "themes": [
+                "conflict",
+                "escalation",
+                "physical altercation"
+            ],
+            "actions": [
+                "pushing",
+                "slapping",
+                "shouting"
+            ],
+            "objects": [
+                "store counter",
+                "exit door"
+            ],
+            "characters": [
+                "white woman",
+                "second woman"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "convenience store"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "slap",
+            "push",
+            "physical fight",
+            "store fight"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "In response to racist remarks, a woman physically pushes or slaps another woman, escalating the conflict to physical violence."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "A verbal racist argument escalates into a physical altercation in a public space."
+            }
+        ],
+        "description": "The controversial verbal conflict escalates to physical violence as a woman pushes or slaps the person who made racist comments. The scene depicts a physical altercation in a public store."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:00:34",
+        "end_time": "00:00:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "accusatory",
+                "serious"
+            ],
+            "themes": [
+                "false accusation",
+                "racism",
+                "racial profiling"
+            ],
+            "actions": [
+                "talking",
+                "looking at phone"
+            ],
+            "objects": [
+                "phone",
+                "car"
+            ],
+            "characters": [
+                "bald man"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "residential street",
+            "driveway"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "false accusation",
+            "racial profiling",
+            "stolen phone"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The narration explains that a person is falsely accusing a Black man of theft, introducing a controversial theme of racial profiling."
+            }
+        ],
+        "description": "The video shows a man who, according to the narrator, has just accused a Black man of stealing his phone. This sets up a controversial scenario centered on racial profiling and false accusation."
+    },
+    {
+        "scene_id": "scene_0008",
+        "start_time": "00:00:42",
+        "end_time": "00:00:54",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "accusatory",
+                "frustration",
+                "defensive"
+            ],
+            "themes": [
+                "false accusation",
+                "racism",
+                "racial profiling"
+            ],
+            "actions": [
+                "talking",
+                "accusing",
+                "searching a bag"
+            ],
+            "objects": [
+                "handbag",
+                "store merchandise"
+            ],
+            "characters": [
+                "woman",
+                "Black man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "retail store"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "false accusation",
+            "racial profiling",
+            "Karen"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene depicts a woman publicly making a false accusation against a Black man based on racial profiling."
+            }
+        ],
+        "description": "A woman in a store publicly and falsely accuses a Black man of stealing her phone, engaging in an act of racial profiling that creates a highly controversial situation."
+    },
+    {
+        "scene_id": "scene_0009",
+        "start_time": "00:00:54",
+        "end_time": "00:00:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "embarrassment",
+                "surprise",
+                "apology"
+            ],
+            "themes": [
+                "false accusation",
+                "karma",
+                "resolution"
+            ],
+            "actions": [
+                "searching",
+                "finding an object",
+                "apologizing"
+            ],
+            "objects": [
+                "handbag",
+                "phone"
+            ],
+            "characters": [
+                "woman"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "retail store"
+        ],
+        "genre": "Social Commentary",
+        "language": "en-US",
+        "keywords": [
+            "false accusation",
+            "found phone",
+            "apology",
+            "embarrassment"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "This scene provides the resolution to the controversial act of racial profiling, as the accuser is proven wrong."
+            }
+        ],
+        "description": "The woman who made the false accusation finds the phone in her own purse. She offers an embarrassed apology, concluding the controversial racial profiling incident by showing she was mistaken."
+    }
+]

@@ -1,0 +1,5562 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:13",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anticipation",
+                "excitement"
+            ],
+            "themes": [
+                "sportsmanship",
+                "competition"
+            ],
+            "actions": [
+                "posing",
+                "competing",
+                "lifting weights",
+                "cheerleading",
+                "skating"
+            ],
+            "objects": [
+                "barbell",
+                "ice skates",
+                "ring card"
+            ],
+            "characters": [
+                "MMA fighter",
+                "ring girl",
+                "judo athlete",
+                "weightlifter",
+                "cheerleader",
+                "ice skater"
+            ],
+            "weather": [],
+            "brands": [
+                "Olimpbet"
+            ]
+        },
+        "locations": [
+            "sports arena",
+            "stadium",
+            "ice rink",
+            "dojo"
+        ],
+        "genre": "sports compilation",
+        "language": "en-US",
+        "keywords": [
+            "sports",
+            "athletes",
+            "competition",
+            "MMA",
+            "judo",
+            "weightlifting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted. The scene is a montage of athletes in non-violent situations."
+            },
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "Female athletes are shown in standard, sometimes revealing, sports attire, such as a ring girl outfit and a weightlifting singlet."
+            }
+        ],
+        "description": "An introductory montage showcases various athletes in different sports, including an MMA fighter, a ring girl, a judo athlete, a weightlifter, a cheerleader, and an ice skater. The scenes are quick cuts meant to build excitement."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:13",
+        "end_time": "00:00:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger"
+            ],
+            "themes": [
+                "accident",
+                "sports injury",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "cycling",
+                "sprinting",
+                "pushing",
+                "crashing"
+            ],
+            "objects": [
+                "bicycles",
+                "barriers",
+                "finish line"
+            ],
+            "characters": [
+                "Fabio Jakobsen",
+                "Dylan Groenewegen",
+                "cyclists",
+                "spectators"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Carrefour",
+                "Lotos",
+                "Huawei"
+            ]
+        },
+        "locations": [
+            "city street",
+            "race track"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "cycling crash",
+            "bike race accident",
+            "Tour de Pologne",
+            "dangerous sprint"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A cyclist intentionally pushes another into the barriers at high speed, causing a severe and chaotic crash involving multiple riders. The act is intentional and results in significant physical harm."
+            }
+        ],
+        "description": "During the final sprint of a cycling race, one cyclist pushes another into the trackside barriers, causing a massive, high-speed crash at the finish line. The incident is violent and dangerous, leading to multiple riders falling."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:24",
+        "end_time": "00:00:31",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration",
+                "aggression"
+            ],
+            "themes": [
+                "foul play",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "kicking",
+                "falling",
+                "arguing"
+            ],
+            "objects": [
+                "soccer ball",
+                "goalpost",
+                "cleats"
+            ],
+            "characters": [
+                "Cristiano Ronaldo",
+                "goalkeeper",
+                "referee",
+                "soccer players"
+            ],
+            "weather": [],
+            "brands": [
+                "Viaplay"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer foul",
+            "Cristiano Ronaldo",
+            "kicking goalkeeper",
+            "yellow card",
+            "sports aggression"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A soccer player recklessly kicks the opposing goalkeeper with his cleats while going for the ball. It is an aggressive act but within the context of a sports foul, not an assault."
+            }
+        ],
+        "description": "In a soccer match, Cristiano Ronaldo lunges for a loose ball and makes contact with the goalkeeper's chest with his cleats. He receives a yellow card for the dangerous foul and briefly disputes it with another player."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:00:31",
+        "end_time": "00:00:37",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "disrespect"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "retaliation"
+            ],
+            "actions": [
+                "batting",
+                "throwing bat"
+            ],
+            "objects": [
+                "baseball bat",
+                "catcher's mitt",
+                "home plate"
+            ],
+            "characters": [
+                "batter",
+                "catcher",
+                "umpire"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Merrill Lynch"
+            ]
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "unsportsmanlike",
+            "throwing bat",
+            "foul play"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A baseball batter intentionally throws his bat backwards, hitting the catcher. It's a low-level aggressive act in a sports context."
+            }
+        ],
+        "description": "A baseball batter, after making contact with the ball, intentionally tosses his bat behind him, striking the catcher. The action appears deliberate and unsportsmanlike."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:00:37",
+        "end_time": "00:00:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression"
+            ],
+            "themes": [
+                "foul play",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "running",
+                "tripping"
+            ],
+            "objects": [
+                "baseball glove",
+                "first base"
+            ],
+            "characters": [
+                "runner",
+                "first baseman"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "tripping",
+            "dirty play",
+            "unsportsmanlike"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A baseball runner intentionally trips the first baseman. It's a minor act of physical aggression and unsportsmanlike conduct."
+            }
+        ],
+        "description": "While running to first base, a baseball player deliberately trips the first baseman, which is an act of unsportsmanlike conduct."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:00:40",
+        "end_time": "00:00:55",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "pain",
+                "shock",
+                "desperation"
+            ],
+            "themes": [
+                "cheating",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "grappling",
+                "biting",
+                "crying out"
+            ],
+            "objects": [
+                "judo gi"
+            ],
+            "characters": [
+                "judo competitors",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Mizuno"
+            ]
+        },
+        "locations": [
+            "judo tournament",
+            "arena"
+        ],
+        "genre": "sports",
+        "language": "ja-JP",
+        "keywords": [
+            "judo",
+            "biting",
+            "foul play",
+            "cheating",
+            "sports controversy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "During a judo match, one competitor bites the arm of her opponent, who visibly reacts in pain. This is a clear act of unsportsmanlike violence."
+            }
+        ],
+        "description": "During a women's judo match, one competitor, while caught in a hold, bites her opponent's arm. The victim is shown reacting in pain, and the action is a blatant violation of the rules."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:00:55",
+        "end_time": "00:01:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "shock",
+                "triumph"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "illegal blow",
+                "retaliation",
+                "knockout"
+            ],
+            "actions": [
+                "kickboxing",
+                "punching",
+                "kicking",
+                "intervening",
+                "falling"
+            ],
+            "objects": [
+                "boxing gloves",
+                "boxing ring"
+            ],
+            "characters": [
+                "Zakaria Badrane",
+                "Percy Timmer",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Venum"
+            ]
+        },
+        "locations": [
+            "boxing arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "kickboxing",
+            "illegal punch",
+            "sucker punch",
+            "unsportsmanlike",
+            "knockout"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A kickboxer attacks his opponent with hard punches after the referee has clearly stopped the fight. The opponent is defenseless. Later, the opponent retaliates with a clean and severe knockout kick. The initial act is a blatant and dangerous display of unsportsmanlike violence."
+            }
+        ],
+        "description": "In a kickboxing match, after the referee intervenes to separate the fighters, one fighter sucker punches his opponent. Despite the referee's attempts to stop him, he does it again. The fight resumes, and the fighter who was illegally struck retaliates with a clean knockout kick, ending the match."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:01:23",
+        "end_time": "00:01:30",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "comedy"
+            ],
+            "themes": [
+                "accident",
+                "sports blooper"
+            ],
+            "actions": [
+                "pitching"
+            ],
+            "objects": [
+                "baseball",
+                "truck",
+                "catcher's mitt"
+            ],
+            "characters": [
+                "pitcher",
+                "catcher"
+            ],
+            "weather": [],
+            "brands": [
+                "Bank of America"
+            ]
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "wild pitch",
+            "blooper",
+            "funny sports moment"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence. This is a comedic sports blooper where a pitcher accidentally hits a truck with the ball."
+            }
+        ],
+        "description": "A baseball pitcher throws an extremely wild pitch that completely misses the catcher and strikes a promotional truck parked behind home plate, shattering its window."
+    },
+    {
+        "scene_id": "scene_0008",
+        "start_time": "00:01:30",
+        "end_time": "00:01:45",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intimidation",
+                "confidence",
+                "calmness"
+            ],
+            "themes": [
+                "trash talk",
+                "rivalry",
+                "pre-fight hype"
+            ],
+            "actions": [
+                "talking",
+                "staring down"
+            ],
+            "objects": [
+                "championship belt",
+                "sunglasses"
+            ],
+            "characters": [
+                "Joanna Jędrzejczyk",
+                "Rose Namajunas",
+                "Dana White"
+            ],
+            "weather": [],
+            "brands": [
+                "UFC"
+            ]
+        },
+        "locations": [
+            "press conference stage"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "UFC",
+            "face-off",
+            "trash talk",
+            "Joanna Jędrzejczyk",
+            "Rose Namajunas",
+            "intimidation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No physical violence is present, only intense verbal aggression and intimidation between two fighters."
+            },
+            {
+                "category": "profanity",
+                "score": 1,
+                "explanation": "The on-screen subtitles contain a censored curse word ('s**t')."
+            }
+        ],
+        "description": "At a pre-fight face-off, MMA champion Joanna Jędrzejczyk intensely trash-talks her opponent, Rose Namajunas, who remains calm and stoic. The dialogue includes threats like 'I will take your soul' and insults. Subtitles display a censored swear word."
+    },
+    {
+        "scene_id": "scene_0009",
+        "start_time": "00:01:45",
+        "end_time": "00:02:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "intensity",
+                "triumph",
+                "shock"
+            ],
+            "themes": [
+                "knockout",
+                "upset",
+                "combat sports"
+            ],
+            "actions": [
+                "punching",
+                "kicking",
+                "falling",
+                "ground and pound"
+            ],
+            "objects": [
+                "MMA gloves",
+                "octagon cage"
+            ],
+            "characters": [
+                "Rose Namajunas",
+                "Joanna Jędrzejczyk",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "UFC",
+                "Reebok",
+                "Budweiser",
+                "EA Sports"
+            ]
+        },
+        "locations": [
+            "MMA octagon"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "UFC",
+            "knockout",
+            "Rose Namajunas",
+            "championship fight"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "Depicts a sanctioned MMA fight ending in a technical knockout. One fighter is knocked down and then receives several more punches on the ground before the referee stops the fight. The violence is within the rules of the sport."
+            }
+        ],
+        "description": "During their MMA championship fight, Rose Namajunas knocks down Joanna Jędrzejczyk with a powerful punch. She follows up with several 'ground and pound' strikes until the referee steps in to stop the fight, resulting in a TKO victory."
+    },
+    {
+        "scene_id": "scene_0010",
+        "start_time": "00:02:06",
+        "end_time": "00:02:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration",
+                "pain"
+            ],
+            "themes": [
+                "assault",
+                "unsportsmanlike conduct",
+                "violence against non-participants"
+            ],
+            "actions": [
+                "playing basketball",
+                "falling",
+                "kicking",
+                "being carried on a stretcher"
+            ],
+            "objects": [
+                "basketball",
+                "camera",
+                "stretcher",
+                "basketball court"
+            ],
+            "characters": [
+                "Dennis Rodman",
+                "cameraman",
+                "medical staff",
+                "other players"
+            ],
+            "weather": [],
+            "brands": [
+                "NBA"
+            ]
+        },
+        "locations": [
+            "basketball arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "assault",
+            "basketball",
+            "player violence",
+            "cameraman kicked"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A professional athlete physically assaults a non-participant (cameraman) by kicking him in the groin, causing injury that requires him to be carried away on a stretcher."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene depicts a highly controversial and infamous incident of a player attacking a courtside staff member during a professional game, which led to significant penalties and media attention."
+            }
+        ],
+        "description": "During a basketball game, player Dennis Rodman falls out of bounds and, in a moment of frustration, viciously kicks a courtside cameraman. The act is a clear assault on a non-participant, causing the cameraman to collapse in pain and be carried off on a stretcher. This incident is highly violent and controversial due to a player attacking an unsuspecting individual."
+    },
+    {
+        "scene_id": "scene_0011",
+        "start_time": "00:02:32",
+        "end_time": "00:02:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "confrontation",
+                "dangerous behavior"
+            ],
+            "actions": [
+                "playing baseball",
+                "throwing an object"
+            ],
+            "objects": [
+                "broken baseball bat",
+                "baseball"
+            ],
+            "characters": [
+                "Roger Clemens",
+                "Mike Piazza"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "confrontation",
+            "broken bat",
+            "throwing bat"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A player throws a sharp, broken piece of a bat in the direction of another player. While it doesn't hit him, the act is aggressive and potentially dangerous."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "This depicts a well-known controversial moment in a high-stakes game between two rivals, sparking arguments and debate about intent and sportsmanship."
+            }
+        ],
+        "description": "In a tense baseball game, the pitcher fields a broken bat and aggressively throws the sharp, jagged barrel in the direction of the batter running to first base. This dangerous and unsportsmanlike act justifies the violence and controversy scores, as it escalated tensions and could have caused injury."
+    },
+    {
+        "scene_id": "scene_0012",
+        "start_time": "00:02:41",
+        "end_time": "00:02:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "rage",
+                "fury"
+            ],
+            "themes": [
+                "outburst",
+                "rule dispute",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "running",
+                "shouting",
+                "arguing",
+                "being restrained"
+            ],
+            "objects": [
+                "baseball uniform",
+                "dugout"
+            ],
+            "characters": [
+                "George Brett",
+                "umpires",
+                "teammates"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "pine tar incident",
+            "baseball",
+            "argument",
+            "player outburst"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A player has an extreme verbal outburst and charges towards umpires but is restrained before any physical contact is made. The aggression is contained to shouting and gestures."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "This is the 'Pine Tar Incident,' one of the most famous and debated umpire controversies in baseball history, making the scene historically controversial."
+            }
+        ],
+        "description": "After a home run is controversially nullified, baseball player George Brett explodes out of the dugout in a fit of pure rage. He screams and charges at the umpires before being physically restrained by his teammates. The scene shows extreme anger but no actual physical assault, leading to a low violence score but a higher controversy score due to the incident's fame."
+    },
+    {
+        "scene_id": "scene_0013",
+        "start_time": "00:02:50",
+        "end_time": "00:02:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "outburst",
+                "property damage"
+            ],
+            "actions": [
+                "shouting",
+                "smashing an object",
+                "using a baseball bat as a weapon"
+            ],
+            "objects": [
+                "baseball bat",
+                "dugout phone"
+            ],
+            "characters": [
+                "David Ortiz"
+            ],
+            "weather": [],
+            "brands": [
+                "America.com"
+            ]
+        },
+        "locations": [
+            "baseball stadium",
+            "dugout"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "angry athlete",
+            "smashing phone",
+            "property damage",
+            "baseball"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A player violently destroys a piece of equipment (a phone) with a baseball bat out of frustration. The violence is directed at an inanimate object, not a person."
+            }
+        ],
+        "description": "An angry baseball player, David Ortiz, returns to the dugout and uses his bat to smash a wall-mounted telephone to pieces. This act constitutes property damage but does not involve violence against any person, hence the low violence score."
+    },
+    {
+        "scene_id": "scene_0014",
+        "start_time": "00:02:58",
+        "end_time": "00:03:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "arrogance",
+                "humiliation",
+                "pain"
+            ],
+            "themes": [
+                "hubris",
+                "karma",
+                "combat sports"
+            ],
+            "actions": [
+                "boxing",
+                "punching",
+                "taunting",
+                "getting knocked out"
+            ],
+            "objects": [
+                "boxing gloves",
+                "boxing ring"
+            ],
+            "characters": [
+                "boxers",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "DAZN",
+                "Tecate",
+                "Hennessy",
+                "Golden Boy"
+            ]
+        },
+        "locations": [
+            "boxing arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "boxing",
+            "knockout",
+            "taunting",
+            "hubris"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The scene shows a brutal knockout in a professional boxing match. The violence is expected and within the rules of the sport."
+            }
+        ],
+        "description": "In a boxing match, one fighter arrogantly taunts his opponent, only to be hit with a series of powerful punches that result in a definitive knockout. The violence is severe but is contextual to a combat sport, warranting a moderate score."
+    },
+    {
+        "scene_id": "scene_0015",
+        "start_time": "00:03:19",
+        "end_time": "00:03:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "humor",
+                "playfulness"
+            ],
+            "themes": [
+                "player-fan interaction",
+                "comedy"
+            ],
+            "actions": [
+                "playing baseball",
+                "taking food",
+                "eating"
+            ],
+            "objects": [
+                "nachos",
+                "baseball glove"
+            ],
+            "characters": [
+                "Prince Fielder",
+                "fans"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "funny sports moments",
+            "player-fan interaction",
+            "eating nachos"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "After making a play near the stands, baseball player Prince Fielder playfully reaches over and grabs some nachos from a fan, eating them as he walks away. The scene is a lighthearted and funny interaction between a player and a fan."
+    },
+    {
+        "scene_id": "scene_0016",
+        "start_time": "00:03:26",
+        "end_time": "00:03:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "humor",
+                "surprise"
+            ],
+            "themes": [
+                "player-fan interaction",
+                "comedy"
+            ],
+            "actions": [
+                "taking food",
+                "eating"
+            ],
+            "objects": [
+                "popcorn",
+                "baseball glove"
+            ],
+            "characters": [
+                "Don Mattingly",
+                "young fan"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "funny sports moments",
+            "player-fan interaction",
+            "eating popcorn"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Baseball player Don Mattingly walks up to a young child in the stands and playfully takes a handful of his popcorn, to the child's visible surprise and amusement. The scene is a harmless, humorous moment."
+    },
+    {
+        "scene_id": "scene_0017",
+        "start_time": "00:03:33",
+        "end_time": "00:03:35",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression"
+            ],
+            "themes": [
+                "assault",
+                "foul play",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "stomping"
+            ],
+            "objects": [
+                "soccer ball",
+                "cleats"
+            ],
+            "characters": [
+                "soccer players"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "soccer pitch"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer foul",
+            "stomp",
+            "dirty play",
+            "red card"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A soccer player intentionally and forcefully stomps on a downed opponent. This is a malicious act of violence outside the acceptable level of contact for the sport."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "This type of egregious and dangerous foul play is highly controversial and often leads to significant sanctions and debate about player safety."
+            }
+        ],
+        "description": "During a soccer game, a player on the ground is deliberately stomped on by an opponent. This is a violent and dangerous foul that goes far beyond the rules of the game, constituting an assault and warranting a high violence score."
+    },
+    {
+        "scene_id": "scene_0018",
+        "start_time": "00:03:35",
+        "end_time": "00:03:46",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "intensity"
+            ],
+            "themes": [
+                "knockout",
+                "combat sports",
+                "athleticism"
+            ],
+            "actions": [
+                "fighting",
+                "kicking",
+                "knockout"
+            ],
+            "objects": [
+                "fighting gloves"
+            ],
+            "characters": [
+                "karate fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Kraken",
+                "DeLorean",
+                "9Round"
+            ]
+        },
+        "locations": [
+            "fighting arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "karate",
+            "knockout",
+            "flying kick",
+            "combat"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "The scene depicts a sudden and brutal knockout via a head kick in a combat sports match. The recipient is rendered unconscious instantly. The violence is high but within the context of the sport."
+            }
+        ],
+        "description": "In a karate match, one fighter lands a spectacular and devastating jumping switch kick to his opponent's head, resulting in an instantaneous knockout. The violence is severe but sanctioned within the rules of the combat sport."
+    },
+    {
+        "scene_id": "scene_0019",
+        "start_time": "00:03:46",
+        "end_time": "00:03:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "anticipation",
+                "disappointment"
+            ],
+            "themes": [
+                "buzzer beater attempt",
+                "near-miss",
+                "clutch moment"
+            ],
+            "actions": [
+                "shooting a basketball"
+            ],
+            "objects": [
+                "basketball",
+                "basketball hoop",
+                "scoreboard"
+            ],
+            "characters": [
+                "Joel Embiid"
+            ],
+            "weather": [],
+            "brands": [
+                "State Farm",
+                "StubHub",
+                "NBC Sports"
+            ]
+        },
+        "locations": [
+            "basketball arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "basketball",
+            "full court shot",
+            "buzzer beater",
+            "near miss"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "At the very end of a basketball game, player Joel Embiid heaves a full-court shot. The ball travels the entire length of the court, hits the rim, bounces, and dramatically rolls out, narrowly missing a miraculous game-winning basket."
+    },
+    {
+        "scene_id": "scene_0020",
+        "start_time": "00:03:51",
+        "end_time": "00:03:56",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "disrespect"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "conflict"
+            ],
+            "actions": [
+                "spitting"
+            ],
+            "objects": [
+                "soccer jersey"
+            ],
+            "characters": [
+                "soccer players"
+            ],
+            "weather": [],
+            "brands": [
+                "Adidas"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "spitting",
+            "foul",
+            "unsportsmanlike",
+            "Rijkaard"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A player spits on another player, which is an aggressive and disrespectful act but does not cause physical injury."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene depicts a famous and highly controversial act of unsportsmanlike conduct in a professional sports match."
+            }
+        ],
+        "description": "During a soccer match, one player spits at an opponent as he runs past. This act of unsportsmanlike conduct contributes to a controversy score."
+    },
+    {
+        "scene_id": "scene_0021",
+        "start_time": "00:03:56",
+        "end_time": "00:04:13",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression",
+                "chaos"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "assault",
+                "violence"
+            ],
+            "actions": [
+                "fighting",
+                "kicking",
+                "brawling"
+            ],
+            "objects": [
+                "mma cage",
+                "stool"
+            ],
+            "characters": [
+                "mma fighters",
+                "referee",
+                "staff"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "mma arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "mma",
+            "fight",
+            "brawl",
+            "kicking referee",
+            "chaos"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "An MMA fighter knocks down his opponent and then viciously kicks the referee in the back. A chaotic brawl ensues involving multiple people inside the cage."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene shows a severe breach of rules and safety, with a fighter assaulting a referee, which is a highly controversial and dangerous act."
+            }
+        ],
+        "description": "After an MMA fight ends, the winning fighter attacks the referee by kicking him. This sparks a chaotic brawl inside the cage as other officials and cornermen rush in to intervene."
+    },
+    {
+        "scene_id": "scene_0022",
+        "start_time": "00:04:13",
+        "end_time": "00:04:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration"
+            ],
+            "themes": [
+                "disagreement",
+                "sports competition"
+            ],
+            "actions": [
+                "playing baseball",
+                "walking"
+            ],
+            "objects": [
+                "baseball bat",
+                "baseball glove",
+                "umpire equipment"
+            ],
+            "characters": [
+                "baseball players",
+                "umpire"
+            ],
+            "weather": [],
+            "brands": [
+                "Amica"
+            ]
+        },
+        "locations": [
+            "baseball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "umpire call",
+            "walk"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "There is no violence in this scene."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A mild disagreement with an umpire's call is shown, which is common in sports and represents a very low level of controversy."
+            }
+        ],
+        "description": "In a baseball game, a batter receives a walk to first base. He shows minor frustration with the preceding pitches but there is no significant confrontation."
+    },
+    {
+        "scene_id": "scene_0023",
+        "start_time": "00:04:19",
+        "end_time": "00:04:27",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "outburst"
+            ],
+            "actions": [
+                "playing tennis",
+                "throwing"
+            ],
+            "objects": [
+                "tennis racket",
+                "tennis net"
+            ],
+            "characters": [
+                "tennis players"
+            ],
+            "weather": [],
+            "brands": [
+                "ATP Tour",
+                "Emirates",
+                "Peugeot",
+                "Rolex"
+            ]
+        },
+        "locations": [
+            "tennis court"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "tennis",
+            "racket smash",
+            "outburst",
+            "frustration"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A player throws his racket in anger. While not directed at a person, it is an aggressive act involving an object."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The player's angry outburst and throwing of equipment is a violation of sportsmanship rules, creating a minor controversy."
+            }
+        ],
+        "description": "A tennis player, frustrated after losing a point, angrily throws his racket to the ground. This outburst is an act of unsportsmanlike conduct."
+    },
+    {
+        "scene_id": "scene_0024",
+        "start_time": "00:04:27",
+        "end_time": "00:04:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "humor"
+            ],
+            "themes": [
+                "staged conflict",
+                "comedy",
+                "mascot antics"
+            ],
+            "actions": [
+                "fighting",
+                "tackling",
+                "throwing"
+            ],
+            "objects": [
+                "mascot costume",
+                "dummy",
+                "ATV"
+            ],
+            "characters": [
+                "baseball manager",
+                "mascot"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "mascot fight",
+            "comedy",
+            "staged",
+            "Tommy Lasorda",
+            "Phillie Phanatic"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene depicts a physical fight where a man tackles a mascot and throws a dummy. Although it is clearly staged and comedic, it involves acts of physical aggression."
+            }
+        ],
+        "description": "In a comedic and staged routine, a baseball manager gets into a physical altercation with a team mascot on the field, tackling the mascot and throwing a dummy."
+    },
+    {
+        "scene_id": "scene_0025",
+        "start_time": "00:04:38",
+        "end_time": "00:04:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "defiance"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "protest",
+                "outburst"
+            ],
+            "actions": [
+                "arguing",
+                "pulling",
+                "carrying"
+            ],
+            "objects": [
+                "baseball base",
+                "umpire uniform"
+            ],
+            "characters": [
+                "baseball player",
+                "umpire"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "ejection",
+            "stealing base",
+            "argument",
+            "umpire"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The player's action of ripping a base from the ground constitutes minor property damage driven by anger."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A player getting ejected and then physically taking a base off the field is a highly unusual and controversial act of defiance against an official."
+            }
+        ],
+        "description": "After being ejected from a baseball game, an angry player argues with the umpire, then proceeds to pull first base out of the ground and walk off the field with it."
+    },
+    {
+        "scene_id": "scene_0026",
+        "start_time": "00:04:49",
+        "end_time": "00:05:05",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "team conflict",
+                "violence"
+            ],
+            "actions": [
+                "arguing",
+                "choking",
+                "shoving",
+                "fighting"
+            ],
+            "objects": [
+                "dugout bench",
+                "baseball uniform"
+            ],
+            "characters": [
+                "baseball players"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball dugout"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "dugout fight",
+            "teammate fight",
+            "choking",
+            "argument",
+            "baseball"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "The scene shows a serious physical fight between two teammates in the dugout, where one player grabs the other by the throat and shoves him against a wall."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "A violent altercation between teammates is a major controversy for any sports organization and is widely condemned."
+            }
+        ],
+        "description": "Two baseball teammates get into a heated argument in the dugout, which escalates into a physical fight. One player grabs the other by the neck and shoves him before being separated by others."
+    },
+    {
+        "scene_id": "scene_0027",
+        "start_time": "00:05:05",
+        "end_time": "00:05:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration",
+                "aggression"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "assault"
+            ],
+            "actions": [
+                "punching",
+                "fighting"
+            ],
+            "objects": [
+                "mma cage",
+                "mma gloves"
+            ],
+            "characters": [
+                "mma fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Olimpbet"
+            ]
+        },
+        "locations": [
+            "mma arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "mma",
+            "sucker punch",
+            "post-fight",
+            "unsportsmanlike"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A fighter attacks his opponent with a blindside punch after the match has been stopped, which is a dangerous and illegal act."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "This series of unsportsmanlike acts, including attacking an opponent after the bell, is highly controversial and resulted in a lifetime ban for the fighter."
+            }
+        ],
+        "description": "After losing an MMA fight, the defeated fighter attacks his opponent with a punch well after the referee has stopped the contest, requiring officials to intervene."
+    },
+    {
+        "scene_id": "scene_0028",
+        "start_time": "00:05:16",
+        "end_time": "00:05:21",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression"
+            ],
+            "themes": [
+                "assault",
+                "violence"
+            ],
+            "actions": [
+                "punching"
+            ],
+            "objects": [
+                "microphone",
+                "mma cage"
+            ],
+            "characters": [
+                "mma fighter",
+                "commentator"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "mma arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "mma",
+            "punch",
+            "assault",
+            "interview"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A fighter violently punches a commentator/interviewer, who is a non-combatant, in the face."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The unprovoked assault on a media member is a highly controversial and serious incident."
+            }
+        ],
+        "description": "During a post-fight interview in the MMA cage, the fighter who had just lost punches the commentator holding the microphone, escalating his unsportsmanlike behavior."
+    },
+    {
+        "scene_id": "scene_0029",
+        "start_time": "00:05:22",
+        "end_time": "00:05:31",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "disrespect"
+            ],
+            "themes": [
+                "fan misbehavior",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "pouring liquid"
+            ],
+            "objects": [
+                "beverage cup",
+                "hockey jersey"
+            ],
+            "characters": [
+                "hockey player",
+                "fans"
+            ],
+            "weather": [],
+            "brands": [
+                "Publix"
+            ]
+        },
+        "locations": [
+            "hockey arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "hockey",
+            "fans",
+            "beer",
+            "disrespect"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "Fans pour a drink on a player. This is an act of aggression and assault but is unlikely to cause serious physical harm."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts fan misbehavior and disrespect towards a professional athlete, which is a controversial topic in sports."
+            }
+        ],
+        "description": "As a hockey player walks from the ice into the player tunnel, fans in the stands lean over the barrier and pour beer on him."
+    },
+    {
+        "scene_id": "scene_0030",
+        "start_time": "00:05:32",
+        "end_time": "00:05:39",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "excitement"
+            ],
+            "themes": [
+                "sports",
+                "competition",
+                "violence"
+            ],
+            "actions": [
+                "punching",
+                "falling",
+                "knockout"
+            ],
+            "objects": [
+                "boxing ring",
+                "boxing gloves",
+                "ropes"
+            ],
+            "characters": [
+                "boxer",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "DAZN"
+            ]
+        },
+        "locations": [
+            "boxing arena"
+        ],
+        "genre": "sports",
+        "language": "ru-RU",
+        "keywords": [
+            "boxing",
+            "knockout",
+            "fight",
+            "sports violence"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A boxer is knocked out by a powerful punch and falls to the canvas unconscious. The scene depicts a clear and impactful act of violence within a sporting context."
+            }
+        ],
+        "description": "In a boxing match, one fighter lands a powerful punch, knocking his opponent to the canvas. The boxer lies on the ground, seemingly unconscious, as the referee begins to count. The scene depicts a clear knockout, which constitutes moderate violence in a sports setting."
+    },
+    {
+        "scene_id": "scene_0031",
+        "start_time": "00:05:39",
+        "end_time": "00:05:48",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "pain"
+            ],
+            "themes": [
+                "sports",
+                "competition",
+                "defeat"
+            ],
+            "actions": [
+                "punching",
+                "falling",
+                "knockout"
+            ],
+            "objects": [
+                "boxing ring",
+                "boxing gloves"
+            ],
+            "characters": [
+                "boxer",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "DAZN",
+                "TNT Sports"
+            ]
+        },
+        "locations": [
+            "boxing arena"
+        ],
+        "genre": "sports",
+        "language": "ru-RU",
+        "keywords": [
+            "boxing",
+            "knockout",
+            "sports",
+            "combat sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A boxer is knocked out by a punch and falls limply to the ground, clearly incapacitated. The impact and result of the violent act are shown clearly."
+            }
+        ],
+        "description": "A boxer is knocked out by a punch and falls unconscious against the ropes. The scene clearly shows the violent impact and the result of the punch, justifying a moderate violence score."
+    },
+    {
+        "scene_id": "scene_0032",
+        "start_time": "00:05:49",
+        "end_time": "00:05:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "intensity",
+                "excitement",
+                "aggression"
+            ],
+            "themes": [
+                "sports",
+                "competition"
+            ],
+            "actions": [
+                "yelling",
+                "goalkeeping"
+            ],
+            "objects": [
+                "soccer ball",
+                "goal",
+                "jersey"
+            ],
+            "characters": [
+                "goalkeeper"
+            ],
+            "weather": [],
+            "brands": [
+                "Nike",
+                "Paramount+"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "goalkeeper",
+            "penalty shootout",
+            "yelling"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A close-up of a soccer goalkeeper shouting intensely during what appears to be a penalty shootout. The scene is focused on the emotion of the sport."
+    },
+    {
+        "scene_id": "scene_0033",
+        "start_time": "00:05:52",
+        "end_time": "00:06:03",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "disappointment",
+                "frustration",
+                "shock"
+            ],
+            "themes": [
+                "sports",
+                "mistake",
+                "own goal"
+            ],
+            "actions": [
+                "kicking",
+                "scoring own goal",
+                "reacting"
+            ],
+            "objects": [
+                "soccer ball",
+                "goal",
+                "soccer field"
+            ],
+            "characters": [
+                "soccer players",
+                "goalkeeper"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "women's soccer",
+            "own goal",
+            "sports fail",
+            "blunder"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "During a women's soccer match, a defensive player accidentally kicks the ball into her own team's goal. She and her teammates react with shock and disappointment."
+    },
+    {
+        "scene_id": "scene_0034",
+        "start_time": "00:06:04",
+        "end_time": "00:06:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "pain",
+                "shock"
+            ],
+            "themes": [
+                "sports",
+                "violence",
+                "controversial play"
+            ],
+            "actions": [
+                "running",
+                "sliding",
+                "kicking",
+                "tagging"
+            ],
+            "objects": [
+                "baseball",
+                "glove",
+                "base"
+            ],
+            "characters": [
+                "baseball players"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "baseball field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "hard slide",
+            "kick",
+            "sports injury",
+            "controversy"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A baseball player's foot makes forceful contact with an opponent's head during a play. The action is aggressive and potentially dangerous, constituting low-level violence in a sports context."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The play is aggressive and could be interpreted as unsportsmanlike, making it a minor point of controversy."
+            }
+        ],
+        "description": "In a baseball game, a runner slides into a base while the fielder attempts to tag him out. The fielder's leg makes forceful contact with the runner's head, appearing like a kick. The runner falls to the ground after the impact. This aggressive play is a low-level act of violence and slightly controversial within the context of the sport."
+    },
+    {
+        "scene_id": "scene_0035",
+        "start_time": "00:06:12",
+        "end_time": "00:06:29",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "arrogance",
+                "intensity"
+            ],
+            "themes": [
+                "sports",
+                "taunting",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "boxing",
+                "punching",
+                "taunting",
+                "dodging"
+            ],
+            "objects": [
+                "boxing ring",
+                "boxing gloves"
+            ],
+            "characters": [
+                "boxers",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "bet365",
+                "Everlast",
+                "WBC",
+                "Adidas"
+            ]
+        },
+        "locations": [
+            "boxing arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "boxing",
+            "taunting",
+            "showboating",
+            "fight",
+            "unsportsmanlike"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene depicts a standard boxing match with punches being thrown and landed, which is inherent violence within the sport's rules."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "One boxer engages in excessive taunting and showboating, which is considered unsportsmanlike and can be controversial."
+            }
+        ],
+        "description": "A boxer taunts his opponent by dancing and dropping his guard. The referee repeatedly intervenes. Punches are exchanged, showing typical sports-related violence. The taunting behavior adds a minor level of controversy."
+    },
+    {
+        "scene_id": "scene_0036",
+        "start_time": "00:06:30",
+        "end_time": "00:06:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "disbelief"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "sexual harassment",
+                "controversy"
+            ],
+            "actions": [
+                "standing",
+                "grabbing genitals"
+            ],
+            "objects": [
+                "soccer jersey",
+                "goal"
+            ],
+            "characters": [
+                "soccer players",
+                "Carlos Valderrama",
+                "Míchel"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "Valderrama",
+            "Míchel",
+            "genital grab",
+            "controversial moment",
+            "unsportsmanlike"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 3,
+                "explanation": "One soccer player inappropriately touches another player's genitals. This is a clear instance of non-consensual sexual contact, regardless of intent."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "This is a famous and highly controversial incident in soccer history, widely discussed for its unsportsmanlike and inappropriate nature."
+            }
+        ],
+        "description": "In a well-known soccer incident, player Míchel grabs Carlos Valderrama's genitals while they are setting up for a corner kick. This act is a form of sexual harassment and is highly controversial, justifying moderate scores in both categories."
+    },
+    {
+        "scene_id": "scene_0037",
+        "start_time": "00:06:35",
+        "end_time": "00:06:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "amusement",
+                "surprise",
+                "joy"
+            ],
+            "themes": [
+                "sports traditions",
+                "animals"
+            ],
+            "actions": [
+                "ice skating",
+                "picking up",
+                "carrying"
+            ],
+            "objects": [
+                "ice rink",
+                "ice skates",
+                "dead catfish"
+            ],
+            "characters": [
+                "ice girl"
+            ],
+            "weather": [],
+            "brands": [
+                "Geico"
+            ]
+        },
+        "locations": [
+            "hockey arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "hockey",
+            "Nashville Predators",
+            "catfish toss",
+            "ice girl",
+            "sports tradition"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "animal harm",
+                "score": 1,
+                "explanation": "A dead animal (a catfish) is shown being handled as part of a sports tradition. While no harm is shown occurring, the presence of a dead animal warrants a minimal score."
+            }
+        ],
+        "description": "An ice girl skates onto a hockey rink to pick up a dead catfish thrown by a fan, a tradition for the Nashville Predators. She smiles and carries the fish off the ice. The scene involves a dead animal, giving it a low animal harm score."
+    },
+    {
+        "scene_id": "scene_0038",
+        "start_time": "00:06:44",
+        "end_time": "00:06:53",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger",
+                "excitement"
+            ],
+            "themes": [
+                "motorsports",
+                "accident",
+                "crash"
+            ],
+            "actions": [
+                "racing",
+                "stalling",
+                "crashing",
+                "flipping"
+            ],
+            "objects": [
+                "race car",
+                "racetrack"
+            ],
+            "characters": [
+                "race car drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Imola"
+            ]
+        },
+        "locations": [
+            "Imola Racetrack"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "car crash",
+            "motorsports",
+            "Formula racing",
+            "accident",
+            "stalled car"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A high-speed car crash is shown where one car flips over. While dangerous, this is a common risk in motorsports and no injury is depicted. The potential for harm gives it a low violence score."
+            }
+        ],
+        "description": "At the start of a formula race, a car stalls on the grid. Another car, unable to avoid it, crashes into its rear, launching the stalled car into the air where it flips over. This is a dramatic but not overly graphic crash, warranting a low violence score."
+    },
+    {
+        "scene_id": "scene_0039",
+        "start_time": "00:06:53",
+        "end_time": "00:07:09",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "shock",
+                "danger"
+            ],
+            "themes": [
+                "motorsports",
+                "accident",
+                "catastrophe"
+            ],
+            "actions": [
+                "crashing",
+                "flipping",
+                "disintegrating"
+            ],
+            "objects": [
+                "race car",
+                "racetrack",
+                "debris"
+            ],
+            "characters": [
+                "race car drivers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "BT Sport",
+                "FIA"
+            ]
+        },
+        "locations": [
+            "racetrack"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "car crash",
+            "motorsports",
+            "violent crash",
+            "accident",
+            "F3"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A very violent and catastrophic car crash is shown in detail. A car is launched high into the air, flips violently, and breaks apart on impact. This is a highly dangerous and potentially fatal accident, justifying a high violence score."
+            }
+        ],
+        "description": "A replay shows a catastrophic crash in a formula race. One car hits another, becomes airborne, flips violently through the air, and disintegrates as it crashes back down onto the track amidst other cars. The severity and destructive nature of the crash warrant a high violence score."
+    },
+    {
+        "scene_id": "scene_0040",
+        "start_time": "00:07:10",
+        "end_time": "00:07:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "humor"
+            ],
+            "themes": [
+                "sports",
+                "comedy"
+            ],
+            "actions": [
+                "playing soccer",
+                "scoring",
+                "kicking",
+                "throwing"
+            ],
+            "objects": [
+                "soccer ball",
+                "goalpost"
+            ],
+            "characters": [
+                "soccer players"
+            ],
+            "weather": [],
+            "brands": [
+                "Barclays"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "goal",
+            "penalty kick",
+            "sports blooper"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "The scene depicts standard sports play and a comedic moment with no violent intent."
+            }
+        ],
+        "description": "A montage of soccer plays is shown. First, a player scores a goal with a header. Then, in a comical moment, a player attempting a penalty kick is thwarted when another player throws a large red ball, hitting the soccer ball at the moment of impact."
+    },
+    {
+        "scene_id": "scene_0041",
+        "start_time": "00:07:18",
+        "end_time": "00:07:22",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "humor"
+            ],
+            "themes": [
+                "comedy",
+                "sportsmanship"
+            ],
+            "actions": [
+                "playing soccer",
+                "talking"
+            ],
+            "objects": [
+                "soccer ball"
+            ],
+            "characters": [
+                "soccer players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Volkswagen"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "sports blooper",
+            "funny sports",
+            "throw-in"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "The scene is a lighthearted, comedic interaction between players with no violence."
+            }
+        ],
+        "description": "During a soccer game, as one player prepares for a throw-in, an opponent comically attempts to distract him by making quacking noises. The referee steps in to manage the humorous situation."
+    },
+    {
+        "scene_id": "scene_0042",
+        "start_time": "00:07:23",
+        "end_time": "00:07:35",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "pain",
+                "aggression"
+            ],
+            "themes": [
+                "sports foul"
+            ],
+            "actions": [
+                "playing soccer",
+                "kicking",
+                "falling"
+            ],
+            "objects": [
+                "soccer ball"
+            ],
+            "characters": [
+                "female soccer players"
+            ],
+            "weather": [],
+            "brands": [
+                "BBC",
+                "Vauxhall"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "women's soccer",
+            "foul",
+            "sports injury",
+            "kick"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A player is kicked in the lower abdomen during a tackle attempt. The action is aggressive and causes visible pain, constituting a low level of violence within a sports context."
+            }
+        ],
+        "description": "In a women's soccer match, one player aggressively kicks another in the stomach/groin area while challenging for the ball. The fouled player bends over in clear pain. This act represents a violent foul within the game, justifying the low violence score."
+    },
+    {
+        "scene_id": "scene_0043",
+        "start_time": "00:07:36",
+        "end_time": "00:07:52",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "joy",
+                "energy"
+            ],
+            "themes": [
+                "cheerleading",
+                "entertainment"
+            ],
+            "actions": [
+                "dancing",
+                "cheering"
+            ],
+            "objects": [],
+            "characters": [
+                "female cheerleader"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "cheerleader",
+            "dancing",
+            "baseball game",
+            "performance"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "A female cheerleader is shown dancing in a standard uniform (short skirt and top). While typical for the activity, the camera's focus on her, combined with the narration about her 'dazzling presence,' can be seen as mildly objectifying."
+            }
+        ],
+        "description": "A female cheerleader performs an energetic dance routine for the crowd at a sports stadium. She is wearing a yellow top and a short blue skirt. The camera focuses on her performance, and the narration highlights her as the center of attention, which contributes to a mild sexual score for objectification."
+    },
+    {
+        "scene_id": "scene_0044",
+        "start_time": "00:07:53",
+        "end_time": "00:08:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "strength",
+                "pride"
+            ],
+            "themes": [
+                "weightlifting",
+                "competition",
+                "strength"
+            ],
+            "actions": [
+                "weightlifting",
+                "lifting"
+            ],
+            "objects": [
+                "barbell",
+                "weights"
+            ],
+            "characters": [
+                "female weightlifter"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "sports arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "weightlifting",
+            "female athlete",
+            "Olympics",
+            "strength"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "The athlete wears a standard, form-fitting weightlifting singlet that is tight on her body. While appropriate for the sport, the outfit highlights her physique, which is considered mildly sexual."
+            }
+        ],
+        "description": "A female weightlifter, representing Japan in a pink singlet, successfully lifts a heavy barbell over her head during a competition. The scene highlights her muscular physique and strength. Her tight-fitting uniform, standard for the sport, results in a low sexual content score."
+    },
+    {
+        "scene_id": "scene_0045",
+        "start_time": "00:08:12",
+        "end_time": "00:08:28",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "competitiveness",
+                "excitement"
+            ],
+            "themes": [
+                "beach sports",
+                "competition"
+            ],
+            "actions": [
+                "running",
+                "competing"
+            ],
+            "objects": [
+                "sand"
+            ],
+            "characters": [
+                "female athletes"
+            ],
+            "weather": [],
+            "brands": [
+                "FINZ",
+                "Aussies22"
+            ]
+        },
+        "locations": [
+            "beach"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "beach flags",
+            "lifesaving sport",
+            "bikinis",
+            "beach race"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 2,
+                "explanation": "Female athletes compete in revealing bikinis. Camera angles focus on their bodies, particularly their buttocks, as they lie on the sand and run."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "There is brief physical contact and tripping among competitors at the start of the race, which is a minor scuffle within the context of the sport."
+            }
+        ],
+        "description": "At a nighttime beach event, female athletes in bikinis compete in a beach flags race. The race begins with them lying on the sand and then sprinting. The camera focuses on their bodies in revealing swimwear, warranting a sexual content score. A brief moment of physical jostling at the start earns a very low violence score."
+    },
+    {
+        "scene_id": "scene_0046",
+        "start_time": "00:08:29",
+        "end_time": "00:08:37",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "intensity"
+            ],
+            "themes": [
+                "basketball",
+                "sports skill"
+            ],
+            "actions": [
+                "playing basketball",
+                "shooting",
+                "scoring"
+            ],
+            "objects": [
+                "basketball",
+                "hoop"
+            ],
+            "characters": [
+                "basketball players"
+            ],
+            "weather": [],
+            "brands": [
+                "7 Days EuroCup",
+                "Gazprom"
+            ]
+        },
+        "locations": [
+            "basketball court"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "basketball",
+            "amazing shot",
+            "scoring",
+            "EuroCup"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "The scene shows a skilled play during a standard basketball game with no violence."
+            }
+        ],
+        "description": "During a professional basketball game, a player makes a difficult, contested shot from close range. The ball bounces off the rim and goes in, showcasing a moment of high skill in a competitive sports environment."
+    },
+    {
+        "scene_id": "scene_0047",
+        "start_time": "00:08:38",
+        "end_time": "00:08:46",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "annoyance",
+                "frustration"
+            ],
+            "themes": [
+                "fan behavior",
+                "sportsmanship"
+            ],
+            "actions": [
+                "throwing",
+                "catching"
+            ],
+            "objects": [
+                "soccer ball",
+                "goalpost"
+            ],
+            "characters": [
+                "goalkeeper"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "goalkeeper",
+            "fans throwing things",
+            "unsportsmanlike conduct"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "Fans are shown throwing objects (soccer balls) onto the field at a player, which is unsportsmanlike and disruptive behavior that is controversial in sports."
+            }
+        ],
+        "description": "Following a scored goal, the opposing team's goalkeeper is targeted by fans who throw two additional soccer balls onto the field toward him. The goalkeeper catches the balls and discards them. This act of fan interference is unsportsmanlike and generates controversy."
+    },
+    {
+        "scene_id": "scene_0048",
+        "start_time": "00:08:47",
+        "end_time": "00:09:03",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger"
+            ],
+            "themes": [
+                "sports accident"
+            ],
+            "actions": [
+                "car racing",
+                "crashing",
+                "flipping"
+            ],
+            "objects": [
+                "race car",
+                "dirt track"
+            ],
+            "characters": [
+                "race car driver"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "dirt race track"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "car crash",
+            "racing accident",
+            "dirt track racing",
+            "sprint car"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A race car is involved in a severe and violent crash, flipping end-over-end multiple times. This is a realistic and impactful depiction of a dangerous accident."
+            }
+        ],
+        "description": "A sprint car on a dirt track crashes into the side wall and undergoes a series of violent flips. The car is heavily damaged in the crash, illustrating the severe dangers of motorsports and warranting a high violence score."
+    },
+    {
+        "scene_id": "scene_0049",
+        "start_time": "00:09:04",
+        "end_time": "00:09:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "pain"
+            ],
+            "themes": [
+                "stunt fail",
+                "extreme sports"
+            ],
+            "actions": [
+                "skateboarding",
+                "jumping",
+                "falling"
+            ],
+            "objects": [
+                "skateboard",
+                "bicycle",
+                "helmet"
+            ],
+            "characters": [
+                "skateboarder",
+                "bicyclist"
+            ],
+            "weather": [],
+            "brands": [
+                "Woodward"
+            ]
+        },
+        "locations": [
+            "skate park"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "skateboarding fail",
+            "stunt gone wrong",
+            "crash",
+            "accident"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A person attempting a skateboard stunt falls hard onto a paved surface. The impact is realistic and depicts a painful accident that could result in injury."
+            }
+        ],
+        "description": "A skateboarder attempts to jump over another person on a bicycle but fails mid-air. He falls backward and lands hard on the paved ground, showing a painful and realistic stunt failure that could cause injury, which justifies a low violence score."
+    },
+    {
+        "scene_id": "scene_0050",
+        "start_time": "00:09:08",
+        "end_time": "00:09:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "pain"
+            ],
+            "themes": [
+                "sports accident",
+                "skateboarding"
+            ],
+            "actions": [
+                "skateboarding",
+                "jumping",
+                "falling"
+            ],
+            "objects": [
+                "skateboard",
+                "helmet",
+                "bicycle"
+            ],
+            "characters": [
+                "skateboarder",
+                "biker"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "skate park"
+        ],
+        "genre": "sports fails",
+        "language": "en-US",
+        "keywords": [
+            "skateboarding",
+            "fail",
+            "accident",
+            "fall",
+            "stunt"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A person has a hard fall while skateboarding. The impact is significant, but there are no graphic injuries shown. It's classified as a non-intentional accident."
+            }
+        ],
+        "description": "A skateboarder attempts a jump out of a building entrance but loses his board in mid-air and falls hard onto the paved ground. The scene depicts an accident with a painful-looking impact, which justifies the low violence score."
+    },
+    {
+        "scene_id": "scene_0051",
+        "start_time": "00:09:13",
+        "end_time": "00:09:22",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity",
+                "pain"
+            ],
+            "themes": [
+                "sports",
+                "competition"
+            ],
+            "actions": [
+                "running",
+                "catching",
+                "tackling"
+            ],
+            "objects": [
+                "football",
+                "helmet",
+                "sports uniform"
+            ],
+            "characters": [
+                "football players"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "ESPN"
+            ]
+        },
+        "locations": [
+            "football stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "american football",
+            "tackle",
+            "interception",
+            "sports injury"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene shows a hard tackle in an American football game, which is a high-contact sport. The player appears to be injured after the play. The violence is within the context of the sport."
+            }
+        ],
+        "description": "In an American football game, a player intercepts a pass and is immediately tackled by several opponents. The impact is forceful, and the player is shown lying on the ground, seemingly in pain. This level of physical contact is typical for the sport, resulting in a low violence score."
+    },
+    {
+        "scene_id": "scene_0052",
+        "start_time": "00:09:23",
+        "end_time": "00:09:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "pain"
+            ],
+            "themes": [
+                "sports accident",
+                "table tennis"
+            ],
+            "actions": [
+                "playing table tennis",
+                "getting hit"
+            ],
+            "objects": [
+                "ping pong table",
+                "paddle",
+                "ball"
+            ],
+            "characters": [
+                "table tennis players",
+                "umpire"
+            ],
+            "weather": [],
+            "brands": [
+                "Donic"
+            ]
+        },
+        "locations": [
+            "indoor sports arena"
+        ],
+        "genre": "sports fails",
+        "language": "en-US",
+        "keywords": [
+            "table tennis",
+            "ping pong",
+            "accident",
+            "hit in eye"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A table tennis player is accidentally hit in the eye by the ball. The impact is minor and unintentional, with no visible injury."
+            }
+        ],
+        "description": "During a professional table tennis match, a player is accidentally struck in the eye by the ball after it deflects off the net. The incident is a minor accident with no lasting harm shown, warranting a very low violence score."
+    },
+    {
+        "scene_id": "scene_0053",
+        "start_time": "00:09:33",
+        "end_time": "00:09:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "chaos",
+                "shock"
+            ],
+            "themes": [
+                "sports accident",
+                "cycling"
+            ],
+            "actions": [
+                "cycling",
+                "crashing",
+                "falling"
+            ],
+            "objects": [
+                "bicycle",
+                "helmet"
+            ],
+            "characters": [
+                "cyclists"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "rural road"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "cycling race",
+            "crash",
+            "pile-up",
+            "accident"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene shows a large, chaotic pile-up during a bicycle race. Multiple riders fall, but no graphic injuries are visible. It is a significant but non-graphic sporting accident."
+            }
+        ],
+        "description": "In a professional cycling race on a dusty road, one rider falls, causing a chain reaction that results in a massive pile-up of numerous cyclists. The scene is chaotic but lacks graphic detail of injuries, thus receiving a low violence score."
+    },
+    {
+        "scene_id": "scene_0054",
+        "start_time": "00:09:41",
+        "end_time": "00:09:49",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "shock",
+                "panic"
+            ],
+            "themes": [
+                "motorsports accident",
+                "danger"
+            ],
+            "actions": [
+                "car racing",
+                "crashing",
+                "running"
+            ],
+            "objects": [
+                "race car",
+                "fence",
+                "tire"
+            ],
+            "characters": [
+                "spectators"
+            ],
+            "weather": [
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "racetrack"
+        ],
+        "genre": "sports fails",
+        "language": "en-US",
+        "keywords": [
+            "car crash",
+            "racing accident",
+            "motorsports",
+            "spectator danger"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A race car has a severe crash, breaching a safety barrier and flipping near spectators. The event is highly dangerous and depicts a life-threatening situation, justifying a moderate score."
+            }
+        ],
+        "description": "A race car loses control, crashes through a safety fence, and flips over multiple times, landing near a crowd of spectators who scatter in fear. The scene portrays a very dangerous and violent crash with high potential for serious harm, meriting a moderate violence score."
+    },
+    {
+        "scene_id": "scene_0055",
+        "start_time": "00:09:50",
+        "end_time": "00:10:09",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "amusement",
+                "aggression",
+                "confusion"
+            ],
+            "themes": [
+                "MMA",
+                "publicity stunt",
+                "comedy"
+            ],
+            "actions": [
+                "staredown",
+                "posing",
+                "growling",
+                "shouting"
+            ],
+            "objects": [
+                "microphone",
+                "camera",
+                "bear costume"
+            ],
+            "characters": [
+                "MMA fighter",
+                "costumed person",
+                "ring girls"
+            ],
+            "weather": [],
+            "brands": [
+                "Ural FC",
+                "Samsung"
+            ]
+        },
+        "locations": [
+            "press conference stage"
+        ],
+        "genre": "comedy",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "weigh-in",
+            "staredown",
+            "bear costume",
+            "bizarre"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "sexual",
+                "score": 1,
+                "explanation": "Ring girls are present in the background wearing revealing bikinis, which is common in this context but constitutes mild sexual content."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts a bizarre publicity stunt involving a fighter and a person in a bear costume, which is unusual but not genuinely controversial."
+            }
+        ],
+        "description": "At an MMA weigh-in event, a muscular fighter with face paint engages in a staredown with a person in a realistic bear costume. Ring girls in bikinis stand in the background. This unusual promotional stunt is mildly controversial for its strangeness, and the attire of the ring girls gives it a low sexual score."
+    },
+    {
+        "scene_id": "scene_0056",
+        "start_time": "00:10:10",
+        "end_time": "00:10:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "violence"
+            ],
+            "themes": [
+                "MMA",
+                "knockout",
+                "combat sports"
+            ],
+            "actions": [
+                "punching",
+                "kicking",
+                "falling unconscious"
+            ],
+            "objects": [
+                "MMA cage",
+                "gloves"
+            ],
+            "characters": [
+                "MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "1xBet"
+            ]
+        },
+        "locations": [
+            "MMA octagon"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "knockout",
+            "head kick",
+            "combat sports",
+            "fighting"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "The scene depicts a brutal knockout in an MMA fight. A fighter delivers a direct kick to the head of a stunned opponent, causing him to fall unconscious. This is high-impact, realistic violence."
+            }
+        ],
+        "description": "During an MMA fight, one fighter is stunned by a punch and, while vulnerable, is knocked unconscious by a powerful kick to the head from his opponent. The referee intervenes to stop the fight. This clear depiction of a brutal knockout in a combat sport warrants a high violence score."
+    },
+    {
+        "scene_id": "scene_0057",
+        "start_time": "00:10:25",
+        "end_time": "00:10:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "violence",
+                "aggression"
+            ],
+            "themes": [
+                "MMA",
+                "knockout",
+                "combat sports"
+            ],
+            "actions": [
+                "fighting",
+                "kicking",
+                "falling unconscious"
+            ],
+            "objects": [
+                "boxing ring",
+                "gloves"
+            ],
+            "characters": [
+                "MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "boxing ring"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "knockout",
+            "head kick",
+            "combat sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A fighter on his knees is knocked out by a powerful kick to the head. Kicking a downed opponent is a particularly violent and dangerous act, even within combat sports."
+            }
+        ],
+        "description": "In an MMA bout, a fighter is on his knees when his standing opponent delivers a devastating kick to his head, knocking him out instantly. The act is shown clearly and is extremely violent, justifying a high violence score."
+    },
+    {
+        "scene_id": "scene_0058",
+        "start_time": "00:10:35",
+        "end_time": "00:10:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "joy",
+                "excitement",
+                "elation"
+            ],
+            "themes": [
+                "victory",
+                "celebration",
+                "sports"
+            ],
+            "actions": [
+                "celebrating",
+                "shouting",
+                "backflip"
+            ],
+            "objects": [
+                "badminton racket",
+                "net"
+            ],
+            "characters": [
+                "badminton players"
+            ],
+            "weather": [],
+            "brands": [
+                "Toyota",
+                "BWF",
+                "Yonex",
+                "HSBC"
+            ]
+        },
+        "locations": [
+            "badminton court",
+            "indoor arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "badminton",
+            "victory",
+            "celebration",
+            "backflip"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "After winning a badminton point, a player celebrates with extreme excitement, performing a full backflip on the court while his partner cheers. The scene is a display of happiness and athletic celebration with no sensitive content."
+    },
+    {
+        "scene_id": "scene_0059",
+        "start_time": "00:10:44",
+        "end_time": "00:10:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "pain"
+            ],
+            "themes": [
+                "sports accident",
+                "basketball"
+            ],
+            "actions": [
+                "playing basketball",
+                "falling",
+                "colliding"
+            ],
+            "objects": [
+                "basketball",
+                "basketball court"
+            ],
+            "characters": [
+                "basketball players"
+            ],
+            "weather": [],
+            "brands": [
+                "State Farm"
+            ]
+        },
+        "locations": [
+            "basketball arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "basketball",
+            "foul",
+            "injury",
+            "collision"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "An accidental collision occurs during a basketball game, where one player falls and causes another to fall and hit his head. The injury is unintentional but involves a hard impact."
+            }
+        ],
+        "description": "During a basketball game, one player trips and falls, sliding into an opponent's legs. This causes the opponent to fall backward and hit his head on the first player's knee. The scene shows an accidental injury within the context of a sport, warranting a low violence score."
+    },
+    {
+        "scene_id": "scene_0060",
+        "start_time": "00:10:51",
+        "end_time": "00:11:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "concern"
+            ],
+            "themes": [
+                "sports injury",
+                "violent hit"
+            ],
+            "actions": [
+                "ice hockey",
+                "checking",
+                "falling",
+                "lying on ice"
+            ],
+            "objects": [
+                "hockey stick",
+                "helmet",
+                "ice skates",
+                "ice rink"
+            ],
+            "characters": [
+                "hockey player",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "GEICO",
+                "KIA Motors",
+                "Modell's"
+            ]
+        },
+        "locations": [
+            "ice hockey rink",
+            "sports arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "ice hockey",
+            "hard check",
+            "player injury",
+            "NHL"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "An ice hockey player is violently checked and falls to the ice, appearing unresponsive. This is a hard, potentially injurious hit in a sports context."
+            }
+        ],
+        "description": "In an ice hockey game, a player is hit hard from behind and crashes into the boards. He falls to the ice and lies motionless, which qualifies as a violent hit within the context of the sport."
+    },
+    {
+        "scene_id": "scene_0061",
+        "start_time": "00:11:05",
+        "end_time": "00:11:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "excitement"
+            ],
+            "themes": [
+                "sports injury",
+                "hard tackle"
+            ],
+            "actions": [
+                "playing football",
+                "tackling",
+                "flipping",
+                "falling"
+            ],
+            "objects": [
+                "football",
+                "helmet",
+                "football uniform"
+            ],
+            "characters": [
+                "football players"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "football field",
+            "stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "football",
+            "tackle",
+            "hard hit",
+            "NFL",
+            "dangerous play"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A football player is tackled in a way that causes him to flip over and land dangerously on his head and neck, a potentially serious injury within a sports context."
+            }
+        ],
+        "description": "During an American football game, a player is tackled with significant force, causing him to flip over and land hard on his upper body and head. This dangerous tackle justifies a violence score."
+    },
+    {
+        "scene_id": "scene_0062",
+        "start_time": "00:11:05",
+        "end_time": "00:11:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "excitement",
+                "concern"
+            ],
+            "themes": [
+                "sports injury",
+                "hard tackle"
+            ],
+            "actions": [
+                "playing football",
+                "tackling",
+                "flipping",
+                "falling",
+                "lying on ground"
+            ],
+            "objects": [
+                "football",
+                "helmet",
+                "football uniform"
+            ],
+            "characters": [
+                "football players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "football field",
+            "stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "football",
+            "tackle",
+            "hard hit",
+            "NFL",
+            "dangerous play",
+            "injury"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A football player is tackled in a way that causes him to flip over and land dangerously on his head and neck. He remains on the ground, suggesting a potential injury. This dangerous play in a sports context warrants a moderate violence score."
+            }
+        ],
+        "description": "During an American football game, a player is tackled with significant force, causing him to flip over and land hard on his upper body and head. Multiple players fall to the ground after the intense play."
+    },
+    {
+        "scene_id": "scene_0063",
+        "start_time": "00:11:12",
+        "end_time": "00:11:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "concern"
+            ],
+            "themes": [
+                "sports injury",
+                "concussion",
+                "dangerous play"
+            ],
+            "actions": [
+                "playing football",
+                "catching",
+                "tackling",
+                "helmet-to-helmet hit",
+                "falling"
+            ],
+            "objects": [
+                "football",
+                "helmet",
+                "football uniform"
+            ],
+            "characters": [
+                "football players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "NFL Network"
+            ]
+        },
+        "locations": [
+            "football field",
+            "stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "football",
+            "concussion",
+            "helmet-to-helmet",
+            "illegal hit",
+            "player injury"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "A football player receives a direct and forceful helmet-to-helmet hit, a highly dangerous and illegal play known to cause serious injury like concussions. The player is shown lying motionless on the ground, indicating a severe impact."
+            }
+        ],
+        "description": "In an American football game, a receiver is hit with a direct helmet-to-helmet tackle immediately after catching the ball. The player falls to the ground and remains motionless, a clear sign of a potentially serious injury, justifying a high violence score for the dangerous play."
+    },
+    {
+        "scene_id": "scene_0064",
+        "start_time": "00:11:18",
+        "end_time": "00:11:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "annoyance",
+                "tension"
+            ],
+            "themes": [
+                "sportsmanship",
+                "conflict"
+            ],
+            "actions": [
+                "playing baseball",
+                "sliding",
+                "tagging",
+                "throwing ball"
+            ],
+            "objects": [
+                "baseball",
+                "baseball glove",
+                "baseball uniform",
+                "base"
+            ],
+            "characters": [
+                "baseball players"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "baseball field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "argument",
+            "unsportsmanlike conduct",
+            "altercation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "A baseball player throws the ball in frustration towards a runner after a play. It's an act of aggression but does not result in a fight or injury."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene shows unsportsmanlike conduct between players, leading to a tense confrontation that could be considered controversial."
+            }
+        ],
+        "description": "During a baseball game, after a runner slides into the base, the fielder appears to get annoyed and throws the ball at the runner. This leads to a tense moment between the players, demonstrating unsportsmanlike conduct."
+    },
+    {
+        "scene_id": "scene_0065",
+        "start_time": "00:11:26",
+        "end_time": "00:11:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "neutral",
+                "curiosity"
+            ],
+            "themes": [
+                "fan interaction"
+            ],
+            "actions": [
+                "picking up",
+                "walking"
+            ],
+            "objects": [
+                "paper airplane",
+                "baseball glove",
+                "baseball uniform"
+            ],
+            "characters": [
+                "baseball player"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "baseball field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "baseball",
+            "paper airplane",
+            "fan",
+            "funny moment"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A paper airplane lands on a baseball field near a player. The player calmly picks it up, looks at it, and puts it in his back pocket before continuing the game."
+    },
+    {
+        "scene_id": "scene_0066",
+        "start_time": "00:11:33",
+        "end_time": "00:11:45",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity"
+            ],
+            "themes": [
+                "combat sports",
+                "knockout"
+            ],
+            "actions": [
+                "fighting",
+                "punching",
+                "kicking",
+                "falling",
+                "technical knockout"
+            ],
+            "objects": [
+                "MMA gloves",
+                "cage",
+                "octagon"
+            ],
+            "characters": [
+                "female MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "XKO.TV",
+                "Lone Star"
+            ]
+        },
+        "locations": [
+            "MMA cage"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "women's fight",
+            "knockout",
+            "TKO",
+            "combat sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "The scene depicts a professional MMA fight, which involves intense and intentional physical violence. A fighter is knocked down and receives several more blows before the referee intervenes. The violence is graphic but within the context of a regulated sport."
+            }
+        ],
+        "description": "Two women are in an MMA fight inside a cage. One fighter lands a powerful punch, knocking her opponent to the ground. She follows up with more strikes until the referee steps in to stop the fight. The violence is high but within a sports context."
+    },
+    {
+        "scene_id": "scene_0067",
+        "start_time": "00:11:46",
+        "end_time": "00:11:56",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration",
+                "intimidation"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "verbal abuse",
+                "conflict"
+            ],
+            "actions": [
+                "playing tennis",
+                "shouting",
+                "gesturing angrily"
+            ],
+            "objects": [
+                "tennis racket"
+            ],
+            "characters": [
+                "male tennis player",
+                "ball kids"
+            ],
+            "weather": [],
+            "brands": [
+                "Telmex",
+                "Mercedes-Benz"
+            ]
+        },
+        "locations": [
+            "tennis court"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "tennis",
+            "angry player",
+            "unsportsmanlike",
+            "tantrum",
+            "ball kid"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "A professional athlete is shown aggressively confronting and seemingly berating a ball kid, which is highly inappropriate and unsportsmanlike conduct."
+            },
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "The player's actions are verbally aggressive and intimidating, but no physical contact is made."
+            }
+        ],
+        "description": "After a point, a male tennis player walks angrily towards two ball kids standing by the wall. He gets very close to one of them, gesturing and speaking in an aggressive and intimidating manner, which constitutes unsportsmanlike conduct and low-level verbal violence."
+    },
+    {
+        "scene_id": "scene_0068",
+        "start_time": "00:11:57",
+        "end_time": "00:12:07",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "concern",
+                "surprise",
+                "sportsmanship"
+            ],
+            "themes": [
+                "accident",
+                "helping"
+            ],
+            "actions": [
+                "slipping",
+                "falling",
+                "helping",
+                "checking on someone"
+            ],
+            "objects": [
+                "tennis racket"
+            ],
+            "characters": [
+                "male tennis player",
+                "female ball kid"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "tennis court"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "tennis",
+            "fall",
+            "accident",
+            "sportsmanship",
+            "ball girl"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A male tennis player runs towards the side of the court, slips on the grass, and falls near a female ball kid. The ball kid immediately kneels down to help him, and he speaks to her to ensure she is okay before they both get up."
+    },
+    {
+        "scene_id": "scene_0069",
+        "start_time": "00:12:08",
+        "end_time": "00:12:19",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "anger"
+            ],
+            "themes": [
+                "foul play",
+                "unsportsmanlike conduct"
+            ],
+            "actions": [
+                "playing rugby",
+                "tackling",
+                "pushing head",
+                "fighting"
+            ],
+            "objects": [
+                "rugby ball"
+            ],
+            "characters": [
+                "rugby players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "BMW"
+            ]
+        },
+        "locations": [
+            "rugby field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "rugby",
+            "foul play",
+            "fight",
+            "dirty play",
+            "unsportsmanlike"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A rugby player aggressively and intentionally pushes a downed opponent's head into the ground after a play, which constitutes foul play and a moderate level of violence outside the normal rules of the sport."
+            }
+        ],
+        "description": "During a rugby match, after a player is tackled, an opponent from the other team aggressively shoves the downed player's head into the turf. This act of foul play, which warrants a violence score, causes other players to react, escalating the tension on the field."
+    },
+    {
+        "scene_id": "scene_0070",
+        "start_time": "00:12:20",
+        "end_time": "00:12:25",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity"
+            ],
+            "themes": [
+                "sports competition",
+                "physicality"
+            ],
+            "actions": [
+                "tackling",
+                "running",
+                "falling"
+            ],
+            "objects": [
+                "football",
+                "helmet",
+                "uniforms"
+            ],
+            "characters": [
+                "football players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "NFL"
+            ]
+        },
+        "locations": [
+            "football stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "American football",
+            "tackle",
+            "NFL",
+            "sports",
+            "hard hit"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Depicts a hard tackle in a sports context, which is expected. No excessive or malicious violence is shown."
+            }
+        ],
+        "description": "An overhead view of an American football game shows players tackling another player, who falls to the ground. The hit is forceful and typical of the sport, justifying a low violence score."
+    },
+    {
+        "scene_id": "scene_0071",
+        "start_time": "00:12:26",
+        "end_time": "00:12:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity"
+            ],
+            "themes": [
+                "sports competition",
+                "physical foul"
+            ],
+            "actions": [
+                "skating",
+                "checking",
+                "falling"
+            ],
+            "objects": [
+                "hockey stick",
+                "ice skates",
+                "helmet"
+            ],
+            "characters": [
+                "hockey players"
+            ],
+            "weather": [],
+            "brands": [
+                "Reebok",
+                "Bridgestone",
+                "Discover",
+                "Dell"
+            ]
+        },
+        "locations": [
+            "ice hockey rink"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "ice hockey",
+            "body check",
+            "foul",
+            "sports",
+            "hard hit"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Shows a forceful body check in an ice hockey game, which is a common part of the sport. The player falls hard, but it's within the context of the game."
+            }
+        ],
+        "description": "In an ice hockey game, a player forcefully checks an opponent into the boards. The player who was hit falls to the ice. The action is aggressive but typical for the sport, resulting in a low violence score."
+    },
+    {
+        "scene_id": "scene_0072",
+        "start_time": "00:12:28",
+        "end_time": "00:12:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity"
+            ],
+            "themes": [
+                "sports competition",
+                "physical foul"
+            ],
+            "actions": [
+                "skating",
+                "checking",
+                "falling"
+            ],
+            "objects": [
+                "hockey stick",
+                "ice skates",
+                "helmet"
+            ],
+            "characters": [
+                "hockey players"
+            ],
+            "weather": [],
+            "brands": [
+                "Reebok",
+                "Bridgestone",
+                "Discover",
+                "Dell"
+            ]
+        },
+        "locations": [
+            "ice hockey rink"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "ice hockey",
+            "body check",
+            "foul",
+            "sports",
+            "hard hit"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Shows a forceful body check in an ice hockey game, which is a common part of the sport. The player falls hard, but it's within the context of the game."
+            }
+        ],
+        "description": "A replay from a different angle shows an ice hockey player forcefully checking an opponent into the boards. The player who was hit falls dramatically to the ice. The hit is aggressive but within the rules of contact for the sport."
+    },
+    {
+        "scene_id": "scene_0073",
+        "start_time": "00:12:33",
+        "end_time": "00:12:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger"
+            ],
+            "themes": [
+                "accident",
+                "motorsports",
+                "danger"
+            ],
+            "actions": [
+                "driving",
+                "crashing"
+            ],
+            "objects": [
+                "race car",
+                "racetrack",
+                "safety barrier"
+            ],
+            "characters": [
+                "race car driver",
+                "spectators"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Porsche"
+            ]
+        },
+        "locations": [
+            "racetrack"
+        ],
+        "genre": "sports",
+        "language": "lt-LT",
+        "keywords": [
+            "car crash",
+            "racing accident",
+            "motorsports",
+            "danger",
+            "racetrack"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Depicts a high-speed car crash in a motorsports context. The crash is dramatic but there are no visible injuries to the driver or spectators, keeping the score low."
+            }
+        ],
+        "description": "A race car loses control on a racetrack, veers off into a grassy area, and crashes into a safety fence and scaffolding. The crash is significant, but no injuries are shown."
+    },
+    {
+        "scene_id": "scene_0074",
+        "start_time": "00:12:44",
+        "end_time": "00:13:01",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "aggression",
+                "tension"
+            ],
+            "themes": [
+                "sports conflict",
+                "unsportsmanlike conduct",
+                "confrontation"
+            ],
+            "actions": [
+                "tackling",
+                "pushing",
+                "shoving",
+                "arguing"
+            ],
+            "objects": [
+                "rugby ball",
+                "whistle"
+            ],
+            "characters": [
+                "rugby players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Betway",
+                "Dell Technologies",
+                "ESPN"
+            ]
+        },
+        "locations": [
+            "rugby stadium"
+        ],
+        "genre": "sports",
+        "language": "es-ES",
+        "keywords": [
+            "rugby",
+            "late hit",
+            "scuffle",
+            "fight",
+            "sports argument"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Shows a late, illegal tackle in a rugby match followed by pushing and shoving between players. The conflict is heated but doesn't escalate into a full-blown fight with punches."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts unsportsmanlike conduct and a violation of the game's rules, leading to a confrontation between teams."
+            }
+        ],
+        "description": "During a rugby match, after the referee has blown the whistle, a player delivers a late tackle to an opponent on the ground. This illegal action sparks a confrontation, with players from both teams pushing and shoving each other, creating a moment of controversy."
+    },
+    {
+        "scene_id": "scene_0075",
+        "start_time": "00:13:02",
+        "end_time": "00:13:10",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "intensity",
+                "shock"
+            ],
+            "themes": [
+                "sports competition",
+                "hard foul"
+            ],
+            "actions": [
+                "jumping",
+                "dunking",
+                "fouling",
+                "falling"
+            ],
+            "objects": [
+                "basketball",
+                "basketball hoop"
+            ],
+            "characters": [
+                "basketball players"
+            ],
+            "weather": [],
+            "brands": [
+                "Kia",
+                "State Farm"
+            ]
+        },
+        "locations": [
+            "basketball arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "basketball",
+            "hard foul",
+            "dunk",
+            "sports injury",
+            "falling"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "A player is fouled hard in mid-air during a basketball game, leading to a rough fall. This is an aggressive but common type of foul in the sport."
+            }
+        ],
+        "description": "In a basketball game, a player drives to the basket for a dunk but is fouled hard by an opponent while in the air. The player loses control and falls hard onto the court. The foul is aggressive but within the context of a physical sports play."
+    },
+    {
+        "scene_id": "scene_0076",
+        "start_time": "00:13:11",
+        "end_time": "00:13:22",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "intensity",
+                "excitement",
+                "shock"
+            ],
+            "themes": [
+                "sports competition",
+                "athleticism",
+                "hard foul"
+            ],
+            "actions": [
+                "jumping",
+                "dunking",
+                "fouling",
+                "falling"
+            ],
+            "objects": [
+                "basketball",
+                "basketball hoop"
+            ],
+            "characters": [
+                "basketball players"
+            ],
+            "weather": [],
+            "brands": [
+                "NBA",
+                "Pepsi"
+            ]
+        },
+        "locations": [
+            "basketball arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "basketball",
+            "dunk",
+            "hard foul",
+            "spectacular play",
+            "NBA"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Shows a spectacular dunk attempt where the player is fouled hard mid-air, leading to a significant fall. The physicality is high but remains within the context of a sports foul."
+            }
+        ],
+        "description": "A basketball player makes an athletic move towards the hoop for a powerful dunk. An opponent fouls him aggressively in the air, causing the dunker to fall hard to the ground. The play is both spectacular and violent within the context of the sport."
+    },
+    {
+        "scene_id": "scene_0077",
+        "start_time": "00:13:23",
+        "end_time": "00:13:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "disappointment",
+                "shock",
+                "joy"
+            ],
+            "themes": [
+                "athleticism",
+                "clutch play",
+                "sportsmanship"
+            ],
+            "actions": [
+                "batting",
+                "running",
+                "jumping",
+                "catching"
+            ],
+            "objects": [
+                "softball",
+                "bat",
+                "glove",
+                "fence"
+            ],
+            "characters": [
+                "softball players",
+                "spectators"
+            ],
+            "weather": [],
+            "brands": [
+                "ESPN",
+                "Nike"
+            ]
+        },
+        "locations": [
+            "softball stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "softball",
+            "amazing catch",
+            "home run robbery",
+            "college world series",
+            "women's sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 0,
+                "explanation": "No violence is depicted."
+            }
+        ],
+        "description": "During a women's college softball game, an outfielder makes a spectacular leaping catch, reaching over the fence to rob what would have been a home run. The batter reacts with disbelief and disappointment."
+    },
+    {
+        "scene_id": "scene_0078",
+        "start_time": "00:13:51",
+        "end_time": "00:13:56",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity"
+            ],
+            "themes": [
+                "sports competition",
+                "foul play"
+            ],
+            "actions": [
+                "running",
+                "tackling",
+                "falling"
+            ],
+            "objects": [
+                "soccer ball"
+            ],
+            "characters": [
+                "soccer players",
+                "referee"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "foul",
+            "tackle",
+            "women's soccer",
+            "sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Depicts a hard tackle in a soccer game, a common type of physical contact and foul in the sport. The action is aggressive but not malicious."
+            }
+        ],
+        "description": "In a women's soccer match, a player in a green uniform performs a hard tackle on an opponent, causing the opponent to fall. The scene shows aggressive physical contact typical of a sports foul."
+    },
+    {
+        "scene_id": "scene_0079",
+        "start_time": "00:13:57",
+        "end_time": "00:14:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "confusion",
+                "intensity"
+            ],
+            "themes": [
+                "combat sports",
+                "knockout",
+                "disorientation"
+            ],
+            "actions": [
+                "punching",
+                "falling",
+                "tackling"
+            ],
+            "objects": [
+                "MMA gloves",
+                "octagon"
+            ],
+            "characters": [
+                "MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "MMA cage"
+        ],
+        "genre": "sports",
+        "language": "ru-RU",
+        "keywords": [
+            "MMA",
+            "knockout",
+            "TKO",
+            "confused fighter",
+            "referee tackle"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "Shows an MMA fighter being stunned by punches and falling. The dazed fighter then mistakenly tackles the referee, which is an unusual and potentially dangerous situation, justifying a moderate score within the context of combat sports."
+            }
+        ],
+        "description": "In an MMA fight, a fighter is stunned by a series of punches and falls to the mat. The referee steps in to stop the fight. The dazed fighter, in a state of confusion, gets up and tackles the referee, apparently mistaking him for his opponent. The violence score reflects the intense combat and the unusual aftermath."
+    },
+    {
+        "scene_id": "scene_0080",
+        "start_time": "00:14:07",
+        "end_time": "00:14:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "shock"
+            ],
+            "themes": [
+                "combat sports",
+                "knockout"
+            ],
+            "actions": [
+                "fighting",
+                "kicking",
+                "punching",
+                "falling",
+                "refereeing"
+            ],
+            "objects": [
+                "octagon",
+                "MMA gloves"
+            ],
+            "characters": [
+                "female MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "UFC Fight Pass",
+                "LFA"
+            ]
+        },
+        "locations": [
+            "MMA octagon"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "knockout",
+            "head kick",
+            "women's fight",
+            "combat sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 4,
+                "explanation": "Depicts a realistic and impactful knockout in a combat sports context, with a fighter being kicked in the head and falling unconscious."
+            }
+        ],
+        "description": "In a women's MMA fight, one fighter delivers a powerful high kick to her opponent's head, resulting in an immediate knockout. The opponent falls unconscious to the mat, and the referee quickly intervenes to stop the fight. This scene contains explicit sports-related violence."
+    },
+    {
+        "scene_id": "scene_0081",
+        "start_time": "00:14:12",
+        "end_time": "00:14:20",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "pain",
+                "shock"
+            ],
+            "themes": [
+                "foul play",
+                "injury",
+                "combat sports"
+            ],
+            "actions": [
+                "fighting",
+                "kicking",
+                "collapsing",
+                "refereeing"
+            ],
+            "objects": [
+                "octagon",
+                "MMA gloves"
+            ],
+            "characters": [
+                "male MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "ROAD FC",
+                "Goobne Chicken"
+            ]
+        },
+        "locations": [
+            "MMA octagon"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "groin kick",
+            "foul",
+            "low blow",
+            "sports injury"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "Shows an accidental but painful groin kick in an MMA match, causing a fighter to collapse in severe pain. The violence is part of the sport but highlights a sensitive injury."
+            },
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "The scene depicts an illegal move (foul play) in a professional sport."
+            }
+        ],
+        "description": "During an MMA match between two male heavyweights, one fighter lands an accidental but powerful kick to his opponent's groin. The affected fighter immediately collapses to the canvas in extreme pain, clutching the injured area. The referee stops the fight to attend to the downed fighter. This scene shows a painful sports injury resulting from an illegal blow."
+    },
+    {
+        "scene_id": "scene_0082",
+        "start_time": "00:14:21",
+        "end_time": "00:14:29",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "embarrassment",
+                "frustration",
+                "excitement"
+            ],
+            "themes": [
+                "sports blooper",
+                "mistake"
+            ],
+            "actions": [
+                "playing soccer",
+                "dribbling",
+                "falling",
+                "scoring goal"
+            ],
+            "objects": [
+                "soccer ball",
+                "goal",
+                "net"
+            ],
+            "characters": [
+                "soccer players",
+                "goalkeeper"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Macron",
+                "Ladbrokes"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "goalkeeper fail",
+            "blooper",
+            "mistake",
+            "goal"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "In a professional soccer match, the goalkeeper successfully dribbles past an attacking player but then stumbles and loses control of the ball right in front of the goal. The opponent quickly capitalizes on the mistake and scores an easy goal into the empty net."
+    },
+    {
+        "scene_id": "scene_0083",
+        "start_time": "00:14:30",
+        "end_time": "00:14:33",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "tension"
+            ],
+            "themes": [
+                "motorsports",
+                "accident",
+                "crash"
+            ],
+            "actions": [
+                "racing",
+                "crashing",
+                "falling"
+            ],
+            "objects": [
+                "motorcycles",
+                "racetrack"
+            ],
+            "characters": [
+                "motorcycle racers"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "racetrack"
+        ],
+        "genre": "sports",
+        "language": "no-speech",
+        "keywords": [
+            "motorcycle race",
+            "crash",
+            "pile-up",
+            "motorsports accident"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "shocking",
+                "score": 2,
+                "explanation": "Depicts a multi-vehicle crash in a high-speed race, which can be startling for viewers."
+            }
+        ],
+        "description": "A wide-angle view of a motorcycle race shows multiple riders losing control and crashing as they navigate a tight corner, creating a pile-up on the track."
+    },
+    {
+        "scene_id": "scene_0084",
+        "start_time": "00:14:30",
+        "end_time": "00:14:38",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "tension",
+                "excitement"
+            ],
+            "themes": [
+                "motorsports",
+                "accident",
+                "crash"
+            ],
+            "actions": [
+                "racing",
+                "crashing",
+                "falling",
+                "watching"
+            ],
+            "objects": [
+                "motorcycles",
+                "racetrack",
+                "spectator stands"
+            ],
+            "characters": [
+                "motorcycle racers",
+                "spectators"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "racetrack"
+        ],
+        "genre": "sports",
+        "language": "no-speech",
+        "keywords": [
+            "motorcycle race",
+            "crash",
+            "pile-up",
+            "motorsports accident",
+            "MotoGP"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "shocking",
+                "score": 3,
+                "explanation": "Depicts a large, chaotic multi-vehicle crash at the start of a high-speed race. The scale of the accident and the sight of riders falling can be startling."
+            }
+        ],
+        "description": "At the beginning of a motorcycle race, a massive pile-up occurs on the first turn. Several riders lose control simultaneously, causing a chain reaction of crashes. Bikes and riders slide across the track while spectators in the stands react with shock and film the incident."
+    },
+    {
+        "scene_id": "scene_0085",
+        "start_time": "00:14:39",
+        "end_time": "00:14:43",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "intensity"
+            ],
+            "themes": [
+                "sports",
+                "tackle",
+                "fumble"
+            ],
+            "actions": [
+                "playing football",
+                "catching",
+                "tackling",
+                "fumbling"
+            ],
+            "objects": [
+                "football",
+                "helmet",
+                "uniform"
+            ],
+            "characters": [
+                "football players"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "football field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "American football",
+            "hard hit",
+            "tackle",
+            "fumble",
+            "collision"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Shows a violent, high-impact collision between players in an American football game, which is part of the sport but involves aggressive physical contact."
+            }
+        ],
+        "description": "During an American football game, a receiver catches the ball over the middle of the field and is immediately hit by two defenders in a hard tackle. The impact causes the player to lose possession of the ball, resulting in a fumble."
+    },
+    {
+        "scene_id": "scene_0086",
+        "start_time": "00:14:44",
+        "end_time": "00:14:51",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "surprise",
+                "excitement",
+                "dejection"
+            ],
+            "themes": [
+                "sports",
+                "lucky goal",
+                "deflection"
+            ],
+            "actions": [
+                "playing soccer",
+                "shooting",
+                "scoring goal"
+            ],
+            "objects": [
+                "soccer ball",
+                "goal",
+                "net"
+            ],
+            "characters": [
+                "soccer players",
+                "goalkeeper"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": [
+                "AFAS Stadion",
+                "Brand"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "nl-NL",
+        "keywords": [
+            "soccer",
+            "deflected goal",
+            "lucky shot",
+            "goal"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "A soccer player in a red jersey takes a shot on goal. The ball deflects off a defending player who is on the ground, causing it to loop high into the air and over the surprised goalkeeper, landing in the back of the net for a goal."
+    },
+    {
+        "scene_id": "scene_0087",
+        "start_time": "00:14:52",
+        "end_time": "00:14:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "excitement",
+                "celebration",
+                "surprise"
+            ],
+            "themes": [
+                "sports",
+                "long-range goal",
+                "free kick"
+            ],
+            "actions": [
+                "playing soccer",
+                "kicking",
+                "scoring goal",
+                "celebrating"
+            ],
+            "objects": [
+                "soccer ball",
+                "goal",
+                "net"
+            ],
+            "characters": [
+                "soccer players"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "Sky Sports",
+                "Betfred"
+            ]
+        },
+        "locations": [
+            "soccer stadium"
+        ],
+        "genre": "sports",
+        "language": "en-GB",
+        "keywords": [
+            "soccer",
+            "free kick goal",
+            "long shot",
+            "amazing goal"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "During a soccer match, a player in a blue uniform takes a free kick from a significant distance. He lofts the ball towards the goal, and it sails over all the players, including the goalkeeper, and goes directly into the net for a spectacular goal. The player celebrates with his arm raised."
+    },
+    {
+        "scene_id": "scene_0088",
+        "start_time": "00:14:58",
+        "end_time": "00:15:03",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "confrontation"
+            ],
+            "themes": [
+                "sportsmanship",
+                "conflict"
+            ],
+            "actions": [
+                "arguing",
+                "throwing",
+                "confronting"
+            ],
+            "objects": [
+                "basketball",
+                "basketball court"
+            ],
+            "characters": [
+                "basketball players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "FedExForum"
+            ]
+        },
+        "locations": [
+            "basketball arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "basketball",
+            "altercation",
+            "unsportsmanlike conduct",
+            "confrontation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 1,
+                "explanation": "Shows a minor physical altercation where a player throws a ball at another, but it doesn't escalate into a fight."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "Depicts unsportsmanlike behavior and a confrontation between players during a professional game, which can be controversial."
+            }
+        ],
+        "description": "After a whistle in a basketball game, one player intentionally throws the ball, hitting an opposing player. This act of unsportsmanlike conduct leads to a brief, non-violent confrontation between the two players before they are separated."
+    },
+    {
+        "scene_id": "scene_0089",
+        "start_time": "00:15:03",
+        "end_time": "00:15:14",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "shock",
+                "danger",
+                "recklessness"
+            ],
+            "themes": [
+                "dangerous behavior",
+                "public disruption"
+            ],
+            "actions": [
+                "running",
+                "trespassing",
+                "horse racing",
+                "dodging"
+            ],
+            "objects": [
+                "racetrack",
+                "fence",
+                "horses"
+            ],
+            "characters": [
+                "spectator",
+                "jockeys"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "horse racetrack"
+        ],
+        "genre": "real-life footage",
+        "language": "en-US",
+        "keywords": [
+            "person on racetrack",
+            "horse race",
+            "dangerous stunt",
+            "trespassing",
+            "near miss"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "shocking",
+                "score": 4,
+                "explanation": "Depicts an extremely dangerous situation where a person intentionally runs onto an active horse racetrack, narrowly avoiding being trampled. The recklessness and high potential for serious injury are shocking."
+            },
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "Shows a member of the public disrupting a major sporting event in a dangerous and illegal manner."
+            }
+        ],
+        "description": "A person jumps a fence and runs onto a horse racetrack while a race is in full progress. The individual stands in the path of the oncoming horses and jockeys, who are forced to swerve to avoid a collision. The person narrowly avoids being trampled in a highly dangerous and reckless act that disrupts the event."
+    },
+    {
+        "scene_id": "scene_0090",
+        "start_time": "00:15:14",
+        "end_time": "00:15:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "intensity",
+                "aggression"
+            ],
+            "themes": [
+                "combat sports",
+                "competition"
+            ],
+            "actions": [
+                "fighting",
+                "grappling",
+                "choking",
+                "referee intervention"
+            ],
+            "objects": [
+                "MMA gloves",
+                "octagon cage",
+                "athletic wear"
+            ],
+            "characters": [
+                "female MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "BAMMA USA"
+            ]
+        },
+        "locations": [
+            "MMA octagon",
+            "fighting arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "mixed martial arts",
+            "women's fight",
+            "chokehold",
+            "submission"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "Two professional fighters are engaged in a sanctioned MMA match. One chokes the other to the point of unconsciousness, which is a form of non-graphic, competitive violence."
+            }
+        ],
+        "description": "In an MMA fight, two female fighters are on the ground grappling. One fighter applies a chokehold, causing the other to lose consciousness. The referee steps in to stop the fight."
+    },
+    {
+        "scene_id": "scene_0091",
+        "start_time": "00:15:23",
+        "end_time": "00:15:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "concern",
+                "victory",
+                "daze"
+            ],
+            "themes": [
+                "injury",
+                "competition result"
+            ],
+            "actions": [
+                "checking on fighter",
+                "regaining consciousness"
+            ],
+            "objects": [
+                "MMA gloves",
+                "octagon cage",
+                "stool"
+            ],
+            "characters": [
+                "female MMA fighters",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "WOW Fight"
+            ]
+        },
+        "locations": [
+            "MMA octagon",
+            "fighting arena"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "MMA",
+            "knockout",
+            "unconscious",
+            "referee",
+            "medical attention"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The immediate aftermath of a violent chokehold is shown, with a fighter unconscious on the mat. The violence has ceased, but the result is still present."
+            }
+        ],
+        "description": "Following an MMA submission, the referee and staff attend to the unconscious fighter as she slowly regains consciousness on the mat. The victorious opponent stands nearby."
+    },
+    {
+        "scene_id": "scene_0092",
+        "start_time": "00:15:32",
+        "end_time": "00:15:44",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "humor",
+                "mockery"
+            ],
+            "themes": [
+                "sportsmanship",
+                "comedy",
+                "faking injury"
+            ],
+            "actions": [
+                "lying on ground",
+                "mocking",
+                "pretending CPR"
+            ],
+            "objects": [
+                "soccer ball",
+                "soccer jersey",
+                "soccer field"
+            ],
+            "characters": [
+                "soccer players"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "soccer field",
+            "stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "football",
+            "fake injury",
+            "diving",
+            "mocking",
+            "funny sports"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "On a soccer field, one player is lying on the ground, seemingly injured. An opposing player approaches and comically mimics performing CPR on him, mocking the perceived fake injury."
+    },
+    {
+        "scene_id": "scene_0093",
+        "start_time": "00:15:44",
+        "end_time": "00:15:50",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "aggression",
+                "frustration",
+                "anger"
+            ],
+            "themes": [
+                "sports conflict",
+                "altercation"
+            ],
+            "actions": [
+                "shoving",
+                "pushing",
+                "arguing"
+            ],
+            "objects": [
+                "hockey stick",
+                "hockey skates",
+                "helmet",
+                "ice rink boards"
+            ],
+            "characters": [
+                "ice hockey players"
+            ],
+            "weather": [],
+            "brands": [
+                "CAT",
+                "Sportsnet"
+            ]
+        },
+        "locations": [
+            "ice hockey rink"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "ice hockey",
+            "scrum",
+            "fight",
+            "shoving",
+            "altercation",
+            "sports aggression"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "Hockey players engage in a heated post-whistle scrum, shoving and pushing each other against the boards in a common but aggressive display of sports-related conflict. No punches are thrown."
+            }
+        ],
+        "description": "During an ice hockey game, several players from opposing teams engage in a physical altercation against the boards. They shove and push each other out of frustration."
+    },
+    {
+        "scene_id": "scene_0094",
+        "start_time": "00:15:50",
+        "end_time": "00:16:02",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "exhaustion",
+                "determination",
+                "excitement"
+            ],
+            "themes": [
+                "endurance sports",
+                "competition",
+                "athleticism"
+            ],
+            "actions": [
+                "cycling",
+                "racing",
+                "climbing hill",
+                "cheering"
+            ],
+            "objects": [
+                "bicycles",
+                "cycling helmets",
+                "cycling gear",
+                "cobblestone street"
+            ],
+            "characters": [
+                "female cyclists",
+                "spectators"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": [
+                "Scott",
+                "Mitchelton",
+                "UCI"
+            ]
+        },
+        "locations": [
+            "city street",
+            "cobblestone street"
+        ],
+        "genre": "sports",
+        "language": "it-IT",
+        "keywords": [
+            "cycling race",
+            "women's cycling",
+            "uphill climb",
+            "cobblestone",
+            "endurance"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Female cyclists compete in a race, struggling up a steep, narrow cobblestone street lined with cheering spectators. One cyclist in a yellow and black jersey appears visibly exhausted but determined."
+    },
+    {
+        "scene_id": "scene_0095",
+        "start_time": "00:16:02",
+        "end_time": "00:16:09",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "joy",
+                "celebration",
+                "shock",
+                "disappointment"
+            ],
+            "themes": [
+                "premature celebration",
+                "irony",
+                "competition"
+            ],
+            "actions": [
+                "cycling",
+                "celebrating",
+                "raising arms",
+                "sprinting",
+                "winning"
+            ],
+            "objects": [
+                "bicycles",
+                "cycling helmets",
+                "finish line"
+            ],
+            "characters": [
+                "male cyclists"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "race course",
+            "town street"
+        ],
+        "genre": "sports",
+        "language": "fr-FR",
+        "keywords": [
+            "cycling race",
+            "premature celebration",
+            "losing",
+            "sprint finish",
+            "ironic loss"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "Two male cyclists, believing they are about to win a race, celebrate by raising their arms. As they slow down, a third cyclist sprints past them from behind to unexpectedly take the victory."
+    },
+    {
+        "scene_id": "scene_0096",
+        "start_time": "00:16:09",
+        "end_time": "00:16:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "humor",
+                "playfulness"
+            ],
+            "themes": [
+                "comedy",
+                "sports antics"
+            ],
+            "actions": [
+                "jostling",
+                "lifting",
+                "play fighting"
+            ],
+            "objects": [
+                "soccer ball",
+                "corner flag",
+                "soccer jersey"
+            ],
+            "characters": [
+                "soccer players"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "soccer stadium",
+            "soccer field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "funny",
+            "comedy",
+            "corner kick",
+            "play fighting",
+            "sports blooper"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [],
+        "description": "At a soccer stadium, three players jostle playfully at the corner flag before a kick. Two players from one team lift up the opposing player in a comedic, non-aggressive scuffle."
+    },
+    {
+        "scene_id": "scene_0097",
+        "start_time": "00:16:18",
+        "end_time": "00:16:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "deception",
+                "anger",
+                "frustration"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "deception",
+                "faking injury"
+            ],
+            "actions": [
+                "faking injury",
+                "falling to ground",
+                "arguing with referee",
+                "receiving red card"
+            ],
+            "objects": [
+                "soccer ball",
+                "red card",
+                "soccer jersey"
+            ],
+            "characters": [
+                "soccer players",
+                "referee"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "soccer field",
+            "stadium"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "diving",
+            "faking injury",
+            "red card",
+            "unsportsmanlike",
+            "cheating"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 1,
+                "explanation": "A player is shown engaging in unsportsmanlike conduct by faking an injury to get an opponent penalized, which can be a controversial topic in sports."
+            }
+        ],
+        "description": "A soccer player named Antony fakes a head injury, and his teammate helps him lie on the ground. The referee shows a red card to an opponent, after which Antony gets up and argues, revealing his deception."
+    },
+    {
+        "scene_id": "scene_0098",
+        "start_time": "00:16:26",
+        "end_time": "00:16:34",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calm",
+                "strategic"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "strategic foul",
+                "cheating"
+            ],
+            "actions": [
+                "time wasting",
+                "receiving red card",
+                "high-fiving"
+            ],
+            "objects": [
+                "soccer ball",
+                "red card",
+                "soccer jersey"
+            ],
+            "characters": [
+                "soccer players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Playstation 3",
+                "UniCredit",
+                "bwin"
+            ]
+        },
+        "locations": [
+            "soccer stadium",
+            "soccer field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "strategic red card",
+            "time wasting",
+            "cheating",
+            "unsportsmanlike",
+            "Xabi Alonso"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "A player deliberately gets a red card for tactical reasons (time-wasting), which is a clear act of unsportsmanlike conduct and a controversial tactic in sports."
+            }
+        ],
+        "description": "Soccer player Xabi Alonso intentionally delays taking a free kick to receive a second yellow card, resulting in a red card. He then calmly high-fives his teammate as he leaves the field, suggesting it was a planned, strategic move."
+    },
+    {
+        "scene_id": "scene_0099",
+        "start_time": "00:16:34",
+        "end_time": "00:16:42",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "calm",
+                "strategic"
+            ],
+            "themes": [
+                "unsportsmanlike conduct",
+                "strategic foul",
+                "cheating"
+            ],
+            "actions": [
+                "time wasting",
+                "receiving red card"
+            ],
+            "objects": [
+                "soccer ball",
+                "red card",
+                "soccer jersey",
+                "goal post"
+            ],
+            "characters": [
+                "soccer players",
+                "referee"
+            ],
+            "weather": [],
+            "brands": [
+                "Playstation 3",
+                "UniCredit"
+            ]
+        },
+        "locations": [
+            "soccer stadium",
+            "soccer field"
+        ],
+        "genre": "sports",
+        "language": "en-US",
+        "keywords": [
+            "soccer",
+            "strategic red card",
+            "time wasting",
+            "cheating",
+            "unsportsmanlike",
+            "Sergio Ramos"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "A second player on the same team deliberately gets a red card for tactical reasons (time-wasting), repeating a controversial and unsportsmanlike act."
+            }
+        ],
+        "description": "Shortly after his teammate, soccer player Sergio Ramos also intentionally delays a goal kick to receive a second yellow card and a subsequent red card from the referee, indicating a coordinated team strategy."
+    }
+]

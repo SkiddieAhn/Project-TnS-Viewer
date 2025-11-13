@@ -1,0 +1,1823 @@
+[
+    {
+        "scene_id": "scene_0000",
+        "start_time": "00:00:00",
+        "end_time": "00:00:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "grief",
+                "passion"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "police brutality"
+            ],
+            "actions": [
+                "speaking",
+                "shouting",
+                "protesting"
+            ],
+            "objects": [
+                "microphone",
+                "French flag"
+            ],
+            "characters": [
+                "protest leader",
+                "protesters"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris, France"
+        ],
+        "genre": "News",
+        "language": "fr-FR",
+        "keywords": [
+            "protest",
+            "speech",
+            "I can't breathe",
+            "social justice",
+            "police brutality"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene features a passionate speech at a protest about a death related to police actions, which is a highly sensitive and controversial topic."
+            }
+        ],
+        "description": "A woman gives an emotional speech to a crowd during a protest in Paris. She passionately shouts that her brother's last words were 'I can't breathe' and that he is now dead, directly addressing the controversial topic of police brutality."
+    },
+    {
+        "scene_id": "scene_0001",
+        "start_time": "00:00:08",
+        "end_time": "00:00:13",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "sadness",
+                "grief",
+                "frustration"
+            ],
+            "themes": [
+                "protest",
+                "social justice"
+            ],
+            "actions": [
+                "crying",
+                "listening"
+            ],
+            "objects": [
+                "face mask"
+            ],
+            "characters": [
+                "protester"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris, France"
+        ],
+        "genre": "News",
+        "language": "fr-FR",
+        "keywords": [
+            "protest",
+            "grief",
+            "face mask",
+            "police brutality"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene continues to focus on the emotional impact of the protest, with a person visibly upset while discussing how the issue of police brutality is a global problem, which is a sensitive and controversial subject."
+            }
+        ],
+        "description": "A close-up shot shows an emotional male protester in Paris wearing a face mask and appearing to cry. Subtitles indicate he is speaking about how incidents like this are not normal and happen all over the world, including France and the US, highlighting the controversial nature of the protest's theme."
+    },
+    {
+        "scene_id": "scene_0002",
+        "start_time": "00:00:13",
+        "end_time": "00:00:17",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "determination",
+                "unity"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "civil unrest"
+            ],
+            "actions": [
+                "chanting",
+                "protesting",
+                "raising fists"
+            ],
+            "objects": [
+                "protest sign",
+                "smartphone"
+            ],
+            "characters": [
+                "protesters",
+                "crowd"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "News",
+        "language": "fr-FR",
+        "keywords": [
+            "protest",
+            "chanting",
+            "no justice no peace",
+            "crowd",
+            "civil unrest"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene shows a large crowd actively engaged in a protest, chanting 'No justice! No peace!', a slogan associated with civil unrest and controversial social justice movements."
+            }
+        ],
+        "description": "A crowd of protesters is shown chanting 'No justice! No peace!' while raising their fists in the air. The atmosphere is tense, depicting a scene of civil unrest related to the controversial topic of social justice."
+    },
+    {
+        "scene_id": "scene_0003",
+        "start_time": "00:00:17",
+        "end_time": "00:00:23",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "unity",
+                "anger",
+                "determination"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "Black Lives Matter",
+                "civil unrest"
+            ],
+            "actions": [
+                "protesting",
+                "marching",
+                "gathering"
+            ],
+            "objects": [
+                "protest sign",
+                "city buildings"
+            ],
+            "characters": [
+                "protesters",
+                "crowd"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city street",
+            "Paris, France"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "Black Lives Matter",
+            "protest",
+            "George Floyd",
+            "crowd",
+            "civil unrest",
+            "global protest"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene explicitly names the Black Lives Matter movement and George Floyd, directly referencing a specific, highly controversial, and politically charged global event related to racial injustice and police brutality."
+            }
+        ],
+        "description": "Various shots show a massive crowd of protesters filling the city streets. On-screen text explicitly states that 'Black Lives Matter protests have spread across the world after George Floyd's death in police custody,' directly linking the footage to a highly controversial and sensitive event."
+    },
+    {
+        "scene_id": "scene_0004",
+        "start_time": "00:00:23",
+        "end_time": "00:00:28",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "destruction"
+            ],
+            "themes": [
+                "protest",
+                "riot",
+                "civil unrest",
+                "police brutality"
+            ],
+            "actions": [
+                "protesting",
+                "rioting",
+                "burning objects"
+            ],
+            "objects": [
+                "fire",
+                "scooters",
+                "chairs"
+            ],
+            "characters": [
+                "protesters",
+                "rioters"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city street",
+            "Paris, France"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "riot",
+            "fire",
+            "protest",
+            "civil unrest",
+            "Adama Traoré",
+            "destruction"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene includes imagery of property destruction, specifically a large fire made of scooters and chairs in the street during a protest, which represents non-graphic violence."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The on-screen text connects the protests to the death of Adama Traoré, a highly controversial case of death in police custody in France, escalating the controversial nature of the content."
+            }
+        ],
+        "description": "The scene shows a protest escalating into a riot, with a large bonfire of scooters and chairs burning in the middle of a street. This property destruction warrants a violence score. On-screen text links this anger to the controversial death of Adama Traoré, tying the global movement to a specific, sensitive local case."
+    },
+    {
+        "scene_id": "scene_0005",
+        "start_time": "00:00:28",
+        "end_time": "00:00:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "seriousness"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "interview"
+            ],
+            "actions": [
+                "interviewing",
+                "speaking"
+            ],
+            "objects": [
+                "microphone",
+                "face mask",
+                "hijab"
+            ],
+            "characters": [
+                "protester"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": [
+                "Euronews"
+            ]
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "News",
+        "language": "fr-FR",
+        "keywords": [
+            "interview",
+            "protest",
+            "justice",
+            "Adama Traoré"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The interview directly addresses the protest for 'justice for Adama,' focusing on a controversial topic related to alleged police brutality and racial injustice."
+            }
+        ],
+        "description": "A female protester wearing a hijab and face mask is interviewed on the street by a reporter from Euronews. She states that they are protesting to demand justice for Adama, keeping the focus on the central controversial theme."
+    },
+    {
+        "scene_id": "scene_0006",
+        "start_time": "00:00:32",
+        "end_time": "00:00:37",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "grief",
+                "sadness"
+            ],
+            "themes": [
+                "police brutality",
+                "social justice",
+                "memorial"
+            ],
+            "actions": [
+                "remembering"
+            ],
+            "objects": [
+                "photograph"
+            ],
+            "characters": [
+                "George Floyd",
+                "Adama Traoré"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "News",
+        "language": "fr-FR",
+        "keywords": [
+            "George Floyd",
+            "Adama Traoré",
+            "police brutality",
+            "memorial"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene displays images of George Floyd and Adama Traoré, two prominent figures whose deaths in police custody are at the center of highly controversial global protests against racial injustice."
+            }
+        ],
+        "description": "Still photographs of George Floyd and Adama Traoré are shown while an interviewee's voiceover explicitly links their deaths, stating they died for the same reason. This direct comparison of two highly controversial cases makes the content very sensitive."
+    },
+    {
+        "scene_id": "scene_0007",
+        "start_time": "00:00:37",
+        "end_time": "00:00:41",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "fear",
+                "aggression"
+            ],
+            "themes": [
+                "police brutality",
+                "violence",
+                "restraint"
+            ],
+            "actions": [
+                "pinning",
+                "restraining"
+            ],
+            "objects": [
+                "police uniform"
+            ],
+            "characters": [
+                "police officers",
+                "suspect"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "News",
+        "language": "fr-FR",
+        "keywords": [
+            "police",
+            "restraint",
+            "pinning down",
+            "police brutality"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "A blurred image shows multiple police officers physically restraining and pinning a person to the ground. Although blurred, it clearly depicts an act of physical force and struggle, constituting moderate violence."
+            }
+        ],
+        "description": "A blurred image shows police officers physically restraining a person by pinning them to the ground. The voiceover discusses this specific restraint technique. The depiction of physical force by law enforcement, even though blurred, qualifies as moderate violence."
+    },
+    {
+        "scene_id": "scene_0008",
+        "start_time": "00:00:41",
+        "end_time": "00:00:48",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "police brutality",
+                "arrest",
+                "social justice"
+            ],
+            "actions": [
+                "displaying information"
+            ],
+            "objects": [
+                "photograph",
+                "text overlay"
+            ],
+            "characters": [
+                "Adama Traoré"
+            ],
+            "weather": [],
+            "brands": [
+                "Nike"
+            ]
+        },
+        "locations": [
+            "Paris, France"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "Adama Traoré",
+            "arrest",
+            "police restraint",
+            "Paris"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The on-screen text provides specific, controversial details about Adama Traoré's death, stating he was restrained face down by three police officers, which is the core of the controversial case."
+            }
+        ],
+        "description": "Still photos of Adama Traoré are displayed with text overlays that explain the circumstances of his 2016 arrest in Paris. The text specifies that he was restrained face down by three police officers, detailing the highly controversial actions central to the case. A Nike logo is visible on his jacket."
+    },
+    {
+        "scene_id": "scene_0009",
+        "start_time": "00:00:48",
+        "end_time": "00:00:53",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "unity",
+                "determination"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "police brutality"
+            ],
+            "actions": [
+                "protesting",
+                "holding signs"
+            ],
+            "objects": [
+                "protest sign",
+                "crowd"
+            ],
+            "characters": [
+                "protesters"
+            ],
+            "weather": [
+                "sunny",
+                "cloudy"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "News",
+        "language": "en-US",
+        "keywords": [
+            "protest",
+            "I can't breathe",
+            "Adama Traoré",
+            "police investigation"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 5,
+                "explanation": "The text overlay states that police officers admitted Adama Traoré told them 'I can't breathe,' a phrase now synonymous with deaths in police custody and a key point of contention. This direct claim of alleged negligence is highly controversial."
+            }
+        ],
+        "description": "Over footage of a massive protest, a text overlay reveals the highly controversial information that police officers admitted to investigators that Adama Traoré told them, 'I can't breathe.' This statement is a focal point of the global movement against police brutality and represents the peak of the controversy surrounding the case, warranting the highest score."
+    },
+    {
+        "scene_id": "scene_0010",
+        "start_time": "00:00:53",
+        "end_time": "00:00:58",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "grief",
+                "determination"
+            ],
+            "themes": [
+                "social justice",
+                "protest",
+                "police brutality"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing",
+                "protesting"
+            ],
+            "objects": [
+                "microphone"
+            ],
+            "characters": [
+                "Assa Traoré",
+                "protestors"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "news report",
+        "language": "fr-FR",
+        "keywords": [
+            "protest",
+            "social justice",
+            "police brutality",
+            "Adama Traoré",
+            "interview"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene features an interview discussing a death in police custody and links it to the George Floyd case, which are highly controversial and politically charged topics."
+            }
+        ],
+        "description": "In the middle of a large protest, Assa Traoré, sister of Adama Traoré, is interviewed. She speaks about the circumstances of her brother's death in police custody, drawing parallels to the death of George Floyd, a highly controversial topic."
+    },
+    {
+        "scene_id": "scene_0011",
+        "start_time": "00:00:53",
+        "end_time": "00:01:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "grief",
+                "determination",
+                "anger"
+            ],
+            "themes": [
+                "social justice",
+                "police brutality",
+                "protest"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing",
+                "protesting"
+            ],
+            "objects": [
+                "microphone"
+            ],
+            "characters": [
+                "Assa Traoré",
+                "protestors"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "news report",
+        "language": "fr-FR",
+        "keywords": [
+            "protest",
+            "social justice",
+            "police brutality",
+            "Adama Traoré",
+            "I can't breathe"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene directly quotes the phrase 'I can't breathe,' which is a highly charged slogan associated with protests against police brutality and is therefore controversial."
+            }
+        ],
+        "description": "Assa Traoré continues her interview at a protest, stating that both her brother and George Floyd said 'I can't breathe' before their deaths in police custody. The direct mention of this controversial phrase highlights the theme of police brutality."
+    },
+    {
+        "scene_id": "scene_0012",
+        "start_time": "00:01:04",
+        "end_time": "00:01:08",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "sadness"
+            ],
+            "themes": [
+                "death",
+                "police custody"
+            ],
+            "actions": [
+                "displaying text"
+            ],
+            "objects": [
+                "photograph"
+            ],
+            "characters": [
+                "Adama Traoré"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "death in custody",
+            "police station",
+            "Adama Traoré"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The on-screen text explicitly states that a person died at a police station, a subject matter that is central to controversial discussions about police conduct."
+            }
+        ],
+        "description": "A still photo of Adama Traoré is shown with on-screen text that reads, 'He lost consciousness in the police car and died at the police station.' This direct statement about a death in police custody is controversial."
+    },
+    {
+        "scene_id": "scene_0013",
+        "start_time": "00:01:08",
+        "end_time": "00:01:12",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "death",
+                "legal controversy",
+                "medical investigation"
+            ],
+            "actions": [
+                "displaying text"
+            ],
+            "objects": [
+                "photograph"
+            ],
+            "characters": [
+                "Adama Traoré"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "autopsy",
+            "medical report",
+            "legal investigation",
+            "Adama Traoré"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene's text mentions 'conflicting medical reports and two autopsies' in relation to a death in custody, highlighting a controversial and disputed investigation."
+            }
+        ],
+        "description": "Another photo of Adama Traoré is displayed, with text stating there were 'four years of conflicting medical reports and two autopsies.' This points to a lengthy and controversial investigation into the cause of his death."
+    },
+    {
+        "scene_id": "scene_0014",
+        "start_time": "00:01:12",
+        "end_time": "00:01:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [],
+            "themes": [
+                "police",
+                "legal system",
+                "justice"
+            ],
+            "actions": [
+                "standing"
+            ],
+            "objects": [
+                "police uniform",
+                "caution tape"
+            ],
+            "characters": [
+                "police officers"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "police",
+            "cleared of wrongdoing",
+            "legal verdict"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The text states that police officers were 'cleared of wrongdoing' in a death-in-custody case, a legal outcome that is the central point of the controversial protest."
+            }
+        ],
+        "description": "The video shows police officers behind caution tape, with an on-screen caption stating that the officers involved in Adama Traoré's death were cleared of wrongdoing. This verdict is a source of significant controversy."
+    },
+    {
+        "scene_id": "scene_0015",
+        "start_time": "00:01:16",
+        "end_time": "00:01:24",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "hopeful"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "peace"
+            ],
+            "actions": [
+                "protesting",
+                "marching",
+                "interviewing"
+            ],
+            "objects": [
+                "face mask",
+                "protest sign"
+            ],
+            "characters": [
+                "protestors"
+            ],
+            "weather": [
+                "sunny"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "news report",
+        "language": "fr-FR",
+        "keywords": [
+            "protest",
+            "peace",
+            "judicial system",
+            "crowd"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene depicts a large-scale public protest concerning the judicial system and alleged police brutality, which are inherently controversial subjects."
+            }
+        ],
+        "description": "Extensive footage shows a massive crowd of protestors in Paris. A woman is interviewed, stating that the protest is a call for peace and trust in the judicial system, addressing the controversial events that prompted the demonstration."
+    },
+    {
+        "scene_id": "scene_0016",
+        "start_time": "00:01:24",
+        "end_time": "00:01:36",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "determination",
+                "passionate"
+            ],
+            "themes": [
+                "social justice",
+                "racial equality",
+                "protest",
+                "Black Lives Matter"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "microphone",
+                "face mask"
+            ],
+            "characters": [
+                "protestor",
+                "reporter"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "euronews"
+            ]
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "Black Lives Matter",
+            "protest",
+            "justice",
+            "racial equality"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The interviewee explicitly says 'Black Lives Matter,' a phrase and movement that is central to ongoing, highly controversial social and political debates."
+            }
+        ],
+        "description": "A protestor is interviewed by a Euronews reporter, stating 'Black Lives Matter' and asserting that the protestors are 'good people who want justice.' The explicit reference to the controversial Black Lives Matter movement is prominent."
+    },
+    {
+        "scene_id": "scene_0017",
+        "start_time": "00:01:36",
+        "end_time": "00:01:48",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "serious"
+            ],
+            "themes": [
+                "news reporting",
+                "protest",
+                "civil disobedience"
+            ],
+            "actions": [
+                "reporting",
+                "speaking",
+                "protesting"
+            ],
+            "objects": [
+                "microphone",
+                "face mask"
+            ],
+            "characters": [
+                "reporter",
+                "protestors"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "euronews",
+                "Polo Ralph Lauren"
+            ]
+        },
+        "locations": [
+            "Paris",
+            "courthouse"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "protest",
+            "news report",
+            "civil disobedience",
+            "courthouse"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The news reporter explicitly states that the large protest is 'prohibited' by police, highlighting the controversial nature of the unauthorized gathering and civil disobedience."
+            }
+        ],
+        "description": "A Euronews reporter, standing in a large crowd outside a courthouse in Paris, states that the protest is officially prohibited by police. He notes that despite the ban, thousands of people have gathered, making the act of protest itself a form of controversial civil disobedience."
+    },
+    {
+        "scene_id": "scene_0018",
+        "start_time": "00:01:48",
+        "end_time": "00:02:00",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "serious"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "racial equality",
+                "police brutality"
+            ],
+            "actions": [
+                "protesting",
+                "reporting",
+                "holding signs"
+            ],
+            "objects": [
+                "protest signs",
+                "microphone",
+                "face mask"
+            ],
+            "characters": [
+                "reporter",
+                "protestors"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": [
+                "euronews",
+                "Polo Ralph Lauren"
+            ]
+        },
+        "locations": [
+            "Paris",
+            "courthouse"
+        ],
+        "genre": "news report",
+        "language": "en-US",
+        "keywords": [
+            "Black Lives Matter",
+            "We can't breathe",
+            "George Floyd",
+            "Adama Traoré",
+            "protest"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene explicitly mentions highly controversial protest slogans ('Black Lives Matter,' 'We can't breathe') and links the event to the contentious cases of George Floyd and Adama Traoré."
+            }
+        ],
+        "description": "A reporter describes the angry crowd and their protest signs, which include the controversial phrases 'Black Lives Matter' and 'We can't breathe.' He directly links the protest in France to the contentious deaths of George Floyd in the US and Adama Traoré locally."
+    },
+    {
+        "scene_id": "scene_0019",
+        "start_time": "00:02:00",
+        "end_time": "00:02:18",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "sadness",
+                "seriousness",
+                "determination"
+            ],
+            "themes": [
+                "racism",
+                "slavery",
+                "colonialism",
+                "social justice"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "face mask"
+            ],
+            "characters": [
+                "protestor"
+            ],
+            "weather": [
+                "overcast"
+            ],
+            "brands": []
+        },
+        "locations": [
+            "Paris",
+            "city street"
+        ],
+        "genre": "news report",
+        "language": "fr-FR",
+        "keywords": [
+            "racism",
+            "slavery",
+            "colonialism",
+            "protest",
+            "minorities"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The interviewee explicitly discusses systemic racism by linking it to the historical and extremely controversial topics of slavery and colonialism."
+            }
+        ],
+        "description": "An interviewee at the protest argues that the issue of racism is not just an American problem. He traces its roots to the highly sensitive and controversial historical legacies of slavery and colonialism, which he claims have created institutional contempt for minorities that persists today."
+    },
+    {
+        "scene_id": "scene_0020",
+        "start_time": "00:02:18",
+        "end_time": "00:02:26",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "sadness",
+                "seriousness"
+            ],
+            "themes": [
+                "racism",
+                "social injustice",
+                "protest"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "face mask"
+            ],
+            "characters": [
+                "protester",
+                "man"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "street",
+            "protest"
+        ],
+        "genre": "documentary",
+        "language": "fr-FR",
+        "keywords": [
+            "racism",
+            "institutional racism",
+            "protest",
+            "interview",
+            "social justice"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene features a direct discussion of sensitive topics such as institutional racism and people dying because of their skin color."
+            }
+        ],
+        "description": "A young black man, wearing a face mask in a crowd, gives an interview. He discusses institutional racism and how people are still dying because of their skin color. This discussion of a sensitive social issue justifies the controversy score."
+    },
+    {
+        "scene_id": "scene_0021",
+        "start_time": "00:02:26",
+        "end_time": "00:02:40",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "seriousness",
+                "frustration"
+            ],
+            "themes": [
+                "police relations",
+                "personal testimony",
+                "racial profiling"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "backpack"
+            ],
+            "characters": [
+                "man",
+                "protester"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "street",
+            "protest"
+        ],
+        "genre": "documentary",
+        "language": "fr-FR",
+        "keywords": [
+            "police altercation",
+            "racial profiling",
+            "personal story",
+            "Paris suburbs"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene contains a personal account of an altercation with police, which implies racial profiling, a highly controversial topic."
+            }
+        ],
+        "description": "A young black man recounts his personal experience, stating that despite having a stable job and no criminal record, he was involved in an altercation with the police in his neighborhood. The topic of police relations and potential racial profiling is controversial."
+    },
+    {
+        "scene_id": "scene_0022",
+        "start_time": "00:02:40",
+        "end_time": "00:02:57",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration",
+                "injustice"
+            ],
+            "themes": [
+                "racial profiling",
+                "police relations",
+                "social injustice"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "backpack"
+            ],
+            "characters": [
+                "man",
+                "protester"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "street",
+            "protest"
+        ],
+        "genre": "documentary",
+        "language": "fr-FR",
+        "keywords": [
+            "racial profiling",
+            "police",
+            "social injustice",
+            "grouped together"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The speaker explicitly claims he was unfairly lumped in with others by the police because he is black, a direct and controversial accusation of racial profiling."
+            }
+        ],
+        "description": "The man continues his interview, explaining that during an altercation with police, he felt he was unfairly grouped with others simply because he was black and present in the neighborhood. This direct claim of racial profiling is controversial."
+    },
+    {
+        "scene_id": "scene_0023",
+        "start_time": "00:02:57",
+        "end_time": "00:03:11",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration",
+                "passion"
+            ],
+            "themes": [
+                "social commentary",
+                "inequality",
+                "French values"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "sunglasses"
+            ],
+            "characters": [
+                "man",
+                "protester"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "documentary",
+        "language": "fr-FR",
+        "keywords": [
+            "Liberty, Equality, Fraternity",
+            "social injustice",
+            "French motto",
+            "inequality"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The scene involves critical social and political commentary questioning France's national motto, which is a sensitive and controversial subject."
+            }
+        ],
+        "description": "A man wearing sunglasses criticizes the lack of 'Liberty, Equality, Fraternity' in French society. He questions the application of the national motto, which constitutes sensitive social and political commentary."
+    },
+    {
+        "scene_id": "scene_0024",
+        "start_time": "00:03:11",
+        "end_time": "00:03:16",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "chaos",
+                "tension"
+            ],
+            "themes": [
+                "protest",
+                "riot",
+                "civil unrest"
+            ],
+            "actions": [
+                "gathering",
+                "burning"
+            ],
+            "objects": [
+                "fire",
+                "bonfire"
+            ],
+            "characters": [
+                "protesters",
+                "crowd"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "city street",
+            "protest"
+        ],
+        "genre": "documentary",
+        "language": "en-US",
+        "keywords": [
+            "fire",
+            "riot",
+            "protest",
+            "clashes",
+            "civil unrest"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 2,
+                "explanation": "The scene shows a large fire burning in the street during a protest, which is an act of property destruction and indicates civil unrest."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The depiction of a riot with a large fire is a highly controversial image of civil unrest."
+            }
+        ],
+        "description": "At night, a large fire burns in the street, surrounded by a crowd of protesters. This scene depicts property destruction and civil unrest, which is violent and controversial."
+    },
+    {
+        "scene_id": "scene_0025",
+        "start_time": "00:03:16",
+        "end_time": "00:03:27",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "chaos",
+                "fear",
+                "panic"
+            ],
+            "themes": [
+                "police action",
+                "riot",
+                "civil unrest"
+            ],
+            "actions": [
+                "running",
+                "firing tear gas"
+            ],
+            "objects": [
+                "riot gear",
+                "shields",
+                "tear gas",
+                "smoke"
+            ],
+            "characters": [
+                "police",
+                "protesters",
+                "riot police"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "city street",
+            "protest"
+        ],
+        "genre": "documentary",
+        "language": "en-US",
+        "keywords": [
+            "tear gas",
+            "riot police",
+            "protest",
+            "clash",
+            "civil unrest",
+            "running"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The scene explicitly shows police in riot gear using force (firing tear gas) against protesters, causing a chaotic and panicked reaction."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "Depicting police using force, such as tear gas, against civilian protesters is a highly controversial act."
+            }
+        ],
+        "description": "Police in riot gear fire tear gas into a crowd of protesters, causing people to panic and run through the smoke-filled street. The use of force by police against civilians is a violent and controversial act."
+    },
+    {
+        "scene_id": "scene_0026",
+        "start_time": "00:03:27",
+        "end_time": "00:03:47",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension",
+                "urgency"
+            ],
+            "themes": [
+                "news reporting",
+                "riot",
+                "civil unrest"
+            ],
+            "actions": [
+                "reporting",
+                "speaking"
+            ],
+            "objects": [
+                "microphone",
+                "fire",
+                "smoke",
+                "trash bin"
+            ],
+            "characters": [
+                "reporter",
+                "protesters",
+                "police"
+            ],
+            "weather": [],
+            "brands": [
+                "euronews"
+            ]
+        },
+        "locations": [
+            "city street",
+            "Paris"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "news report",
+            "riot",
+            "fire",
+            "tear gas",
+            "protest",
+            "Palais de Justice"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The news report describes and shows ongoing acts of violence, including arson (burning bins) and protesters throwing rocks and gas canisters at police."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene is a news report covering a violent protest, clashes between police and civilians, and significant civil unrest, all of which are highly controversial."
+            }
+        ],
+        "description": "A news reporter describes a chaotic scene of a protest in Paris, with fires burning in the street and smoke in the background. He explicitly mentions demonstrators clashing with police, throwing rocks and gas canisters, and setting bins on fire, detailing acts of violence and civil unrest."
+    },
+    {
+        "scene_id": "scene_0027",
+        "start_time": "00:03:47",
+        "end_time": "00:04:00",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "anger",
+                "frustration",
+                "cynicism"
+            ],
+            "themes": [
+                "police brutality",
+                "racism",
+                "protest"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing"
+            ],
+            "objects": [
+                "sunglasses"
+            ],
+            "characters": [
+                "man",
+                "protester"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "documentary",
+        "language": "fr-FR",
+        "keywords": [
+            "police brutality",
+            "tear gas",
+            "racism",
+            "peaceful protest",
+            "slur"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "hate_speech",
+                "score": 2,
+                "explanation": "The speaker critically references a racial slur ('bamboulas') that he alleges police use. Although used in a critical context, the presence of the slur warrants a score."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene contains strong allegations of police brutality (gassing peaceful protesters) and racism (use of racial slurs), which are extremely controversial topics."
+            }
+        ],
+        "description": "A protester claims that police used tear gas on them during a peaceful demonstration. He critically mentions a racial slur ('bamboulas') he alleges is used to describe them, raising issues of hate speech and making this a highly controversial statement about police conduct."
+    },
+    {
+        "scene_id": "scene_0028",
+        "start_time": "00:04:00",
+        "end_time": "00:04:06",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "tension"
+            ],
+            "themes": [
+                "police statement",
+                "official response",
+                "racism allegations"
+            ],
+            "actions": [
+                "standing guard"
+            ],
+            "objects": [
+                "riot gear",
+                "helmets",
+                "shields"
+            ],
+            "characters": [
+                "riot police"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "city street"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "riot police",
+            "official statement",
+            "racism denial",
+            "protest"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 2,
+                "explanation": "The on-screen text shows an official police denial of racism, which is a central and controversial part of the ongoing social debate."
+            }
+        ],
+        "description": "The scene shows riot police standing on a street while on-screen text presents the official police statement condemning the protest and denying accusations of racism within the force. This addresses a controversial topic."
+    },
+    {
+        "scene_id": "scene_0029",
+        "start_time": "00:04:06",
+        "end_time": "00:04:22",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "frustration",
+                "exhaustion",
+                "anger"
+            ],
+            "themes": [
+                "social commentary",
+                "systemic racism",
+                "protest",
+                "civil unrest"
+            ],
+            "actions": [
+                "speaking",
+                "burning"
+            ],
+            "objects": [
+                "fire",
+                "trash can",
+                "scooters",
+                "barricade"
+            ],
+            "characters": [
+                "activist",
+                "protesters"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "home office",
+            "city street"
+        ],
+        "genre": "news",
+        "language": "en-US",
+        "keywords": [
+            "systemic racism",
+            "protest",
+            "arson",
+            "vicious cycle",
+            "civil unrest",
+            "burning scooters"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "The scene shows significant and deliberate property destruction, including a large pile of scooters set on fire in the middle of a street, which constitutes an act of arson."
+            },
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The combination of expert commentary on systemic racism with explicit images of a violent riot and arson makes the scene highly controversial."
+            }
+        ],
+        "description": "An activist speaks about the exhaustion and frustration of systemic racism, while visuals show significant property destruction. A large pile of scooters and trash is set ablaze in the middle of a street, clearly depicting acts of violence associated with a riot, a highly controversial subject."
+    },
+    {
+        "scene_id": "scene_0030",
+        "start_time": "00:04:22",
+        "end_time": "00:04:32",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "somber",
+                "serious",
+                "tense"
+            ],
+            "themes": [
+                "social justice",
+                "police brutality",
+                "racial inequality",
+                "protest"
+            ],
+            "actions": [
+                "mourning",
+                "gathering",
+                "policing",
+                "restraining"
+            ],
+            "objects": [
+                "flowers",
+                "photograph",
+                "mural",
+                "riot shield",
+                "helmet",
+                "police uniform"
+            ],
+            "characters": [
+                "George Floyd",
+                "protesters",
+                "police officers",
+                "military police"
+            ],
+            "weather": [],
+            "brands": []
+        },
+        "locations": [
+            "street",
+            "memorial site"
+        ],
+        "genre": "documentary",
+        "language": "en-US",
+        "keywords": [
+            "Black Lives Matter",
+            "George Floyd",
+            "police brutality",
+            "protest",
+            "racial justice",
+            "riot police"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "violence",
+                "score": 3,
+                "explanation": "Depicts police in full riot gear and officers physically restraining an individual on the ground, implying physical conflict and the use of force."
+            },
+            {
+                "category": "controversy",
+                "score": 4,
+                "explanation": "The scene explicitly addresses the highly sensitive and controversial topics of police brutality, racial inequality, and the Black Lives Matter movement, referencing the death of George Floyd."
+            }
+        ],
+        "description": "This scene is a montage showing a memorial for George Floyd with his portrait and flowers, followed by images of police and military police in full riot gear. It also includes a brief shot of two officers kneeling over and restraining a person on the ground at night. The narration discusses the disproportionate rate at which Black people are killed by police in America, highlighting themes of police brutality and racial injustice."
+    },
+    {
+        "scene_id": "scene_0031",
+        "start_time": "00:04:32",
+        "end_time": "00:04:45",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "unified",
+                "serious",
+                "determined"
+            ],
+            "themes": [
+                "protest",
+                "social justice",
+                "civil rights",
+                "racial inequality"
+            ],
+            "actions": [
+                "gathering",
+                "protesting",
+                "standing"
+            ],
+            "objects": [
+                "protest sign",
+                "face mask",
+                "camera"
+            ],
+            "characters": [
+                "protesters",
+                "crowd"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": [
+                "A.P.C."
+            ]
+        },
+        "locations": [
+            "city square",
+            "urban area"
+        ],
+        "genre": "documentary",
+        "language": "en-US",
+        "keywords": [
+            "protest",
+            "demonstration",
+            "crowd",
+            "social movement",
+            "racial inequality",
+            "France"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene shows a large-scale protest related to racial issues, which is a sensitive and controversial topic. The gathering itself is peaceful, but the underlying theme is one of social conflict."
+            }
+        ],
+        "description": "A large, dense crowd of protesters gathers in a modern city plaza during sunset. Many people are wearing face masks. The narration explains that while official race data is not collected in France, there is a widespread acknowledgment that racial inequality is a significant problem that needs to be addressed, similar to the rest of Europe."
+    },
+    {
+        "scene_id": "scene_0032",
+        "start_time": "00:04:45",
+        "end_time": "00:05:04",
+        "odk_id": "None",
+        "labels": {
+            "emotions": [
+                "passionate",
+                "urgent",
+                "determined"
+            ],
+            "themes": [
+                "activism",
+                "social change",
+                "protest",
+                "call to action",
+                "accountability"
+            ],
+            "actions": [
+                "speaking",
+                "interviewing",
+                "marching",
+                "protesting",
+                "holding signs"
+            ],
+            "objects": [
+                "protest sign",
+                "backpack",
+                "face mask",
+                "barricade"
+            ],
+            "characters": [
+                "interviewee",
+                "protesters",
+                "activists"
+            ],
+            "weather": [
+                "clear"
+            ],
+            "brands": [
+                "RIPNDIP",
+                "The North Face"
+            ]
+        },
+        "locations": [
+            "city street",
+            "indoor setting"
+        ],
+        "genre": "documentary",
+        "language": "en-US",
+        "keywords": [
+            "protest",
+            "activism",
+            "social justice",
+            "call to action",
+            "Adama Traoré",
+            "march"
+        ],
+        "ad_marker_type": "SCTE-35",
+        "sensitive_score": [
+            {
+                "category": "controversy",
+                "score": 3,
+                "explanation": "The scene features a passionate call to action regarding racial injustice and shows large-scale protests with signs referencing specific controversial cases, such as 'Justice for Adama,' directly engaging with sensitive social and political issues."
+            }
+        ],
+        "description": "The scene alternates between a video interview with a woman passionately calling for systemic change and accountability, and footage of a massive protest march. Crowds of people are seen walking and holding signs, including one that reads '#JUSTICE POUR ADAMA' and another that translates to 'Without Justice, Revolt.' The interviewee urges people to take action to protect people of color."
+    }
+]
